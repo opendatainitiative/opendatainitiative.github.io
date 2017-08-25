@@ -1,0 +1,13 @@
+.home {
+  ul li {
+    list-style-type: upper-roman;
+    margin-bottom: 60px;
+    font-size: 30px;
+    padding-left: 30px;
+
+    a {
+      color: $black;
+    }
+  }
+}
+

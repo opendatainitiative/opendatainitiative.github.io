@@ -1,0 +1,33 @@
+.navbar {
+  .navbar-brand img {
+    max-height: 100% !important;
+    width: auto;
+  }
+
+  .navbar-item {
+    font-size: 12px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #666;
+    letter-spacing: .12em;
+
+    &:hover {
+      background: transparent;
+      color: rgba(102,102,102,.4);
+    }
+  }
+}
+
+@media screen and (min-width: 1008px) {
+  .navbar {
+    margin-top: 30px;
+
+    .navbar-menu {
+      padding-right: 112px;
+    }
+
+    .navbar-end {
+      margin-right: auto;
+    }
+  }
+}

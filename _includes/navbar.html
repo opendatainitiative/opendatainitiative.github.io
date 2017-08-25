@@ -1,0 +1,21 @@
+<nav class="navbar">
+  <div class="container">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="{{'/' | relative_url}}">
+        <img src="{{'/assets/img/logo.png' | relative_url}}" alt="The Open Data Initiative Logo">
+      </a>
+
+      <div class="navbar-burger burger" data-target="nav">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+
+    <div id="nav" class="navbar-menu">
+      <div class="navbar-end">
+        {% include nav-items.html %}
+      </div>
+    </div>
+  </div>
+</nav>
