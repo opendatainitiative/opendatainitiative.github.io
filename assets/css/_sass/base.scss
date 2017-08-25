@@ -42,6 +42,6 @@ p {
 a {
 
   &:hover {
-    color: rgba(102,102,102,.4);
+    color: $link-hover-color;
   }
 }

@@ -3,10 +3,15 @@
     list-style-type: upper-roman;
     margin-bottom: 60px;
     font-size: 30px;
-    padding-left: 30px;
+    padding-left: 20px;
+    font-family: 'American Typewriter';
 
     a {
       color: $black;
+
+      &:hover {
+        color: $link-hover-color;
+      }
     }
   }
 }
