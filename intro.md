@@ -6,7 +6,7 @@ title: Intro
 
 # Intro
 
-The Open Data Initiative, in partnership with the GFC Foundation, is an ongoing effort to establish a collaborative network of influencers focused on improving state financial checkbook standards.
+Lincoln Network's Open Data Initiative is an ongoing effort to establish a collaborative network of influencers focused on improving state financial checkbook standards.
 
 Whereas previous data transparency efforts have largely focused on establishing a policy framework, our network of technology experts will audit implementation efforts across the states in order to help establish standards and best practices.
 
