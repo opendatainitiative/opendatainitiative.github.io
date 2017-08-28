@@ -1,4 +1,9 @@
 .navbar {
+  .navbar-brand {
+    overflow-x: inherit;
+    overflow-y: inherit;
+  }
+
   .navbar-brand img {
     max-height: 100% !important;
     width: auto;
