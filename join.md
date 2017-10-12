@@ -14,5 +14,5 @@ We launched the first phase of the project over the summer of 2017, investigatin
 
 Currently, we are talking to groups like the California Policy Center, the Data Coalition, and government officials about the financial transparancy problems that plague governments throughout the country. We want to understand your financial transparency interests, failures, and successes. Please complete this survey by answering your transparancy interests <https://www.surveymonkey.com/r/L9HS2S8>. 
 
-If you would like to further participate by reviewing your financial transparency and/or joining a 2018 financial transparancy working group, please go to <http://wiki.opendatainitiative.io/.> For more immediate questions, email us at <join@opendatainitiative.io>
+If you would like to further participate by reviewing your financial transparency and/or joining a 2018 financial transparancy working group, please go to <http://wiki.opendatainitiative.io/>. For more immediate questions, email us at <join@opendatainitiative.io>
 .
