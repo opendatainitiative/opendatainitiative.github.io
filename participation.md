@@ -26,12 +26,15 @@ Sponsorship means money, membership means non-money support, contribution means 
 ## Individual Sponsorship: 
 * TBD
 
+## Event Sponsorship:
+* URL to Event section
+
 ## Company membership:  
 ### Requirements:
 * Send people to the ODI Summits
 * Annually, attend at least one webinar
 * Actively participate in open data discussions over the mailing list(s) and working groups
-* Member is expected to provide sympathetic contributions like ODI administration (Lincoln), co-sponsored events (CPC), free subscription licenses (Datrm.in), blog posts, articles, and/or hackathons
+* Member is expected to provide sympathetic contributions like ODI administration, co-sponsored events, free subscription licenses, blog posts, articles, and/or hackathons
 
 ### Benefits:
 * Logo on on website under the Community Membership section
