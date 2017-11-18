@@ -7,7 +7,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 * Annual $25K
 
 ### Benefits:
-* Logo on on website
+* Logo on on website under the Community Corporate Sponsorship section
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
 * Access to ODI corporate badge for marketing purposes
@@ -18,7 +18,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 * Annual $10K 
 
 ### Benefits:
-* Logo on on website
+* Logo on on website under the Community Startup Sponsorship section
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
 * Access to ODI startup badge for marketing purposes
@@ -28,7 +28,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 
 ## Company membership:  
 ### Benefits:
-* logo on the ODI website Member section, 
+* Logo on on website under the Community Membership section
 * free access to ODI webinars
 * Organization write up on the ODI website similar to a User Story or commercial company review
 * free tickets to ODI events
