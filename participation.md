@@ -2,7 +2,6 @@
 Sponsorship means money, membership means non-money support, contribution means doing work
 
 ## Corporate Sponsorship
-
 ### Requirements
 * Annual $25K
 
@@ -13,7 +12,6 @@ Sponsorship means money, membership means non-money support, contribution means 
 * Access to ODI corporate badge for marketing purposes
 
 ## Startup Sponsorship
-
 ### Requirements
 * Annual $10K 
 
@@ -32,8 +30,8 @@ Sponsorship means money, membership means non-money support, contribution means 
 ## Company membership:  
 ### Requirements:
 * Send people to the ODI Summits
-* Annually, attend at least one webinar
-* Actively participate in open data discussions over the mailing list(s) and working groups
+* Annually, attend at least one event
+* Actively participate in discussions over the ODI mailing list(s) and working groups
 * Member is expected to provide sympathetic contributions like ODI administration, co-sponsored events, free subscription licenses, blog posts, articles, and/or hackathons
 
 ### Benefits:
