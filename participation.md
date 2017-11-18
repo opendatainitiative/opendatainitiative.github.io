@@ -3,12 +3,12 @@ Sponsorship means money, membership means non-money support, contribution means 
 
 ## Company sponsorship: 
 
-### Annual Corporate Sponsorship
+### Corporate Sponsorship
 
-### Requirements
-* $25K
+#### Requirements
+* Annual $25K
 
-### Benefits:
+#### Benefits:
 * Logo on on website
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
@@ -16,10 +16,10 @@ Sponsorship means money, membership means non-money support, contribution means 
 
 ### Startup Sponsorship
 
-### Requirements
-* $10K 
+#### Requirements
+* Annual $10K 
 
-### Benefits:
+#### Benefits:
 * Logo on on website
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
