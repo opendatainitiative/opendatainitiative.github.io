@@ -27,6 +27,12 @@ Sponsorship means money, membership means non-money support, contribution means 
 * TBD
 
 ## Company membership:  
+### Requirements:
+* send people to the ODI Summits
+* Annually, attend at least one webinar
+* actively participate in open data discussions over the mailing list(s) and working groups
+* Member is expected to provide sympathetic contributions like ODI administration (Lincoln), co-sponsored events (CPC), free subscription licenses (Datrm.in), blog posts, articles, and/or hackathons
+
 ### Benefits:
 * Logo on on website under the Community Membership section
 * free access to ODI webinars
@@ -35,27 +41,27 @@ Sponsorship means money, membership means non-money support, contribution means 
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and working groups (ODI will not sell or permit access to the mailing list membership for marketing purposes)
 
-### Requirements:
-* send people to the ODI Summits
-* Annually, attend at least one webinar
-* actively participate in open data discussions over the mailing list(s) and working groups
-* Member is expected to provide sympathetic contributions like ODI administration (Lincoln), co-sponsored events (CPC), free subscription licenses (Datrm.in), blog posts, articles, and/or hackathons
-
 ## Individual membership: 
+### Requirements:
+* joins the email mailing lists general and announce
+
 ### Benefits:
 * free tickets to ODI events
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and working groups (ODI will not sell or permit access to the mailing list membership for marketing purposes)
 
-### Requirements:
-* joins the email mailing lists general and announce
+## Company contributor:
+### Requirements
+
+### Benefits
 
 ## Individual contributor: 
-* contributes to any of the ODI repos once a annual year
-* free access to ODI summits
-* other benefits TBD 
-
 ### Requirements:
 * (I)CLA or single use. 
 * Apache 2.0 https://opensource.org/licenses/Apache-2.0  for code
 * CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ for documentation
+
+### Benefits
+* contributes to any of the ODI repos once a annual year
+* free access to ODI summits
+* other benefits TBD 
