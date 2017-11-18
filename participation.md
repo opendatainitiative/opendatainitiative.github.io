@@ -28,40 +28,41 @@ Sponsorship means money, membership means non-money support, contribution means 
 
 ## Company membership:  
 ### Requirements:
-* send people to the ODI Summits
+* Send people to the ODI Summits
 * Annually, attend at least one webinar
-* actively participate in open data discussions over the mailing list(s) and working groups
+* Actively participate in open data discussions over the mailing list(s) and working groups
 * Member is expected to provide sympathetic contributions like ODI administration (Lincoln), co-sponsored events (CPC), free subscription licenses (Datrm.in), blog posts, articles, and/or hackathons
 
 ### Benefits:
 * Logo on on website under the Community Membership section
-* free access to ODI webinars
+* Free access to ODI webinars
 * Organization write up on the ODI website similar to a User Story or commercial company review
-* free tickets to ODI events
+* Free tickets to ODI events
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and working groups (ODI will not sell or permit access to the mailing list membership for marketing purposes)
 
 ## Individual membership: 
 ### Requirements:
-* joins the email mailing lists general and announce
+* Joins the email mailing lists general and announce
 
 ### Benefits:
-* free tickets to ODI events
+* Free tickets to ODI events
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and working groups (ODI will not sell or permit access to the mailing list membership for marketing purposes)
 
 ## Company contributor:
 ### Requirements
+* Signs the ODI CCLA
 
 ### Benefits
+* Logo on on website under the Community Contributor section
 
 ## Individual contributor: 
 ### Requirements:
-* (I)CLA or single use. 
-* Apache 2.0 https://opensource.org/licenses/Apache-2.0  for code
-* CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/ for documentation
+* Contributes to any of the ODI repos once a annual year
+* Either signs the ICLA or single use license
+* Code is licensed by Apache 2.0 https://opensource.org/licenses/Apache-2.0
+* Documentation is licensed by CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
 ### Benefits
-* contributes to any of the ODI repos once a annual year
-* free access to ODI summits
-* other benefits TBD 
+* Free access to ODI summits
