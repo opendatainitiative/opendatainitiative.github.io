@@ -1,25 +1,23 @@
 # Levels of Participation
 Sponsorship means money, membership means non-money support, contribution means doing work
 
-## Company sponsorship: 
+## Corporate Sponsorship
 
-### Corporate Sponsorship
-
-#### Requirements
+### Requirements
 * Annual $25K
 
-#### Benefits:
+### Benefits:
 * Logo on on website
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
 * Access to ODI corporate badge for marketing purposes
 
-### Startup Sponsorship
+## Startup Sponsorship
 
-#### Requirements
+### Requirements
 * Annual $10K 
 
-#### Benefits:
+### Benefits:
 * Logo on on website
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
