@@ -9,8 +9,8 @@ title: Events
 <ul>
     {% for post in site.posts %}
           <li>
-           <br /> blah
             {% if page.category == 'events' %}
+                <br /> blahh
                 <a href="{{ post.title }}">({{ post.url }})</a>
                 {{ post.excerpt }}
             {% endif %}
