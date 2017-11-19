@@ -4,7 +4,7 @@ permalink: /learn
 title: Learn
 ---
 
-# Learn
+# Learn About ODI
 
 ## Mission
 The Open Data Initiative (ODI) works to ensure government finance data is consistent, transparent, and easily available.
