@@ -10,5 +10,5 @@ title: Events
       {% if page.category == 'Events' %}
         * [{{ post.title }}]({{ post.url }})
           {{ post.excerpt }}
-      {% endif % }
+      {% endif %}
 {% endfor %}
