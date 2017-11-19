@@ -27,6 +27,6 @@ ODI seeks to achieve its objectives through:
 
 [History of ODI So Far]({{ site.baseurl }}/history)
 
-[![get ODI Recommeded Tools({{ site.baseurl }}/assets/img/logo.png)]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)
+[text here]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)
 
 [![get ODI Handout({{ site.baseurl }}/assets/img/logo.png)]({{ site.baseurl }}/assets/doc/ODI_Handout.pdf)
