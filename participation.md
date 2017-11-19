@@ -1,3 +1,9 @@
+---
+layout: default
+permalink: /participation
+title: Participation
+---
+
 # Levels of Participation
 Sponsorship means money, membership means non-money support, contribution means doing work
 
