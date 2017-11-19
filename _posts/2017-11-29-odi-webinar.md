@@ -1,8 +1,9 @@
 ---
 layout: default
 title:  "November 2017 ODI Webinar"
-date:   2017-11-29 19:00 -0800
+date:   2017-11-29 12:00 -0800
 categories: events
+permalink: /events:year:month:day:title/
 ---
 On November 29th, Lincoln is hosting a webinar with Open Data expert Sean Roberts all about the Open Data Initiative, why it matters, and how you can get involved. Viewers will have the chance to ask questions during Q&A. 
 Sean will overview of the current state of open data in the US before diving into ODI’s projects: from our current pilot program (in partnership with the California Policy Center and the Data Coalition) to future plans for improving government data management practices.
