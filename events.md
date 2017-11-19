@@ -6,8 +6,7 @@ title: Events
 
 # Events
       
-{% if post.categories == "events" %}
+{% for post in site.posts[page.category.events] %}
       * [{{ post.title }}]({{ post.url }})
       {{ post.excerpt }}
-      {{ page.next }}
-{% endif %}
+{% endfor %}
