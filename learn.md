@@ -31,3 +31,5 @@ ODI seeks to achieve its objectives through:
 [![get ODI Recommeded Tools]({{ site.baseurl }}/assets/img/odi_recommended_tools.png)]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)
 
 [![get ODI Handout]({{ site.baseurl }}/assets/img/odi_handout.png)]({{ site.baseurl }}/assets/doc/ODI_Handout.pdf)
+
+[![get ODI Best Practices]({{ site.baseurl }}/assets/img/odi_best_practices.png)]({{ site.baseurl }}/assets/doc/ODI_Best_Practices.pdf)
