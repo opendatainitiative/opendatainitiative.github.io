@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "November 2017 ODI Webinar"
 date:   2017-11-29 19:00 -0800
 categories: events
