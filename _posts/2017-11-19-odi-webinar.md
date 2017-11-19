@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "November 2017 ODI Webinar"
-date:   2017-11-29 12:00 -0800
+date:   2017-11-19 08:00 -0800
 categories: events
 permalink: /events/:year-:month-:day-:title/
 ---
