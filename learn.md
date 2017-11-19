@@ -25,11 +25,12 @@ ODI seeks to achieve its objectives through:
 * Persistent leadership on collaboration and transparency
 * Providing the infrastructure to maintain the open data community
 
-[History of ODI So Far]({{ site.baseurl }}/history)
-
+[![ODI History]({{ site.baseurl }}/assets/img/odi_history.png)]({{ site.baseurl }}/history)
 
 [![get ODI Recommeded Tools]({{ site.baseurl }}/assets/img/odi_recommended_tools.png)]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)
 
 [![get ODI Handout]({{ site.baseurl }}/assets/img/odi_handout.png)]({{ site.baseurl }}/assets/doc/ODI_Handout.pdf)
 
 [![get ODI Best Practices]({{ site.baseurl }}/assets/img/odi_best_practices.png)]({{ site.baseurl }}/assets/doc/ODI_Best_Practices.pdf)
+
+[![ODI News]({{ site.baseurl }}/assets/img/odi_news.png)]({{ site.baseurl }}/news)
