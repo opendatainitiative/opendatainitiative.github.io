@@ -6,7 +6,11 @@ title: Users
 
 # User Stories
       
-{% for post in site.posts[page.category.users] %}
-      * [{{ post.title }}]({{ post.url }})
-      {{ post.excerpt }}
-{% endfor %}
+<ul>
+    {% for post in site.categories.users %}
+          <li>
+                <a href="{{ post.title }}">({{ post.url }})</a>
+                {{ post.excerpt }}
+          </li>
+    {% endfor %}
+</ul>
