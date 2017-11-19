@@ -5,10 +5,14 @@ title: Events
 ---
 
 # Events
-      
-{% for post in site.posts %}
-      {% if page.category == 'events' %}
-        * [{{ post.title }}]({{ post.url }})
-          {{ post.excerpt }}
-      {% endif %}
-{% endfor %}
+
+<ul>
+    {% for post in site.posts %}
+          <li>
+            {% if page.category == 'events' %}
+                <a href="{{ post.title }}">({{ post.url }})</a>
+                {{ post.excerpt }}
+            {% endif %}
+          </li>
+    {% endfor %}
+</ul>
