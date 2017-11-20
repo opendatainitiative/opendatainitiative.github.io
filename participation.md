@@ -4,18 +4,22 @@ permalink: /participation
 title: Participation
 ---
 
-# Levels of Participation
-Sponsorship means money, membership means non-money support, contribution means doing work
+<h1>Levels of Participation</h1>
+<br>Sponsorship means money, membership means non-money support, contribution means doing work
 
 <h2><a name=sponsorship>Corporate Sponsorship:</a></h2>
-### Requirements
-* Annual $25K
+<h3>Requirements</h3>
+<ul>
+  <li>Annual $25K</li>
+</ul>
 
-### Benefits:
-* Logo on on website under the Community Corporate Sponsorship section
-* User Story and/or profile on the ODI website
-* Early access to event sponsorship, before non-annual sponsors
-* Access to ODI corporate badge for marketing purposes
+<h3>Benefits:</h3>
+<ul>
+  <li>Logo on on website under the Community Corporate Sponsorship section</li>
+  <li>User Story and/or profile on the ODI website</li>
+  <li>Early access to event sponsorship, before non-annual sponsors</li>
+  <li>Access to ODI corporate badge for marketing purposes</li>
+</ul>
 
 ## Startup Sponsorship
 ### Requirements
