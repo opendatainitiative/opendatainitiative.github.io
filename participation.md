@@ -4,22 +4,18 @@ permalink: /participation
 title: Participation
 ---
 
-<h1>Levels of Participation</h1>
-<br>Sponsorship means money, membership means non-money support, contribution means doing work
+# Levels of Participation
+Sponsorship means money, membership means non-money support, contribution means doing work
 
 <h2><a name="sponsorship">Corporate Sponsorship:</a></h2>
-<h3>Requirements</h3>
-<ul>
-  <li>Annual $25K</li>
-</ul>
+### Requirements
+* Annual $25K
 
-<h3>Benefits:</h3>
-<ul>
-  <li>Logo on on website under the Community Corporate Sponsorship section</li>
-  <li>User Story and/or profile on the ODI website</li>
-  <li>Early access to event sponsorship, before non-annual sponsors</li>
-  <li>Access to ODI corporate badge for marketing purposes</li>
-</ul>
+### Benefits:
+* Logo on on website under the Community Corporate Sponsorship section
+* User Story and/or profile on the ODI website
+* Early access to event sponsorship, before non-annual sponsors
+* Access to ODI corporate badge for marketing purposes
 
 ## Startup Sponsorship
 ### Requirements
@@ -37,7 +33,7 @@ title: Participation
 ## Event Sponsorship:
 * URL to Event section
 
-<h2><a name=membership>Company Membership:</a></h2> 
+<h2><a name="membership">Company Membership:</a></h2> 
 ### Requirements:
 * Send people to the ODI Summits
 * Annually, attend at least one event
@@ -61,7 +57,7 @@ title: Participation
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and working groups (ODI will not sell or permit access to the mailing list membership for marketing purposes)
 
-<h2><a name=contributor>Company Contributor:</a></h2>
+<h2><a name="contributor">Company Contributor:</a></h2>
 ### Requirements
 * Signs the ODI Corporate Contribution Licensing Agreement (CCLA) (Link to Licenses CCLA section)
 
