@@ -9,8 +9,8 @@ title: Users
 <ul>
     {% for post in site.categories.users %}
           <li>
-                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-                {{ post.excerpt }}
+                {{ post.excerpt }}<br>
+                <a href="{{ site.baseurl }}{{ post.url }}">go to user story details</a>
           </li>
     {% endfor %}
 </ul>
