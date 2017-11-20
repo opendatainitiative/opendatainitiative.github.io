@@ -7,7 +7,7 @@ title: Participation
 <h1>Levels of Participation</h1>
 <br>Sponsorship means money, membership means non-money support, contribution means doing work
 
-<h2><a name=sponsorship>Corporate Sponsorship:</a></h2>
+<h2><a name="sponsorship">Corporate Sponsorship:</a></h2>
 <h3>Requirements</h3>
 <ul>
   <li>Annual $25K</li>
