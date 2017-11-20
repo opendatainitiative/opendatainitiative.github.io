@@ -7,7 +7,7 @@ title: Participation
 # Levels of Participation
 Sponsorship means money, membership means non-money support, contribution means doing work
 
-## Corporate Sponsorship
+<h2><a name=sponsorship>Corporate Sponsorship:</a></h2>
 ### Requirements
 * Annual $25K
 
@@ -33,7 +33,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 ## Event Sponsorship:
 * URL to Event section
 
-## Company membership:  
+<h2><a name=membership>Company Membership:</a></h2> 
 ### Requirements:
 * Send people to the ODI Summits
 * Annually, attend at least one event
@@ -57,7 +57,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and working groups (ODI will not sell or permit access to the mailing list membership for marketing purposes)
 
-## Company contributor:
+<h2><a name=contributor>Company Contributor:</a></h2>
 ### Requirements
 * Signs the ODI Corporate Contribution Licensing Agreement (CCLA) (Link to Licenses CCLA section)
 
