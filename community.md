@@ -15,6 +15,6 @@ Let us work together to make government financial transparency the norm.
 [![What is a Member]({{ site.baseurl }}/assets/img/what_is_member.png)]({{ site.baseurl }}/participation)
 [![What is a Contributor]({{ site.baseurl }}/assets/img/what_is_contributor.png)]({{ site.baseurl }}/participation)
 
-What ODI is looking for
+We want participation from engineers, policy experts, and government officials in the Open Data Initiative work. By joining ODI, you will be helping to make open financial a reality for all government organizations.
 
 [![How to Contribute]({{ site.baseurl }}/assets/img/how_to_contribute.png)]({{ site.baseurl }}/join)
