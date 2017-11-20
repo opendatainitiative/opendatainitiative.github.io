@@ -59,7 +59,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 
 <h2><a name="contributor">Company Contributor:</a></h2>
 ### Requirements
-* Signs the ODI Corporate Contribution Licensing Agreement (CCLA) (Link to Licenses CCLA section)
+* Signs the ODI Corporate Contribution Licensing Agreement (CCLA) (Link to License CCLA section coming soon)
 
 ### Benefits
 * Logo on on website under the Community Contributor section
@@ -67,7 +67,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 ## Individual contributor: 
 ### Requirements:
 * Contributes to any of the ODI code repositories once a annual year
-* Signs the Individual Contribution Licensing Agreement (ICLA) (Link to License ICLA section)
+* Signs the Individual Contribution Licensing Agreement (ICLA) (Link to License ICLA section coming soon)
 * Code is licensed by Apache 2.0 https://opensource.org/licenses/Apache-2.0
 * Documentation is licensed by CC-BY 4.0 https://creativecommons.org/licenses/by/4.0/
 
