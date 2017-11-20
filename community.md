@@ -4,7 +4,7 @@ permalink: /community
 title: Community
 ---
 
-# What Community Means
+# What the ODI Community Means
 We are creating a community of people that are passionate about government financial transparency. We understand that 
 maintaining a community can not be taken for granted. Similar to what we expect from our government, transparent reviews of 
 the community processes and governance encourages greater participation and makes the organization stronger. Transparency is 
