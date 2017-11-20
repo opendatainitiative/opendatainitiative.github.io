@@ -31,7 +31,7 @@ Sponsorship means money, membership means non-money support, contribution means 
 * TBD
 
 ## Event Sponsorship:
-* URL to Event section
+* TBD
 
 <h2><a name="membership">Company Membership:</a></h2> 
 ### Requirements:
