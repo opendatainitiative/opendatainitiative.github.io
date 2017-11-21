@@ -8,8 +8,10 @@ title: Participation
 Sponsorship means money, membership means non-money support, contribution means doing work
 
 <h2><a name="sponsorship">Corporate Sponsorship:</a></h2>
+NOTE that ODI member, Lincoln Network is a 501(c)3 non-profit organization. Lincoln Network is running ODI administration until such time ODI becomes a nonprofit. Your donation will be tax deductible.
+
 ### Requirements
-* Annual $25K
+* Annual $5K
 
 ### Benefits:
 * Logo on on website under the Community Corporate Sponsorship section
@@ -19,19 +21,13 @@ Sponsorship means money, membership means non-money support, contribution means 
 
 ## Startup Sponsorship
 ### Requirements
-* Annual $10K 
+* Annual $1.5K
 
 ### Benefits:
 * Logo on on website under the Community Startup Sponsorship section
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
 * Access to ODI startup badge for marketing purposes
-
-## Individual Sponsorship: 
-* TBD
-
-## Event Sponsorship:
-* TBD
 
 <h2><a name="membership">Company Membership:</a></h2> 
 ### Requirements:
