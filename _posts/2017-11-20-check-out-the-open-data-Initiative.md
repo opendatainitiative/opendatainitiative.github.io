@@ -19,8 +19,8 @@ Late summer 2017, we began by working with the 2016 PIRG financial report and ea
 To challenge what we thought we understood, we have participated in a variety of events policy related events discussing the need of government financial transparency with policy groups and government officials throughout the Fall 2017. SPN Annual Conference in San Antonio, Data Coalition Open Data Demo Day in Sacramento, and California Policy Center CLEO in Orange County to name a few. We have been verifying our assumptions and solidifying our 2018 plans.
 
 #### Check It Out
-I just rebuilt the ODI website http://opendatainitiative.io,  wiki http://wiki.opendatainitiative.io, and mailing list https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative.
+I just rebuilt the ODI website [http://opendatainitiative.io](http://opendatainitiative.io),  wiki [http://wiki.opendatainitiative.io](http://wiki.opendatainitiative.io), and mailing list [https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative](https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative).
 
 Go check it out. We want participation from engineers, policy experts, and government officials in the Open Data Initiative work. By joining ODI, you will be helping to make open financial a reality for all government organizations.
 
-**crossposted from https://sarob.com/2017/11/check-open-data-initiative/**
+**crossposted from [https://sarob.com/2017/11/check-open-data-initiative/](https://sarob.com/2017/11/check-open-data-initiative/)**
