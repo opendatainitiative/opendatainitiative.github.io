@@ -5,7 +5,7 @@ title: Participation
 ---
 
 # Levels of Participation
-Sponsorship means money, membership means non-money support, contribution means doing work
+[Sponsorship means money](#sponsorship), [membership means non-money support](#membership), [contribution means doing work](#contributor)
 
 <h2><a name="sponsorship">Corporate Sponsorship:</a></h2>
 NOTE that ODI member, Lincoln Network is a 501(c)3 non-profit organization. Lincoln Network is running ODI administration until such time ODI becomes a nonprofit. Your donation will be tax deductible.
