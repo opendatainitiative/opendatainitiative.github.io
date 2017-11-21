@@ -23,4 +23,4 @@ I just rebuilt the ODI website http://opendatainitiative.io,  wiki http://wiki.o
 
 Go check it out. We want participation from engineers, policy experts, and government officials in the Open Data Initiative work. By joining ODI, you will be helping to make open financial a reality for all government organizations.
 
-**crossposted from [https://sarob.com/2017/11/check-open-data-initiative/ https://sarob.com/2017/11/check-open-data-initiative/]**
+**crossposted from https://sarob.com/2017/11/check-open-data-initiative/**
