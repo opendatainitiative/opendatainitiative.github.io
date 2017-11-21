@@ -31,10 +31,10 @@ NOTE that ODI member, Lincoln Network is a 501(c)3 non-profit organization. Linc
 
 <h2><a name="membership">Company Membership:</a></h2> 
 ### Requirements:
-* Send people to the ODI Summits
+<!--* Send people to the ODI Summits -->
 * Annually, attend at least one event
 * Actively participate in discussions over the ODI mailing list(s) and working groups
-* Member is expected to provide sympathetic contributions like ODI administration, co-sponsored events, free subscription licenses, blog posts, articles, and/or hackathons
+* Member is expected to provide sympathetic contributions like ODI administration, shared event management, blog posts, articles, and/or hackathons
 
 ### Benefits:
 * Logo on on website under the Community Membership section
