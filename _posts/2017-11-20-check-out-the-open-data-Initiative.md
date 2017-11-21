@@ -5,7 +5,6 @@ date:   2017-11-20 08:50:00 -0800
 categories: news
 ---
 ### Check Out The Open Data Initiative
-crossposted from [https://sarob.com/2017/11/check-open-data-initiative/ https://sarob.com/2017/11/check-open-data-initiative/]
 
 I have been working on the Open Data Initiative open source project focused on government financial transparency since this summer with the good people of Lincoln Network.
 
@@ -23,3 +22,5 @@ Check It Out
 I just rebuilt the ODI website http://opendatainitiative.io,  wiki http://wiki.opendatainitiative.io, and mailing list https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative.
 
 Go check it out. We want participation from engineers, policy experts, and government officials in the Open Data Initiative work. By joining ODI, you will be helping to make open financial a reality for all government organizations.
+
+crossposted from [https://sarob.com/2017/11/check-open-data-initiative/ https://sarob.com/2017/11/check-open-data-initiative/]
