@@ -13,8 +13,8 @@ Let us work together to make government financial transparency the norm.
 
 We want participation from engineers, policy experts, and government officials in the Open Data Initiative work. By joining ODI, you will be helping to make open financial a reality for all government organizations. Review the different ways of participating in ODI below.
 
-[![What is a Sponsor]({{ site.baseurl }}/assets/img/what_is_sponsor.png)]({{ site.baseurl }}/participation#sponsor)
-[![What is a Member]({{ site.baseurl }}/assets/img/what_is_member.png)]({{ site.baseurl }}/participation#member)
+[![What is a Sponsor]({{ site.baseurl }}/assets/img/what_is_sponsor.png)]({{ site.baseurl }}/participation#sponsorship)
+[![What is a Member]({{ site.baseurl }}/assets/img/what_is_member.png)]({{ site.baseurl }}/participation#membership)
 [![What is a Contributor]({{ site.baseurl }}/assets/img/what_is_contributor.png)]({{ site.baseurl }}/participation#contributor)
 
 [![How to Contribute]({{ site.baseurl }}/assets/img/how_to_contribute.png)]({{ site.baseurl }}/join)
