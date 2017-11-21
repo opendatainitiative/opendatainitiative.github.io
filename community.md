@@ -7,9 +7,9 @@ title: Community
 <font size="2"><a href="{{ site.baseurl }}/participation#sponsorship">How to become a sponsor</a></font>
 ### Startup Sponsors
 <font size="2"><a href="{{ site.baseurl }}/participation#sponsorship">How to become a sponsor</a></font>
-->
+-->
 
-### Members
+# Members
 <font size="2"><a href="{{ site.baseurl }}/participation#membership">How to become a member</a></font><br />
 [![Lincoln Network]({{ site.baseurl }}/assets/img/lincoln-network-logo-hat-teal-small.png)](http://joinlincoln.org/)
 
