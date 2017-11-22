@@ -30,6 +30,6 @@ Select one of the options below
 
 [![ODI History]({{ site.baseurl }}/assets/img/odi_history.png)]({{ site.baseurl }}/history)
 
-[![get ODI Recommeded Tools]({{ site.baseurl }}/assets/img/odi_recommended_tools.png)]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)[![get ODI Handout]({{ site.baseurl }}/assets/img/odi_handout.png)]({{ site.baseurl }}/assets/doc/ODI_Handout.pdf)[![get ODI Best Practices]({{ site.baseurl }}/assets/img/odi_best_practices.png)]({{ site.baseurl }}/assets/doc/ODI_Best_Practices.pdf)
+[![get ODI Recommeded Tools]({{ site.baseurl }}/assets/img/odi_recommended_tools.png)]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)[![get ODI Handout]({{ site.baseurl }}/assets/img/odi_handout.png)]({{ site.baseurl }}/assets/doc/ODI_Handout.pdf)[![get ODI Best Practices]({{ site.baseurl }}/assets/img/odi_best_practices.png)](https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing)
 
 [![ODI News]({{ site.baseurl }}/assets/img/odi_news.png)]({{ site.baseurl }}/news)
