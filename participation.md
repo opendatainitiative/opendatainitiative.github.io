@@ -8,7 +8,7 @@ title: Participation
 [Sponsorship means money](#sponsorship), [membership means non-money support](#membership), [contribution means doing work](#contributor)
 
 <h2><a name="sponsorship">Corporate Sponsorship:</a></h2>
-NOTE that ODI member, Lincoln Network is a 501(c)3 non-profit organization. Lincoln Network is running ODI administration until such time ODI becomes a nonprofit. Your donation will be tax deductible.
+NOTE that ODI member, Lincoln Network is a 501(c)3 non-profit organization. Lincoln Network is running ODI administration until such time ODI becomes a nonprofit. Your donation will be tax deductible and will go towards the administration costs for ODI.
 
 ### Requirements
 * Annual $5K
