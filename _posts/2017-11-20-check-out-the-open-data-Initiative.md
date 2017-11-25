@@ -2,7 +2,7 @@
 layout: default
 title:  "Check Out The Open Data Initiative"
 date:   2017-11-20 08:50:00 -0800
-categories: news
+categories: blog
 ---
 ### Check Out The Open Data Initiative
 
