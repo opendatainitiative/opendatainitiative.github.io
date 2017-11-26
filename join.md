@@ -8,7 +8,7 @@ title: Join
 * [Make sure you have read the Mission of ODI]({{ site.baseurl }}/learn)
 * [Answer your transparency interest questions](https://www.surveymonkey.com/r/L9HS2S8)
 * If you represent a government organization, [take the Self Transparency Survey.](https://www.surveymonkey.com/r/LSJSQLK) How does your organization score? This survey can be filled out by your Infrastructure Technology team and by non-technical representatives. Multiple perspectives from the same organization are welcome.
-* [Join the Open Data Initiative email list](https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative). By joining the mailing list, you become an Open Data Individual Initiative Member. [Find more information on becoming an Open Data Initiative Individual and Partner Member here.]({{ site.baseurl }}/participate#membership)
+* [Join the ODI mailing list](https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative). By joining the mailing list, you become an ODI Individual Member. [Find more information on becoming an ODI Individual and Partner Member here.]({{ site.baseurl }}/participate#membership)
 * Send emails to [opendatainitiative@lists.opendatainitiative.io](mailto:opendatainitiative@lists.opendatainitiative.io) to discuss financial transparency and working group projects
 * We will continue to hold monthly webinars to work with the public. We will overview the state of our work and next steps at each webinar. [Find the next webinar here]({{ site.baseurl }}/events).
 * Check out the working groups on the [Open Data Initiative Wiki](http://wiki.opendatainitiative.io/)
