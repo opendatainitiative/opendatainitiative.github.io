@@ -11,23 +11,25 @@ title: Participation
 NOTE that ODI member, Lincoln Network is a 501(c)3 non-profit organization. Lincoln Network is running ODI administration until such time ODI becomes a nonprofit. Your donation will be tax deductible and will go towards the administration costs for ODI.
 
 ### Requirements
-* Annual XXX
+* Annual amount TBD
 
 ### Benefits:
 * Logo on on website under the Community Corporate Sponsorship section
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
 * Access to ODI corporate badge for marketing purposes
+* More benefits TBD
 
 ## Startup Sponsorship
 ### Requirements
-* Annual XXX
+* Annual amount TBD
 
 ### Benefits:
 * Logo on on website under the Community Startup Sponsorship section
 * User Story and/or profile on the ODI website
 * Early access to event sponsorship, before non-annual sponsors
 * Access to ODI startup badge for marketing purposes
+* More benefits TBD
 
 <h2><a name="membership">Partner Membership:</a></h2> 
 ### Requirements:
