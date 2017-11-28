@@ -3,6 +3,7 @@ layout: default
 permalink: /community
 title: Community
 ---
+
 <!-- ### Corporate Sponsors
 <font size="2"><a href="{{ site.baseurl }}/participation#sponsorship">How to become a sponsor</a></font>
 ### Startup Sponsors
@@ -12,6 +13,7 @@ title: Community
 # Partner Members
 <font size="2"><a href="{{ site.baseurl }}/participation#membership">How to become a member</a></font><br />
 [![Lincoln Network]({{ site.baseurl }}/assets/img/lincoln-network-logo-hat-teal-small.png)](http://joinlincoln.org/)
+[![Datrm.in]({{ site.baseurl }}/assets/img/datrmin-logo-small.png)](http://datrm.in/)
 
 # What the ODI Community Means
 We are creating a community of people that are passionate about government financial transparency. We understand that 
