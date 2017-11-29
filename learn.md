@@ -27,7 +27,14 @@ ODI seeks to achieve its objectives through:
 
 ## For More Information About ODI
 Select one of the options below
+<table align="center">
+	<tr>	
+		<td><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/odi_history.png'}}" alt="ODI History"></a></td>
+	</tr>
+	<tr>
+		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf"><img src="{{ site.baseurl }}/assets/img/odi_recommended_tools.png" alt="Get ODI Recommeded Tools">Get ODI Recommeded Tools</a></td>
+		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Handout.pdf"><img src="{{ site.baseurl }}/assets/img/odi_handout.png" alt="Get ODI Handout">Get ODI Handout</a></td>
+		<td><a href="https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing"><img src="{{ site.baseurl }}/assets/img/odi_best_practices.png" alt="Get ODI Best Practices">Get ODI Best Practices</a></td>
+	</tr>
+</table>
 
-[![ODI History]({{ site.baseurl }}/assets/img/odi_history.png)]({{ site.baseurl }}/history)
-
-[![get ODI Recommeded Tools]({{ site.baseurl }}/assets/img/odi_recommended_tools.png)]({{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf)[![get ODI Handout]({{ site.baseurl }}/assets/img/odi_handout.png)]({{ site.baseurl }}/assets/doc/ODI_Handout.pdf)[![get ODI Best Practices]({{ site.baseurl }}/assets/img/odi_best_practices.png)](https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing)
