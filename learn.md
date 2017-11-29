@@ -26,10 +26,12 @@ ODI seeks to achieve its objectives through:
 * Providing the infrastructure to maintain the open data community
 
 ## For More Information About ODI
-Select one of the options below
-<table align="center">
+<table align="center" cellpadding="10">
+    <tr>
+        <td colspan="3">Select one of the options below</td>
+    </tr>
 	<tr>	
-		<td colspan="3" cellpadding="10"><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/odi_history.png'}}" alt="ODI History"></a></td>
+		<td colspan="3"><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/odi_history.png'}}" alt="ODI History"></a></td>
 	</tr>
 	<tr>
 		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf"><img src="{{ site.baseurl }}/assets/img/odi_recommended_tools.png" alt="Get ODI Recommeded Tools"></a></td>
