@@ -12,8 +12,9 @@ title: Community
 
 # Partner Members
 <font size="2"><a href="{{ site.baseurl }}/participation#membership">How to become a member</a></font><br />
-[![Lincoln Network]({{ site.baseurl }}/assets/img/lincoln-network-logo-hat-teal-small.png)](http://joinlincoln.org/)
-[![Datrm.in]({{ site.baseurl }}/assets/img/datrmin-logo-small.png)](http://datrm.in/)
+[![Lincoln Network]({{ site.baseurl }}/assets/img/lincoln-network-logo-hat-teal-small.png)](http://joinlincoln.org/) &nbsp;
+[![Datrm.in]({{ site.baseurl }}/assets/img/datrmin-logo-small.png)](http://datrm.in/) &nbsp;
+[![Data Coalition]({{ site.baseurl }}/assets/img/DataCoalition2016Logo)](https://www.datacoalition.org/)
 
 # What the ODI Community Means
 We are creating a community of people that are passionate about government financial transparency. We understand that 
