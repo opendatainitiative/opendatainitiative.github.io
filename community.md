@@ -15,9 +15,9 @@ title: Community
 <!-- four column table to hold partner member icons -->
 <table>
 	<tr>	
-		<td>[![Lincoln Network]({{ site.baseurl }}/assets/img/lincoln-network-logo-hat-teal-small.png)](http://joinlincoln.org/)</td>
-		<td>[![Datrm.in]({{ site.baseurl }}/assets/img/datrmin-logo-small.png)](http://datrm.in/)</td>
-		<td>[![Data Coalition]({{ site.baseurl }}/assets/img/DataCoalition2016Logo.png)](https://www.datacoalition.org/)</td>
+		<td><a href="http://joinlincoln.org/"><img src="{{'/assets/img/lincoln-network-logo-hat-teal-small.png'}}" alt="Lincoln Network"></a></td>
+		<td><a href="http://datrm.in/"><img src="{{'/assets/img/datrmin-logo-small.png'}}" alt="Datrm.in"></a></td>
+		<td><a href="https://www.datacoalition.org/"><img src="{{'/assets/img/DataCoalition2016Logo.png'}}" alt="Data Coalition"></a></td>
 		<td><!-- placeholder for next partner member --></td>
 	</tr>
 </table>
