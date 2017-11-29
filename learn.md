@@ -39,7 +39,7 @@ ODI seeks to achieve its objectives through:
 		<td><a href="https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing"><img src="{{ site.baseurl }}/assets/img/practices_icon.png" alt="Get ODI Best Practices"></a></td>
 	</tr>
 	<tr>
-		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf">Get ODI Handout</a></td>
+		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf">ODI_Recommended_Tools</a></td>
 		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Handout.pdf">Get ODI Handout</a></td>
 		<td><a href="https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing">Get ODI Best Practices</a></td>
 	</tr>
