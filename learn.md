@@ -29,7 +29,7 @@ ODI seeks to achieve its objectives through:
 Select one of the options below
 <table align="center">
 	<tr>	
-		<td colspan="3""><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/odi_history.png'}}" alt="ODI History"></a></td>
+		<td colspan="3"><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/odi_history.png'}}" alt="ODI History"></a></td>
 	</tr>
 	<tr>
 		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf"><img src="{{ site.baseurl }}/assets/img/odi_recommended_tools.png" alt="Get ODI Recommeded Tools"></a></td>
