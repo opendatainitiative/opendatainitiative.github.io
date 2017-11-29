@@ -7,9 +7,7 @@ categories: events
 ### November 2017 ODI Webinar
 <a href="https://youtu.be/YTdjd6cZm0M" target="_blank">
 <img src="{{'/assets/img/29nov17-webinar-screengrab.png'}}" 
-alt="29nov17-webinar"></a>
-<a href="https://youtu.be/YTdjd6cZm0M" target="_blank">
-View the Webinar Video</a>, 
+alt="29nov17-webinar"></a>, 
 On November 29th, Lincoln hosted a webinar with the Open Data Initiative 
 Project Leader Sean Roberts. All about the Open Data Initiative, why it 
 matters, and how you can get involved. Viewers had the chance to 
