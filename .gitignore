@@ -1,4 +1,5 @@
 _site
+.idea
 .project
 .sass-cache
 .settings/
