@@ -6,11 +6,11 @@ title: Events
 
 # Events
 
-<!-- <ul>
+<ul>
     {% for post in site.categories.events %}
           <li>
                 {{ post.excerpt }}<br>
                 <a href="{{ site.baseurl }}{{ post.url }}">go to event details</a>
           </li>
     {% endfor %}
-</ul> -->
+</ul>
