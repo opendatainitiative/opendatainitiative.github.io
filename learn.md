@@ -31,7 +31,10 @@ ODI seeks to achieve its objectives through:
         <td colspan="3">Select one of the options below</td>
     </tr>
 	<tr>	
-		<td colspan="3"><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/odi_history.png'}}" alt="ODI History"></a></td>
+		<td colspan="3"><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/continental-congress-hero-H-small.png'}}" alt="ODI History"></a></td>
+	</tr>
+	<tr>	
+		<td colspan="3"><a href="{{ site.baseurl }}/history">Review ODI History</a></td>
 	</tr>
 	<tr>
 		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf"><img src="{{ site.baseurl }}/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a></td>
