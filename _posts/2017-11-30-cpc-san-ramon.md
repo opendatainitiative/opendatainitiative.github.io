@@ -5,7 +5,9 @@ date:   2017-11-30 13:00 -0800
 categories: events
 ---
 ### December 2017, California Local Elected Officials (CLEO) Bay Area Meeting
-<a href="https://calocalelectedofficials.org/" target="_blank">
+<a href="https://calocalelectedofficials.org/events/" target="_blank">
+<img src="{{'/assets/img/cleo_home_small.png'}}" 
+alt="December 2017 CPC CLEO">
 Join Sean Roberts from ODI and CPC at the Bay Area CLEO meeting</a>
 
 Saturday, December 2, 2017 10 AM - 3 PM
