@@ -6,7 +6,7 @@ categories: events
 ---
 ### October 2017 Data Coalition Demo Day
 ![Data Coalition]({{'/assets/img/19oct2017-data-coalition-demo-day.png'}})
-Tomorrow, we will join the [Data Coalition](https://joinlincoln.us7.list-manage.com/track/click?u=37b038d35f4e6f93a44f0c907&id=c27157f846&e=9104beca3f) 
+- Tomorrow, we will join the [Data Coalition](https://joinlincoln.us7.list-manage.com/track/click?u=37b038d35f4e6f93a44f0c907&id=c27157f846&e=9104beca3f) 
 and [Grant Thornton](https://joinlincoln.us7.list-manage.com/track/click?u=37b038d35f4e6f93a44f0c907&id=aedd8dd5ec&e=9104beca3f) 
 for the [California Data Demo Day](https://joinlincoln.us7.list-manage.com/track/click?u=37b038d35f4e6f93a44f0c907&id=7c99c4cf8b&e=9104beca3f) 
 , in partnership with 
