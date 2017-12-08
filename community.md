@@ -18,7 +18,7 @@ title: Community
 		<td><a href="http://joinlincoln.org/"><img src="{{'/assets/img/lincoln-network-logo-hat-teal-small.png'}}" alt="Lincoln Network"></a></td>
 		<td><a href="http://datrm.in/"><img src="{{'/assets/img/datrmin-logo-small.png'}}" alt="Datrm.in"></a></td>
 		<td><a href="https://www.datacoalition.org/"><img src="{{'/assets/img/DataCoalition2016Logo.png'}}" alt="Data Coalition"></a></td>
-		<td><!-- placeholder for next partner member --></td>
+		<td><a href="http://www.tos.ohio.gov/"><img src="{{'/assets/img/tos-logo.png'}}" alt="tos.ohio.gov"></td>
 	</tr>
 </table>
 
