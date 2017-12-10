@@ -31,20 +31,20 @@ ODI seeks to achieve its objectives through:
         <td colspan="3">Select one of the options below</td>
     </tr>
 	<tr>	
-		<td colspan="3"><a href="{{ site.baseurl }}/history"><img src="{{'/assets/img/continental-congress-hero-H-small.png'}}" alt="ODI History"></a></td>
+		<td colspan="3"><a href="/history"><img src="/assets/img/continental-congress-hero-H-small.png" alt="ODI History"></a></td>
 	</tr>
 	<tr>	
-		<td colspan="3"><a href="{{ site.baseurl }}/history">Review ODI History</a></td>
+		<td colspan="3"><a href="/history">Review ODI History</a></td>
 	</tr>
 	<tr>
-		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf"><img src="{{ site.baseurl }}/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a></td>
-		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Handout.pdf"><img src="{{ site.baseurl }}/assets/img/handout_icon.png" alt="Get ODI Handout"></a></td>
-		<td><a href="https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing"><img src="{{ site.baseurl }}/assets/img/practices_icon.png" alt="Get ODI Best Practices"></a></td>
+		<td><a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a></td>
+		<td><a href="/assets/doc/ODI-Handout.pdf"><img src="/assets/img/handout_icon.png" alt="ODI Handout"></a></td>
+		<td><a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a></td>
 	</tr>
 	<tr>
-		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Recommended_Tools.pdf">ODI_Recommended_Tools</a></td>
-		<td><a href="{{ site.baseurl }}/assets/doc/ODI_Handout.pdf">Get ODI Handout</a></td>
-		<td><a href="https://docs.google.com/document/d/1uxA13a4KekaF5h9NYhheO2AefRPaHbeThd_EHvqL1u0/edit?usp=sharing">Get ODI Best Practices</a></td>
+		<td><a href="/assets/doc/ODI_Recommended_Tools.pdf">ODI Recommended Tools</a></td>
+		<td><a href="/assets/doc/ODI-Handout.pdf">ODI Handout</a></td>
+		<td><a href="/assets/doc/ODI-Best-Practices.pdf">ODI Best Practices</a></td>
 	</tr>
 </table>
 
