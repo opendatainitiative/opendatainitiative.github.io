@@ -5,12 +5,18 @@ title: Blog
 ---
 
 # ODI Blog
-      
-<ul>
+Blog posts on government financial transparency
+
+<table>
     {% for post in site.categories.blog %}
-          <li>
-                {{ post.excerpt }}<br>
-                <a href="{{ site.baseurl }}{{ post.url }}">go to blog details</a>
-          </li>
+      <tr>
+            <td>{{ post.date | date: '%B %d, %Y' }}</td>
+            <td>{{ post.excerpt }}</td>
+      <tr>
+            <td colspan="2"><a href="{{ site.baseurl }}{{ post.url }}">go to details</a></td>
+      </tr>
+      <tr>
+            <td colspan="2"><hr></td>
+      </tr>
     {% endfor %}
-</ul>
+      
