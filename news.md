@@ -5,7 +5,8 @@ title: News
 ---
 
 # ODI News
-      
+All the news about government financial transparency
+
 <table>
     {% for post in site.categories.news %}
       <tr>
@@ -18,4 +19,5 @@ title: News
             <td colspan="2"><hr></td>
       </tr>
     {% endfor %}
+      
 </table>
