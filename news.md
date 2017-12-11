@@ -19,5 +19,3 @@ All the news about government financial transparency
             <td colspan="2"><hr></td>
       </tr>
     {% endfor %}
-      
-</table>
