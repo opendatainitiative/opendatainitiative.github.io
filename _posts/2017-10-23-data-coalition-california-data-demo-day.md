@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Data Coalition’s California Data Demo Day"
-date:   2017-11-23 08:00:00 -0800
+date:   2017-10-23 08:00:00 -0800
 categories: news
 ---
 <h3><a href="https://www.datacoalition.org/california-data-demo-day-5-new-lessons-on-transparency-outside-and-efficiency-inside/"
