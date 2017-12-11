@@ -13,7 +13,7 @@ All the news about government financial transparency
             <td>{{ post.date | date: '%B %d, %Y' }}</td>
             <td>{{ post.excerpt }}</td>
       <tr>
-            <td colspan="2"><a href="{{ site.baseurl }}{{ post.url }}">go to news details</a></td>
+            <td colspan="2"><a href="{{ site.baseurl }}{{ post.url }}">go to details</a></td>
       </tr>
       <tr>
             <td colspan="2"><hr></td>
