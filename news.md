@@ -15,7 +15,7 @@ title: News
             <td colspan="2"><a href="{{ site.baseurl }}{{ post.url }}">go to news details</a></td>
       </tr>
       <tr>
-            <td><br></td>
+            <td colspan="2"><hr></td>
       </tr>
     {% endfor %}
 </table>
