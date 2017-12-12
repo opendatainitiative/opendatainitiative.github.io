@@ -6,7 +6,7 @@ title: Join
 
 # Join ODI
 
-<table>
+<table border="1" cellpadding="10">
   <tr>
     <td><a href="/learn">Read the Mission of ODI</a>
     </td>
@@ -26,26 +26,38 @@ title: Join
     </td>
   </tr>
   <tr>
-    <td colspan="2">ODI has three current projects:</td>
-   </tr>
-   <tr> 
+    <td colspan="2">ODI has three current projects:
+    </td>
+  </tr>
+  <tr> 
       <td colspan="2"><h3>Transparency Report</h3>
-      <a href="https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
-      <a href="http://wiki.opendatainitiative.io/Projects/Transparency_Report">You can also go to the Transparency Report project</a></td>
+        <a href="https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
+        <a href="http://wiki.opendatainitiative.io/Projects/Transparency_Report">You can also go to the Transparency Report project</a>
+     </td>
    </tr>
    <tr>
-      <td colspan="2"><h3>Tools</h3>
-       <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a>
-      <a href="http://wiki.opendatainitiative.io/Projects/Tools">You can also go to the Tools project</a></td>
+      <td colspan="2">
+        <h3>Tools</h3>
+        <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a>
+        <a href="http://wiki.opendatainitiative.io/Projects/Tools">You can also go to the Tools project</a>
+     </td>
    </tr>
    <tr>   
-      <td colspan="2"><h3>Best Practices</h3>
-      <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a>
-      <a href="http://wiki.opendatainitiative.io/Projects/Best_Practices">You can also go to the Best Practices project</a></td>
+      <td colspan="2">
+        <h3>Best Practices</h3>
+        <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a>
+        <a href="http://wiki.opendatainitiative.io/Projects/Best_Practices">You can also go to the Best Practices project</a>
+     </td>
    </tr>
    <tr>  
-      <td colspan="2">and possibly two additional projects for 1H 2018. <br>
-      Check out the all projects on the <a href="http://wiki.opendatainitiative.io/Main_Page#Join_to_work_on_Projects">Open Data Initiative Wiki</a>
+     <td colspan="2">
+        <br>
+        and possibly two additional projects for 1H 2018. <br>
+     </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>Check out the all projects on the <a href="http://wiki.opendatainitiative.io/Main_Page#Join_to_work_on_Projects">Open Data Initiative Wiki</a></h3>
     </td>
   </tr>
 </table>
