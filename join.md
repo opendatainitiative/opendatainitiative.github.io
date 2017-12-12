@@ -8,21 +8,21 @@ title: Join
 
 <table>
   <tr>
-    <td>[Read the Mission of ODI]({{ site.baseurl }}/learn)
+    <td><a href="/learn">Read the Mission of ODI</a>
     </td>
-    <td>[Join the ODI mailing list](https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative). By joining the mailing list, you become an ODI Individual Member. [Find more information on becoming an ODI Individual and Partner Member here.]({{ site.baseurl }}/participation#membership)
+    <td><a href="https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative">Join the ODI mailing list</a>. By joining the mailing list, you become an ODI Individual Member. <a href="/participation#membership">Find more information on becoming an ODI Individual and Partner Member here.</a>
     </td>
   </tr>
   <tr>
-    <td>[Answer transparency interest questions](https://www.surveymonkey.com/r/L9HS2S8)
+    <td><a href="https://www.surveymonkey.com/r/L9HS2S8">Answer transparency interest questions</a>
     </td>
-    <td>Send emails to [opendatainitiative@lists.opendatainitiative.io](mailto:opendatainitiative@lists.opendatainitiative.io) to discuss financial transparency and projects
+    <td>Send emails to <a href="mailto:opendatainitiative@lists.opendatainitiative.io">opendatainitiative@lists.opendatainitiative.io</a> to discuss financial transparency and projects
     </td>
   </tr> 
   <tr>
-    <td>If you represent a government organization, [take the Self Transparency Survey.](https://www.surveymonkey.com/r/LSJSQLK) How do score your organization? This survey can be filled out by your Infrastructure Technology team and by non-technical representatives. Multiple perspectives from the same organization are welcome.
+    <td>If you represent a government organization, <a href="https://www.surveymonkey.com/r/LSJSQLK">take the Self Transparency Survey.</a> How do score your organization? This survey can be filled out by your Infrastructure Technology team and by non-technical representatives. Multiple perspectives from the same organization are welcome.
     </td>
-    <td>We will continue to hold monthly webinars to work with the public. We will overview the state of our work and next steps at each webinar. [Find the next webinar here]({{ site.baseurl }}/events).
+    <td>We will continue to hold monthly webinars to work with the public. We will overview the state of our work and next steps at each webinar. <a href="/events">Find the next webinar here.</a>
     </td>
   </tr>
   <tr>
