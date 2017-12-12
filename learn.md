@@ -47,5 +47,3 @@ title: Learn
     <td>ODI Recommeded Tools</td>
     <td>ODI Best Practices</td>
   </tr>
-</table>
-
