@@ -5,9 +5,9 @@ title: Learn
 ---
 
 # Learn About ODI
-<table align="center" cellpadding="10">
+<table align="center">
   <tr>
-    <td rowspan="4">
+    <td colspan="2">
 	<h3>Mission</h3>
 	The Open Data Initiative (ODI) works to ensure government finance data is consistent, transparent, and easily available.
 	ODI is administered through Lincoln Network, a 501(c)(3) nonprofit.<br>
