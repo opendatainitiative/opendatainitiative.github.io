@@ -28,15 +28,18 @@ title: Join
   <tr>
     <td><hr>
     </td>
-    <td>ODI has three current projects: <br>
-      [Working Transaprency Scorecard so far](https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing)<br>
-      [Go to the Transparency Report project](http://wiki.opendatainitiative.io/Projects/Transparency_Report)<hr>
-       <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools">Current Tools document</a><br>
-      [Go to the Tools project](http://wiki.opendatainitiative.io/Projects/Tools)<hr>
-      <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices">Current Best Practices document</a><br>
-      [Go to the Best Practices project](http://wiki.opendatainitiative.io/Projects/Best_Practices)<hr>
+    <td>ODI has three current projects:
+      <h3>Transparency Report</h3>
+      <a href="https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing"><img src="/assets/img/tools_icon.png" alt="ODI Transparency Report"></a><br>
+      <a href="http://wiki.opendatainitiative.io/Projects/Transparency_Report">You can also go to the Transparency Report project</a><hr>
+      <h3>Tools</h3>
+       <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a><br>
+      <a href="http://wiki.opendatainitiative.io/Projects/Tools">You can also go to the Tools project</a><hr>
+      <h3>Best Practices</h3>
+      <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a><br>
+      <a href="http://wiki.opendatainitiative.io/Projects/Best_Practices">You can also go to the Best Practices project</a><hr>
       and possibly two additional projects for 1H 2018. <br>
-      Check out the all projects on the [Open Data Initiative Wiki](http://wiki.opendatainitiative.io/Main_Page#Join_to_work_on_Projects)
+      Check out the all projects on the <a href="http://wiki.opendatainitiative.io/Main_Page#Join_to_work_on_Projects">Open Data Initiative Wiki</a>
     </td>
   </tr>
 </table>
