@@ -30,7 +30,7 @@ title: Join
    </tr>
    <tr> 
       <td colspan="2"><h3>Transparency Report</h3>
-      <a href="https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing"><img src="/assets/img/tools_icon.png" alt="ODI Transparency Report"></a>
+      <a href="https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
       <a href="http://wiki.opendatainitiative.io/Projects/Transparency_Report">You can also go to the Transparency Report project</a></td>
    </tr>
    <tr>
