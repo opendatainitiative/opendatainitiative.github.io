@@ -4,7 +4,7 @@ title: "Status Update // Fall 2017"
 date: 2017-10-01 08:00:00 -0800
 categories: blog
 ---
-# Status Update // Fall 2017
+### Status Update // Fall 2017
 
 Thank you to everyone who worked with us over the past few months to help us better understand the chokepoints in the current system of government financial data transparency implementation.
 
