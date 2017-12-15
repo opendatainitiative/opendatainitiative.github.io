@@ -28,7 +28,7 @@ title: Learn
     </td>
   </tr>
   <tr>
-    <td colspan="2"><a href="/history"><img src="/assets/img/continental-congress-hero-H-small.png" alt="ODI History"></a>
+    <td colspan="2"><a href="/blog/2017-10-01-status-update/"><img src="/assets/img/continental-congress-hero-H-small.png" alt="ODI History"></a>
     </td>
   </tr>
   <tr>
