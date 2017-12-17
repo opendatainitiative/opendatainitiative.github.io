@@ -7,7 +7,7 @@ title: Home
 ## The Open Data Initiative works to ensure government finance data is consistent, transparent, and easily available
 
 We have created three resources so far
-<table>
+<table cellpadding="10">
  <tr> 
       <td><h3>Transparency Scorecard</h3>
         <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Scorecard"></a>
