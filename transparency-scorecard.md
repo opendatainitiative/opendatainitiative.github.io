@@ -14,7 +14,7 @@ title: Transparency Scorecard
         the availability of online spending data and scoring states based on four attributes: is the data available in one place, is all the data available that should be online, is the metadata searchable, and can the data be downloaded.</td>
   </tr>
   <tr>
-    <td><img src="/assets/img/transparency-scorecard-pie.png" alt="Scorecard Pie" width="100%" height="100%"></td>
+    <td><img src="/assets/img/transparency-scorecard-pie.png" alt="Scorecard Pie" width="100%"></td>
   <tr>	
   <tr>
     <td>As we reviewed all the states, we found these key problems
@@ -27,7 +27,7 @@ title: Transparency Scorecard
      </td>
   </tr>
   <tr>
-    <td><img src="/assets/img/transparency-policy-pie.png" alt="Policy Pie" width="100%" height="100%"></td>
+    <td><img src="/assets/img/transparency-policy-pie.png" alt="Policy Pie" width="100%"></td>
   <tr>
   <tr>
     <td>We also wanted to understand what is driving the financial transparency policy at the state level. Is there a policy by law, by edict of an elected official, or is there no policy at all?
