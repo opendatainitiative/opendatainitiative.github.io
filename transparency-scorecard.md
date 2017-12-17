@@ -8,7 +8,7 @@ title: Transparency Scorecard
     <td colspan="2">Late summer 2017, we began investigating government financial transparency status quo by reviewing the US state open financial data and policies. From this research, we created our own transparency scorecard regarding the implementation of open data practices at the state level. </td>
   </tr>
   <tr>
-    <td rowspan="2"><img src="/assets/img/transparency-scorecard-pie.png" alt="Scorecard Pie" width="75%" height="75%"></td>
+    <td rowspan="3"><img src="/assets/img/transparency-scorecard-pie.png" alt="Scorecard Pie" width="75%" height="75%"></td>
   <tr>	
   <tr>
     <td>We found these key problems
@@ -21,7 +21,7 @@ title: Transparency Scorecard
      </td>
   </tr>
   <tr>
-    <td rowspan="2"><img src="/assets/img/transparency-policy-pie.png" alt="Policy Pie" width="50%" height="50%"></td>
+    <td rowspan="3"><img src="/assets/img/transparency-policy-pie.png" alt="Policy Pie" width="75%" height="75%"></td>
   <tr>
   <tr>
     <td>Our Transparency Scorecard also informed us on policy at the state level
