@@ -6,11 +6,18 @@ title: Home
 
 ## The Open Data Initiative works to ensure government finance data is consistent, transparent, and easily available
 
+We have created three resources so far
 <table>
-  <tr>
-    <td><a href="https://opendatainitiative.github.io/events/2017-11-19-odi-webinar/"><img src="/assets/img/29nov17-webinar-screengrab.png" alt="29nov17-webinar"></a></td>
-  </tr>
-  <tr>
-    <td>Follow what ODI is working on by attending one of our webinars</td>
-	</tr>
-</table>
+ <tr> 
+      <td><h3>Transparency Scorecard</h3>
+        <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Scorecard"></a>
+	 </td>
+      <td>
+        <h3>Recommended Tools</h3>
+        <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="ODI Recommeded Tools"></a>
+     </td>
+      <td>
+        <h3>Best Practices</h3>
+        <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a>
+     </td>
+   </tr>
