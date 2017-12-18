@@ -5,8 +5,8 @@ date:   2017-12-18 08:00:00 -0800
 categories: blog
 ---
 
-# ODI User Story – [OhioCheckbook.com](http://www.ohiocheckbook.com/): A New National Standard
-## From Worst to First
+### ODI User Story – [OhioCheckbook.com](http://www.ohiocheckbook.com/): A New National Standard
+### From Worst to First
 
 The U.S. Public Research Interest Group (PIRG) is a federation of state Public Interest Research Groups (PIRGs), that annually publishes a report rating all 50 US states on providing online access to government spending data. This report is widely used by many as the best assessment available on state financial transparency. In 2013, PIRG ranked Ohio 46th in the nation for government financial data transparency. In 2014, this failing grade got the attention of Ohio Treasurer Josh Mandel.
 
@@ -14,7 +14,7 @@ Treasurer Mandel took Ohio’s poor ranking as a challenge and set forth to make
 
 As a result of [OhioCheckbook.com](http://www.ohiocheckbook.com/), U.S. PIRG announced in March 2015 that Treasurer Mandel had earned Ohio the number one transparency ranking in the country for providing online access to government spending data.  Ohio climbed from 46th to 1st in the country, and [OhioCheckbook.com](http://www.ohiocheckbook.com/) received a perfect score of 100 points – the highest score in the history of the U.S. PIRG transparency rankings.  
 
-## Popular Features
+### Popular Features
 
 [OhioCheckbook.com](http://www.ohiocheckbook.com/) displays more than $621 billion in spending over the past ten years, including more than 168 million transactions.  The website includes cutting-edge features such as:
 
@@ -23,7 +23,7 @@ As a result of [OhioCheckbook.com](http://www.ohiocheckbook.com/), U.S. PIRG ann
 * Functionality to compare state spending year-over-year or among agencies; and,
 * Capability to share charts or checks with social media networks, and direct contact for agency fiscal offices.
 
-## Local Win
+### Local Win
 
 After launching [OhioCheckbook.com](http://www.ohiocheckbook.com/) in December 2014, Treasurer Mandel set his sights on spreading fiscal transparency to Ohio’s local governments and schools.  In April 2015, Treasurer Mandel sent a letter to Ohio’s more than 3,900 local governments extending a partnership invitation to place their local checkbooks online at no cost to the local entity.  
 
@@ -39,14 +39,14 @@ Fortunately, Ohio school districts shared more data uniformity as most were alre
 Karen Blake, the Treasurer of Eastern Ohio’s Martins Ferry Local Schools says, “We just thought it would be good to let everyone know we have nothing to hide and that everything is transparent,” she said, adding the program should also alleviate public records requests. “It can create charts. It shows all your expenditures. It has a lot of capabilities.”
 Today, over 1,200 local governments and schools have committed to joining [OhioCheckbook.com](http://www.ohiocheckbook.com/) and this number continues to grow.  
 
-## Benefits
+### Benefits
 Local governments have reported a number of positive benefits to their posting spending information online at [OhioCheckbook.com](http://www.ohiocheckbook.com/).  One such example is the reduction of public records requests.  
 
 In Western Ohio’s Village of Elida, Administrator David Metzger found “It’s getting more and more difficult to manage all the public records requests, and we spend countless hours digging through this stuff.“Now (with [OhioCheckbook.com](http://www.ohiocheckbook.com/)) here it is. Find it yourself. We’re saving everybody time and money.”
 
 Additionally, [OhioCheckbook.com](http://www.ohiocheckbook.com/) allows local governments and their decision makers have real-time access to accurate data information that is displayed in easy-to-use formats.  Whether during a budget negotiation at a council meeting, or in office hours with constituents, local leaders are now armed with an important tool in helping to streamline decision making while empowering constituents.  
 
-## Setting off of a National Race
+### Setting off of a National Race
 In launching [OhioCheckbook.com](http://www.ohiocheckbook.com/), Treasurer Mandel stated that his goal was to empower taxpayers to hold politicians accountable.  Further, he made it known that by dramatically improving Ohio’s transparency ranking from 46th to 1st in the nation that he hoped it would set off a national race for greater transparency.  Treasurer Mandel’s goal quickly became reality.
 
 In U.S. PIRG’s 2015 ranking, which Ohio earned its first #1 ranking, Ohio became the first, and only, state to receive a perfect score of 100 points.  Other states took notice and quickly began working to play catch up.
@@ -63,7 +63,7 @@ A recent editorial in Louisiana frames the issue nicely and highlights how Ohio 
 
 ‘A major injection of technology and transparency in government might help bridge this divide we seem to have between conservatives and liberals in meeting our needs. Everyone wants good schools, strong economies, safe communities and affordable health care. But fewer and fewer of us are willing to continuously buy government’s message that the only way to get there is fewer questions and more money. The market has evolved. Consumer expectations have evolved. Government must also”
 
-## Working Together with the Open Data Initiative
+### Working Together with the Open Data Initiative
 Since 2013, when Ohio started down this road, it’s doubtful they were considering the broader implication of their open data work. Nevertheless, they have become a leader, showing other government entities what can be done with a clear vision and a consistent effort to improve. 
 
 Transparency is a core principle of a modern government. We the people ask for accountability by understanding what our government is doing. Levying taxes is a basic governmental function. Many voters want government financial accountability to understand if their tax dollars are being spent wisely. This a long standing issue and as so many, experienced people have doing this work for many decades. Even so, many government organizations still lack financial transparency. Generally, because they lack the skills and tools. That is why we at the Open Data Initiative are working with organizations like the Ohio Treasurer’s Office to bring the experienced transparency experts and government organizations together.
