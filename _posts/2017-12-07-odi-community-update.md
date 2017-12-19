@@ -4,6 +4,8 @@ title:  "ODI Community Update"
 date:   2017-12-07 14:47:00 -0800
 categories: blog
 ---
+### ODI Community Update
+
 Dear ODI Community,
 
 Sean has asked that I do a better job participating in the mailing list. In the hopes of sparking conversation, I wanted to take this opportunity to summarize an exciting week for ODI.
