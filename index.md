@@ -3,7 +3,7 @@ layout: default
 permalink: /
 title: Home
 ---
-<img src="/assets/img/odi-logo-large.png" alt="ODI" width="36%">
+<img src="/assets/img/odi-logo-large.png" alt="ODI" width="1%">
 <h2> The Open Data Initiative works to ensure government finance data is consistent, transparent, and easily available</h2>
 
 <table cellpadding="10">
