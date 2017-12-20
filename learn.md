@@ -34,16 +34,3 @@ title: Learn
   <tr>
     <td colspan="2">Review ODI History</td>
   </tr>
-    <td><a href="/assets/doc/ODI-Handout.pdf"><img src="/assets/img/handout_icon.png" alt="ODI Handout"></a></td>
-    <td><a href="/assets/doc/ODI-Presentation-r2.pdf"><img src="/assets/img/odi-presentation-icon.png" alt="ODI Presentation"></a></td>
-  <tr>
-    <td>ODI Handout</td>
-    <td>ODI Presentation</td>
-  <tr>
-    <td><a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="ODI Recommeded Tools"></a></td>
-    <td><a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a></td>
-  </tr>
-  <tr>
-    <td>ODI Recommeded Tools</td>
-    <td>ODI Best Practices</td>
-  </tr>
