@@ -1,4 +1,20 @@
 .navbar {
+  background-color: gray;
+  padding: 40px 0;
+  background-image: url('/assets/img/header-bg.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .navbar-burger {
+    &:hover {
+      background-color: transparent;
+    }
+
+    span {
+      background-color: #fff;
+    }
+  }
+
   .navbar-brand {
     overflow-x: inherit;
     overflow-y: inherit;
@@ -13,26 +29,22 @@
     font-size: 12px;
     text-decoration: none;
     text-transform: uppercase;
-    color: #666;
+    color: #fff;
     letter-spacing: .12em;
 
     &:hover {
       background: transparent;
-      color: $link-hover-color;
+      color: #fff;
     }
   }
 }
 
 @media screen and (min-width: 1008px) {
   .navbar {
-    margin-top: 30px;
-
-    .navbar-menu {
-      padding-right: 112px;
-    }
-
-    .navbar-end {
-      margin-right: auto;
-    }
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding-bottom: 150px;
   }
 }
