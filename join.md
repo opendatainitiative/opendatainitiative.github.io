@@ -6,7 +6,7 @@ title: Join
 
 # Join ODI
 
-<table border="1" cellpadding="10">
+<table border="0" cellpadding="10">
   <tr>
     <td><a href="/learn">Read the Mission of ODI</a>
     </td>
