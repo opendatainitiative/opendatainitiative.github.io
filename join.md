@@ -26,7 +26,7 @@ title: Join
   <tr> 
       <td>
         <h3>Transparency Report</h3>
-        <a href="https://docs.google.com/spreadsheets/d/1xUCq0jGeQjpt2noZF7d28wEglzHBIFxemSs3eBZTyiw/edit?usp=sharing"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
+        <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
       </td>
       <td><a href="http://wiki.opendatainitiative.io/Projects/Transparency_Report">For details on how it works, go to the Transparency Report project</a>
       </td>
