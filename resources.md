@@ -50,7 +50,7 @@ title: Resources
      </td>
    </tr>
       <tr>
-    <td colspan="2"><a href="/learn">Learn About ODI</a>. ODI's mission and history</a>
+    <td colspan="2"><a href="/learn">Learn About ODI</a>. ODI's mission and history
     </td>
   </tr>
     <tr>
