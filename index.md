@@ -17,5 +17,4 @@ title: Home
       <td colspan="3"><h3>Open Data Legislation</h3>
         <a href="http://wiki.opendatainitiative.io/Projects/Open_Data_Legislation"><img src="/assets/img/transparency_report_icon.png" alt="ODI Open Data Legislation"></a>
 	 </td>
-      <td>
    </tr>
