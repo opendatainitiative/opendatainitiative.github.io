@@ -11,18 +11,11 @@ title: Home
 		 <br><a href="https://opendatainitiative.github.io/blog/2017-12-18-user-story-ohio-treasury-office/">Read the ODI User Story – OhioCheckbook.com: A New National Standard</a></td>
 </tr>
  <tr>
-	 <td colspan="3"><h3>ODI WORK IN ACTION</h3>We have created three resources so far, with new revisions and more projects coming in 2018</td>
+	 <td colspan="3"><h3>ODI WORK IN ACTION</h3>We are developing the Open Data Legislation project and holding an Ohio townhall over Spring 2018</td>
  </tr>
  <tr> 
-      <td><h3>Transparency Scorecard</h3>
-        <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Scorecard"></a>
+      <td colspan="3"><h3>Open Data Legislation</h3>
+        <a href="http://wiki.opendatainitiative.io/Projects/Open_Data_Legislation"><img src="/assets/img/transparency_report_icon.png" alt="ODI Open Data Legislation"></a>
 	 </td>
       <td>
-        <h3>Recommended Tools</h3>
-        <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="ODI Recommeded Tools"></a>
-     </td>
-      <td>
-        <h3>Best Practices</h3>
-        <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a>
-     </td>
    </tr>
