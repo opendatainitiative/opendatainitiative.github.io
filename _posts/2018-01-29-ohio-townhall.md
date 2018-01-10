@@ -1,10 +1,10 @@
 ---
 layout: default
 title:  "January 2018 Ohio Townhall"
-date:   2017-01-10 12:00 -0800
+date:   2018-01-29 08:00 -0500
 categories: events
 ---
-<h3> January 2018, Ohio Townhall</h3>
+<h3>January 2018, Ohio Townhall</h3>
 Join ODI Director Sean Roberts, Ohio House Rep. Mike Duffey, Ohio Treasury Office, Buckeye Institue, and Data Coalition.
 This two part talk and discussion on Ohio's open data work with some focus on the next steps will be broadcast over Facebook.
 
