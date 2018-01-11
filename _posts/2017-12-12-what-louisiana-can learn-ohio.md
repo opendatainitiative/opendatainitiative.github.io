@@ -12,4 +12,4 @@ target="_blank">What Louisiana can learn from Ohio</a>
 
 “Technology has changed a lot over the past 10 years and there are now a number of groups that want to put spending online for all levels of government,” says LABI President Stephen Waguespack. “LaTrac was good and groundbreaking at the time, but it doesn’t take things to the next level like the Ohio Checkbook does.”
 
-By {{post.author}} @LaPoliticsNow, posted {{post.date}}
+By Jeremy Alford @LaPoliticsNow, posted Business Report
