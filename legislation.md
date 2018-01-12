@@ -16,7 +16,7 @@ title: Legislation
     {% for post in site.categories.legislation %}
       <tr>
             <td>{{ post.date | date: '%B %d, %Y' }}</td>
-            <td>{{ post.excerpt }}</td>
+            <td>{{ post.title }}</td>
       <tr>
             <td colspan="2"><a href="{{ site.baseurl }}{{ post.url }}">go to details</a></td>
       </tr>
