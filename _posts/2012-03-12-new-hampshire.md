@@ -10,7 +10,7 @@ categories: legislation
 ### Status: Signed into law 12 March 2012
 
 ### Bill Text
-
+```
 CHAPTER 5
 
 HB 418-FN – FINAL VERSION
@@ -198,3 +198,4 @@ I. Providing technical information technology consultation to all executive bran
 Approved: March 12, 2012
 
 Effective Date: May 11, 2012
+```
