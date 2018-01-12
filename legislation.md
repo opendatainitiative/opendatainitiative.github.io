@@ -9,7 +9,7 @@ Broken down into two major categories: Model and Existing
 * Existing shows the list of open data legislation (metadata, summary, and comments coming soon)
 * Model shows the ideal open data legislation developed by the Open Data Legislation Project (coming soon)
 
-[Go to the Open Data Project development page](https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project)
+[Go to the Open Data Legislation Project development page](https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project)
 
 ## Existing Open Data Legislation
 <table>
