@@ -4,7 +4,7 @@ permalink: /legislation
 title: Legislation
 ---
 
-# Existing Open Data Legislation
+# Open Data Legislation
 <table cellpadding="10">
     {% for post in site.categories.legislation %}
       <tr>
