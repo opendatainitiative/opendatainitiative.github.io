@@ -15,7 +15,7 @@ title: Home
  </tr>
  <tr> 
       <td colspan="1"><h3>Open Data Legislation</h3>
-        <a href="http://wiki.opendatainitiative.io/Projects/Open_Data_Legislation"><img src="/assets/img/transparency_report_icon.png" alt="ODI Open Data Legislation"></a>
+        <a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="ODI Open Data Legislation"></a>
 	</td>
 	<td colspan="2"><h3>Ohio Townhall</h3>
         <a href="/events/2018-01-29-ohio-townhall/"><img src="/assets/img/ohiocheckbook-small.png" alt="ODI Open Data Legislation"></a>
