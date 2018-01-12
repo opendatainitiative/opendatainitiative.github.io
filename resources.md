@@ -20,7 +20,7 @@ title: Resources
         <h3>Open Data Legislation</h3>
         <a href="http://wiki.opendatainitiative.io/Projects/Open_Data_Legislation"><img src="/assets/img/transparency_report_icon.png" alt="ODI Open Data Legislation"></a>
       </td>
-      <td><a href="http://wiki.opendatainitiative.io/Projects/Open_Data_Legislation">For details on how it works, go to the Open Data Legislation project</a>
+      <td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project">For details on how it works, go to the Open Data Legislation project</a>
       </td>
    </tr>
   <tr> 
@@ -28,7 +28,7 @@ title: Resources
         <h3>Transparency Report</h3>
         <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
       </td>
-      <td><a href="http://wiki.opendatainitiative.io/Projects/Transparency_Report">For details on how it works, go to the Transparency Report project</a>
+      <td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Transparency-Report-Project">For details on how it works, go to the Transparency Report project</a>
       </td>
    </tr>
    <tr>
@@ -37,7 +37,7 @@ title: Resources
         <a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a>
      </td>
      <td>
-        <a href="http://wiki.opendatainitiative.io/Projects/Tools">For details on how it works, go to the Tools project</a>
+        <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Tools-Project">For details on how it works, go to the Tools project</a>
      </td>
    </tr>
    <tr>   
@@ -46,7 +46,7 @@ title: Resources
         <a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a>
      </td>
      <td>
-        <a href="http://wiki.opendatainitiative.io/Projects/Best_Practices">For details on how it works, go to the Best Practices project</a>
+        <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Best-Practices-Project">For details on how it works, go to the Best Practices project</a>
      </td>
    </tr>
       <tr>
