@@ -49,10 +49,6 @@ title: Resources
         <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Best-Practices-Project">For details on how it works, go to the Best Practices project</a>
      </td>
    </tr>
-      <tr>
-    <td colspan="2"><a href="/learn">Learn About ODI</a>. ODI's mission and history
-    </td>
-  </tr>
     <tr>
     <td colspan="2"><a href="https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative">Join the ODI mailing list</a>. By joining the mailing list, you become an ODI Individual Member. <a href="/participation#membership">Find more information on becoming an ODI Individual and Partner Member here.</a>
     </td>
