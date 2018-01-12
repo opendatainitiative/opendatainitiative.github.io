@@ -18,7 +18,7 @@ title: Resources
     <tr> 
       <td>
         <h3>Open Data Legislation</h3>
-        <a href="/legislation"><img src="/assets/img/transparency_report_icon.png" alt="ODI Open Data Legislation"></a>
+        <a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="ODI Open Data Legislation"></a>
       </td>
       <td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project">For details on how it works, go to the Open Data Legislation project</a>
       </td>
