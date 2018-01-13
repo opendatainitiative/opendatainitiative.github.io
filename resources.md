@@ -20,20 +20,22 @@ title: Resources
         <h3>Open Data Legislation</h3>
         <a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="ODI Open Data Legislation"></a>
       Many open data implementations are the result of good management and their policies. But any good policy can be modified by a change in management. To make good policy permanent, the policy must be made into a law. The law must cover just enough detail to establish a framework that the open data implementation can be built upon.
-        We highlight and review open data legislation.
+        We highlight and review open data legislation.<br>
         <a href="/legislation">go to details</a>
       </td>
-      <td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project">go to details</a>
+      <td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project<br>
+        <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project">go to details</a>
       </td>
    </tr>
   <tr> 
       <td>
         <h3>Transparency Report</h3>
         <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
-      Evaluate the current status of open data policies in the states and municipalities using sources, policies, and implementation
+      Evaluate the current status of open data policies in the states and municipalities using sources, policies, and implementation<br>
         <a href="/transparency-scorecard">go to details</a>
       </td>
-      <td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Transparency-Report-Project">go to details</a>
+      <td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<br>
+        <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Transparency-Report-Project">go to details</a>
       </td>
    </tr>
    <tr>
