@@ -23,15 +23,17 @@ title: Resources
         We highlight and review open data legislation.
         <a href="/legislation">go to details</a>
       </td>
-      <td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project">For details on how we highlight and review open data legislaton, review the Open Data Legislation project wiki</a>
+      <td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Open-Data-Legislation-Project">go to details</a>
       </td>
    </tr>
   <tr> 
       <td>
         <h3>Transparency Report</h3>
         <a href="/transparency-scorecard"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
+      Evaluate the current status of open data policies in the states and municipalities using sources, policies, and implementation
+        <a href="/transparency-scorecard">go to details</a>
       </td>
-      <td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Transparency-Report-Project">For details on how it works, go to the Transparency Report project</a>
+      <td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Transparency-Report-Project">go to details</a>
       </td>
    </tr>
    <tr>
