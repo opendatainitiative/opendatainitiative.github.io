@@ -18,6 +18,6 @@ title: Home
         <a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="ODI Open Data Legislation"><br>go to details</a>
 	</td>
 	<td colspan="2"><h3>29 Jan 2018,<br>Ohio’s Push for Open Data Legislation</h3>
-        <a href="/events/2018-01-29-ohio-townhall/"><img src="/assets/img/ohiocheckbook-small.png" alt="ODI Open Data Legislation"><br>go to details</a>
+        <a href="/events/2018-01-29-ohio-townhall/"><img src="/assets/img/ohio-state-capital.png" alt="ODI Open Data Legislation"><br>go to details</a>
 	 </td>
    </tr>
