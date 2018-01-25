@@ -3,7 +3,7 @@ layout: default
 permalink: /
 title: Home
 ---
-<h2>Where government officials come for open data, government financial transparency advice and help. Our resources are developed in partnership with policy, government, and commercial organizations</h2>
+<h2>Where government officials come for open data, government financial transparency advice and help. Our resources are developed in partnership with policy, government, and commercial organizations.</h2>
 
 <table cellpadding="10" align="center">
  <tr>
