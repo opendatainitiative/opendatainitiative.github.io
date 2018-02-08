@@ -16,13 +16,12 @@ I have developed an outline below of how this strategic, shared responsibility g
   * ODI Director is accountable for policy, project, membership, event, marketing, and administration decisions
   * ODI Program Manager is responsible for policy, membership, event, and marketing implementation
 * Advisory Council is informed monthly by the Director on policy, project, membership, event, marketing, and administration 
-* Hold first Advisory Council meeting in December 2017 and then monthly
+* Hold first Advisory Council meeting in February 2018 and then monthly
 * Publish agenda, invite ODI Individual Members to view the meeting via video (facebook or periscope) and comment. Invite the ODI Partner Members to participate in the meetings, but without a vote. Plans for group structure must be published before the first meeting is scheduled. 
 * Advisory Council meetings will follow the [https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order Robert's Rules of Order]. [http://www.dummies.com/careers/business-skills/roberts-rules-for-dummies-cheat-sheet/ Specificity we will follow this short hand version.] 
-* Create an Advisory Council with 5 voting seats: 3 seats for Lincoln and 2 minority voting seats by ODI Director appointment.
-* Data Coalition as an appointed voting council member with one outstanding voting council member seat to fill
-* Lincoln Advisory Council seats: 
-  * Sean as ODI Director and Advisory Council Chair, Albert as ODI Program Manager, Garrett as Lincoln Network Executive Director
+* Create an Advisory Council with 5 voting seats: 3 seats for Lincoln and 2 minority voting seats by ODI Director appointment
+  * Appointed seats filled by Christian Hoehner Data Coalition Policy Director and Alex Howard Sunlight Foundation Deputy Director
+  * Lincoln Network seat filled by Sean as ODI Director and Advisory Council Chair, Albert as ODI Program Manager, Garrett as Lincoln Network Executive Director
 * ODI Director decides voting seat members the first year. Voting seats annually renewed automatically for the first two years unless a voting seat steps down. After first year, contention for a voting seat determined by Partner Member vote.
 * Nonprofit corporate Board of Directors may replace this group
 
