@@ -18,7 +18,7 @@ I have developed an outline below of how this strategic, shared responsibility g
 * Advisory Council is informed monthly by the Director on policy, project, membership, event, marketing, and administration 
 * Hold first Advisory Council meeting in February 2018 and then monthly
 * Publish agenda, invite ODI Individual Members to view the meeting via video (facebook or periscope) and comment. Invite the ODI Partner Members to participate in the meetings, but without a vote. Plans for group structure must be published before the first meeting is scheduled. 
-* Advisory Council meetings will follow the [https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order Robert's Rules of Order]. [http://www.dummies.com/careers/business-skills/roberts-rules-for-dummies-cheat-sheet/ Specificity we will follow this short hand version.] 
+* Advisory Council meetings will follow the [Robert's Rules of Order.](https://en.wikipedia.org/wiki/Robert%27s_Rules_of_Order Robert's Rules of Order). [Specificity we will follow this short hand version.](http://www.dummies.com/careers/business-skills/roberts-rules-for-dummies-cheat-sheet/) 
 * Create an Advisory Council with 5 voting seats: 3 seats for Lincoln and 2 minority voting seats by ODI Director appointment
   * Appointed seats filled by Christian Hoehner Data Coalition Policy Director and Alex Howard Sunlight Foundation Deputy Director
   * Lincoln Network seats filled by Sean as ODI Director and Advisory Council Chair, Albert as ODI Program Manager, Garrett as Lincoln Network Executive Director
@@ -26,11 +26,11 @@ I have developed an outline below of how this strategic, shared responsibility g
 * Nonprofit corporate Board of Directors may replace this group
 
 # References
-* OpenStack https://docs.openstack.org/project-team-guide/introduction.html
-* Linux https://www.linuxfoundation.org/bylaws/ 
-* Apache https://www.apache.org/foundation/governance/ 
-* data coalition https://www.datacoalition.org/about/ 
-* open knowledge https://okfn.org/team/governance/ 
-* open invention network http://www.openinventionnetwork.com/press-room/faqs/ 
-* open source initiative https://opensource.org/bylaws 
-* Eclipse http://www.eclipse.org/org/documents/
+* [OpenStack ](https://docs.openstack.org/project-team-guide/introduction.html)
+* [Linux ](https://www.linuxfoundation.org/bylaws/ )
+* [Apache ](https://www.apache.org/foundation/governance/ )
+* [data coalition ](https://www.datacoalition.org/about/ )
+* [open knowledge ](https://okfn.org/team/governance/ )
+* [open invention network ](http://www.openinventionnetwork.com/press-room/faqs/ )
+* [open source initiative ](https://opensource.org/bylaws )
+* [Eclipse ](http://www.eclipse.org/org/documents/)
