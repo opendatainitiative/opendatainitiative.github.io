@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legislation-how-to
+permalink: /open-data-legislation-how-to
 title: Open Data Legislation How To
 ---
 

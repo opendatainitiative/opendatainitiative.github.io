@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /legislation-implementation
+permalink: /open-data-legislation-implementation
 title: Open Data Legislation Implementation
 ---
 
