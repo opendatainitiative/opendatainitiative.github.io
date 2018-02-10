@@ -6,7 +6,7 @@ categories: events
 ---
 <h3>January 2018, Ohio Townhall</h3>
 <img src="/assets/img/ohio-state-capital.png" alt="January 2018 Ohio Townhall">
-Transparency is a core principle of modern government. On 29 Jan 2018, join the Open Data Initiative (ODI) Director Sean Roberts and the Ohio panel of open data leaders to discuss how they’ve made Ohio’s state financial checkbook data more transparent, accessible, and consistent. Register for the event at [https://www.eventbrite.com/e/ohios-push-for-open-data-legislation-tickets-42461964880](https://www.eventbrite.com/e/ohios-push-for-open-data-legislation-tickets-42461964880)
+Transparency is a core principle of modern government. On 29 Jan 2018, Open Data Initiative (ODI) Director Sean Roberts and the Ohio panel of open data leaders to discussed how they’ve made Ohio’s state financial checkbook data more transparent, accessible, and consistent. [Watch the video here ](https://m.facebook.com/opendatainitiative/#!/opendatainitiative/videos/?ref=page_internal&mt_nav=1)
 
 You'll discover:
 - What started the drive to publish government data in Ohio
