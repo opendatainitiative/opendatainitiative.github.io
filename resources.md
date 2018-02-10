@@ -24,7 +24,7 @@ title: Resources
         <a href="/legislation">go to details</a>
       </td>
       <td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project<br>
-        <a href="https://github.com/opendatainitiative/opendatalegislation/wiki/Open-Data-Legislation-Project">go to details</a>
+        <a href="https://github.com/opendatainitiative/opendatalegislation/wiki">go to details</a>
       </td>
    </tr>
   <tr> 
