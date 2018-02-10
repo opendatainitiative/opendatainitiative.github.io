@@ -9,11 +9,11 @@
 
 ## Installation
 ```
-1. sudo gem install bundler
-1. sudo gem install jekyll
-1. git clone https://github.com/opendatainitiative/opendatainitiative.github.io.git
-1. cd opendatainitiative.github.io
-1. bundle install (do not bundle install as root)
+sudo gem install bundler
+sudo gem install jekyll
+git clone https://github.com/opendatainitiative/opendatainitiative.github.io.git
+cd opendatainitiative.github.io
+bundle install (do not bundle install as root)
 ```
 
 ## Serving
