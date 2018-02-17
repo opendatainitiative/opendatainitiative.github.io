@@ -6,7 +6,7 @@ date:   2018-02-12 12:00:00 -0800
 ---
 
 # Advisory Council
-Meeting agendas: [15 Feb 2018](https://docs.google.com/document/d/1Z82xg_sW-8wNifRwegm_MIn8M0n1wKU2THkK6nwx27c/edit?usp=sharing)
+Meeting agendas: [15 Feb 2018](https://docs.google.com/document/d/1Z82xg_sW-8wNifRwegm_MIn8M0n1wKU2THkK6nwx27c/edit?usp=sharing), [12 Mar 2018](https://docs.google.com/document/d/13No6EIjtrVDbQbOBEA-YpR-9ZgsQFZ5CR27NSROb6Hg)
 ## Overview
 Open source is a practice of transparency, collaboration, and meritocracy with the guarantee of licensing to back it up. Open source has developed over the past 20 years into ideals that many technologists aspire to. Open data is the next step in the evolution of the open source ideals. There are many experienced open data professionals that have been advancing the cause for years. The Open Data Initiative (ODI) means to enhance those efforts with an open data implementation community of professionals. However, ODI is only as strong as the people participating and backing up its mission. There are a few of us right now that are involved in the day to day operations of ODI: [Garrett Johnson](https://www.linkedin.com/in/garrettwjohnson/), [Albert Suarez](https://www.linkedin.com/in/albert-suarez-iv-881955138/), and [Sean Roberts](https://www.linkedin.com/in/sarob/). I want to broaden the ODI participation to additional people and organizations. To accomplish this I started with the Partner Member moniker, inviting organizations to participate in events and articles. Next, I want to create a group of shared responsibility to manage ODI strategic decisions.
 
