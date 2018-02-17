@@ -5,6 +5,11 @@
 * ![Garrett Johnson](/assets/img/garrett-johnson-headshot.png)[Garrett Johnson](https://www.linkedin.com/in/garrettwjohnson/): Lincoln Network Executive Director
 * ![Albert Suarez](/assets/img/albert-suarez-iv-headshot.png)[Albert Suarez](https://www.linkedin.com/in/albert-suarez-iv-881955138/): ODI Program Manager
 
+## Governance
+ODI is only as strong as the people participating and backing up its mission. A few of us meet at least monthly as a group of shared responsibility to manage ODI strategic decisions.
+
+[go to details](https://opendatainitiative.github.io/governance)
+
 ## Mission
 
 The Open Data Initiative (ODI) works to ensure government finance data is consistent, transparent, and easily available.
