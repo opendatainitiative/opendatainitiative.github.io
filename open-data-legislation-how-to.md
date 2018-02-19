@@ -36,10 +36,15 @@ Many open data implementations are the result of good management and their polic
 # Leadership
 1. Senior leadership must provide aircover for the work
 1. 6-12 months support for startup time
+1. Making the data board real, work through the implementation 
+  1. Get senators and city officials discussing how this helps them
+  1. Questionnaire to legislators
+  1. Start holding DataOhio meetings now
+  1. Get news to cover
 
 # Implementation
 1. The policy has to be proven to work before
-2. Reference DataOhio implementation details in this repo
+1. Reference DataOhio implementation details in this repo
     
 # Operations, Customer Services
 1. details from Ohio Treasury
@@ -52,4 +57,4 @@ Many open data implementations are the result of good management and their polic
 1. Sunlight Foundation, Open Data Policy Guidelines, [https://sunlightfoundation.com/opendataguidelines/](https://sunlightfoundation.com/opendataguidelines/)
 1. Open Data Legislation meetings, panel discussion, Next Steps discussion, Ohio Treasury Office meeting, [https://opendatainitiative.github.io/events/2018-01-29-ohio-townhall/](https://opendatainitiative.github.io/events/2018-01-29-ohio-townhall/)
 
-**revision 0.1**
+**revision 0.2**

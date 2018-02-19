@@ -14,10 +14,12 @@ title: Open Data Legislation Implementation
 * Statewide Uniform Accounting Procedures verses Municipal Independence
 * Publishing Data timing and frequency
 * Compliance with Quantity and Quality of Data ( 5 by 5)
-* Influence of other reporting standards
-* Audits
+* Influence of other reporting standards (Audits, CAFR)
+* Customer Service
 
-# Implementation
+# Terms
+
+# Leadership 
 * Open Data implementations require leadership. There must be an empowered, technically experienced individual or group to keep the open data law true to the policy ideals. Ohio has proposed a board, while California has proposed a data officer that reports to the governor. 
 * Data Board or Data Officer leadership is accountable for
   * Categories of records are public records by default. Need to set a baseline that all departments can start from.
@@ -32,6 +34,16 @@ title: Open Data Legislation Implementation
 * Open Data Leadership sets the minimum quality, quantity, and frequency standards. The state departments and municipalities must at least mean the minimum to retain their certification and the ability to be published on the state open data portal. 
 * Audits and CAFR reporting TBD
 
+# State Standards verses Municipal Independence
+* Who owns the Data? The group creating the data
+  * Responsible to display
+  * The state provides aggregation and added value
+  * Who get called for errors?
+
+# Publishing
+# Quantity and Quality
+# Additional Reporting Standards
+
 # Implementation Costs and Savings
 * Review of likely impacts that can be used to justify open data legislation
 * competitive bidding driving standardization. If every new technology contract is a snowflake, then every job will be expensive and slow. Standardization of open data terms, fields, accounting methods, and publishing schedules will allow vendors to create products that can be sold to multiple customers. This will drive down costs.
@@ -45,5 +57,13 @@ title: Open Data Legislation Implementation
 * driving down the cost of local governments. The smaller municipalities have no buying power with vendors. As the larger organizations drive standardization, the smaller municipalities will benefit with options that did not exist before.
   * identify example small Ohio municipalities that do not have standard financial systems
   * report the likely cost savings between implementing a one off financial system compared to a standardized financial system from above
+
+# Customer Service
+* Treasury Office outreach going to city offices and conferences
+* Treasury office customer service focus
+* Longer term to benefit your customer
+* Organize city open data policies to bolster the state open data legislation
+* Outreach to sources of data is a big part of what they do. Education
+
   
-  **revision 0.1**
+  **revision 0.2**
