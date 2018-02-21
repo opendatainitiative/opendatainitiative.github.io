@@ -35,7 +35,7 @@ title: Resources
         <a href="/transparency-scorecard">go to details</a>
       </td>
       <td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<br>
-        <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Transparency-Report-Project">go to details</a>
+        <a href="https://github.com/opendatainitiative/transparency/wiki">go to details</a>
       </td>
    </tr>
    <tr>
