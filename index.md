@@ -4,8 +4,13 @@ permalink: /
 title: Home
 ---
 <h2>Where government officials come for open data, government financial transparency advice and help. Our resources are developed in partnership with policy, government, and commercial organizations.</h2>
-
-<table cellpadding="10" align="center">
+<hr>
+<table align="center">
+ <tr>
+	 <td><h3><a href="/resources#cities">Resources for Cities</a></h3></td>
+	 <td><h3><a href="/resources#states">Resources for States</a></h3></td>
+	 <td><h3><a href="/resources#us-federal">Resources for US Federal</a></h3></td>
+ </tr>
  <tr>
 	 <td colspan="3"><h3>ODI HIGHLIGHT</h3>Meet the government organization that has been making financial transparency work for their constituents for years, the Ohio Treasury Office through their tool the OhioCheckbook.com. 
 		 <br><a href="https://opendatainitiative.github.io/blog/2017-12-18-user-story-ohio-treasury-office/">Read the ODI User Story – OhioCheckbook.com: A New National Standard</a></td>
