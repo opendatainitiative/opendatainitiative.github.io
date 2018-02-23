@@ -25,5 +25,6 @@ Many open data implementations are the result of good management and their polic
             <td colspan="2"><hr></td>
       </tr>
     {% endfor %}
+</table>
 
     version 0.2
