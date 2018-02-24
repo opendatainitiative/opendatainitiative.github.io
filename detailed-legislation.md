@@ -6,7 +6,7 @@ title: Detailed Legislation
 
 # Open Data Legislation
 ## Detailed Existing Open Data Legislation
-Go back to the <a target="_blank" href="/legislation">Summary of Existing Open Data Legislation</a> and review the <a target="_blank" href="/scored-legislation">Scored Existing Open Data Legislation</a>
+Go back to the <a target="_blank" href="/legislation">Summary of Existing Open Data Legislation</a>, <a target="_blank" href="/scored-legislation">Scored Existing Open Data Legislation</a>, and <a target="_blank" href="/scoring">ODI Scoring methodology.</a>
 <table cellpadding="10" border="1">
 	<tr>
 		<th>Session</th>

@@ -13,7 +13,7 @@ Many open data implementations are the result of good management and their polic
 -->
 
 ## Summary of Existing Open Data Legislation
-Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Open Data Legislation</a> and review the <a target="_blank" href="/scored-legislation">Scored Existing Open Data Legislation</a>
+Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Open Data Legislation</a>, <a target="_blank" href="/scored-legislation">Scored Existing Open Data Legislation</a>, and <a target="_blank" href="/scoring">ODI Scoring methodology.</a>
 <table cellpadding="10" border="1">
 	<tr>
 		<th>Session</th>
