@@ -40,4 +40,6 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
   	<td width="14%" align="center">{{ Name.comments }}</td>
   </tr>
 {% endfor %}
+</table>
 
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.3">revision 0.3</a>**

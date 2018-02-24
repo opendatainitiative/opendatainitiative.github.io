@@ -33,4 +33,6 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
   	<td width="25%" align="center">{{ Name.score }}</td>
   </tr>
 {% endfor %}
+</table>
 
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.3">revision 0.3</a>**

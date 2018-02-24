@@ -44,4 +44,6 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
   	<td width="05%" align="center">{{ Name.signed-law }}</td>
   </tr>
 {% endfor %}
+</table>
 
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.3">revision 0.3</a>**

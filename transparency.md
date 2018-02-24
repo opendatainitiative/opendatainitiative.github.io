@@ -14,12 +14,7 @@ In late 2017, we evaluated the current status of open data policies in the state
 Note that we have not scored some of the open data portals, as were focused on the lower PIRG scoring open data portals for this review. <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-money-2016-0">Review 2016 PIRG Government Spending Data report</a>
 <table cellpadding="10" border="1">
 	<tr>
-		<th>Government Organization</th>
-		<th>ODI Transparency Score</th>
-		<th>2016 PIRG Score</th>
-		<th>Accessability</th>
-		<th>Downloadability</th>
-		<th>Comments</th>
+		<th>Government Organization</th><th>ODI Transparency Score</th><th>2016 PIRG Score</th><th>Accessability</th><th>Downloadability</th><th>Comments</th>
 	</tr>
 {% for Name in site.data.alpha-transparency %}
   <tr>
@@ -33,4 +28,4 @@ Note that we have not scored some of the open data portals, as were focused on t
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.1">revision 0.1</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.2">revision 0.2</a>**
