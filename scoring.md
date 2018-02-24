@@ -32,7 +32,7 @@ Calcuation: 0.80[10..0]+0.80[10..0]+0.80[10..0]+0.80[10..0]+0.80[10..0]+0.80[10.
 1. Weight 28% [100 ..0] 2016 PIRG features, Page 32, 100 points from 12 reviewed areas with checkbook features accounting for 40% of the score PIRG 2016 report
 
 ## Legislation
-## Alpha (to be published Sprint 2017)
+### Alpha (to be published Sprint 2017)
 Related legislation is reviewed as a whole and combines the scoring.
 1. Weight 100% [10 ..0] Public Default: Categories of records are public records by default
 1. Weight 100% [10 ..0] Technology standards: Recommend technology standards. These will be minimum requirements so extra work is not generated. Ability to export records in TXT format with recommended metadata headers. Open data system able to support exporting data through API using shared key. Commercial vendor product and open source project options with some high level recommendation of staffing requirements.
