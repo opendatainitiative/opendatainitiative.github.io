@@ -42,15 +42,18 @@ Our partner, the Data Coalition, has been working to implement open data at the 
 <!-- 
 <hr>
 ### <a>Policy-Organizations</a>:
- i have policy I need to push. I can I do that? Contribute to projects, workshops, and content.
+Advance their policy/project goals/contributions and find new funding sources. 
+We want their event and project participation.
 1. 
 <hr>
 ### <a>Universities</a>:
-I have students that need projects. What can they work on? Some issue need to be 160 hr work so a professor could assign.
+Students that need projects. What can they work on? Some issue need to be 160 hr work so a professor could assign. Referring to open data issues, or more generally governance and accountability issues in a data-driven and interconnected world, and efforts to better educate people about best practices, and its uses and misuses. More specifically, efforts with the open data initiative and explore possible collaborations.
 1. 
 <hr>
 ### <a>Commercial-Companies</a>:
-I want customers, where are they? They are using the workshops, information. Support the work so customers see your products
+New ways of reaching customers. All of these companies are startups, so access to sources of investment could be important.
+We want product comparisons, implementation, and operations documented and categorized. 
+These organizations are our best chances for sponsorship. We want enough sponsorship to cover 2018 headcount.
 1. 
 -->
 
