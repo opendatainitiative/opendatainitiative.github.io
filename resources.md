@@ -61,7 +61,7 @@ These organizations are our best chances for sponsorship. We want enough sponsor
 ### Open Data Initiative Projects
 <table border="0" cellpadding="10">
 	<tr>
-		<td colspan="2">ODI has four current projects:</td>
+		<td colspan="2">ODI has four current projects:<hr></td>
 	</tr>
 	<tr> 
 		<td><h3>Open Data Legislation</h3>
@@ -74,10 +74,14 @@ These organizations are our best chances for sponsorship. We want enough sponsor
 		<td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project
 		<br>
 		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">go to details</a>
-		<br>
+		<hr>
 		Review the project issues to be completed
+		<br>
 		<a href="https://github.com/opendatainitiative/opendatalegislation/issues">go to details</a>
 		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><hr></td>
 	</tr>
 	<tr> 
 		<td><h3>Transparency Report and Scoring</h3>
@@ -89,10 +93,14 @@ These organizations are our best chances for sponsorship. We want enough sponsor
 		<a href="/transparency">go to details</a></td>
 		<td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<br>
 		<a href="https://github.com/opendatainitiative/transparency/wiki">go to details</a>
-		<br>
+		<hr>
 		Review the project issues to be completed
+		<br>
 		<a href="https://github.com/opendatainitiative/transparency/issues">go to details</a>
 		</td>
+	</tr>
+	<tr>
+		<td colspan="2"><hr></td>
 	</tr>
 	<tr>
 		<td><h3>Tools</h3>
@@ -101,13 +109,22 @@ These organizations are our best chances for sponsorship. We want enough sponsor
 		<td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Tools-Project">For details on how it works, go to the Tools project</a></td>
 	</tr>
 	<tr>
+		<td colspan="2"><hr></td>
+	</tr>
+	<tr>
 		<td><h3>Best Practices</h3>
 		
 		<a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a></td>
 		<td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Best-Practices-Project">For details on how it works, go to the Best Practices project</a></td>
 	</tr>
 	<tr>
+		<td colspan="2"><hr></td>
+	</tr>
+	<tr>
 		<td colspan="2"><a href="https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative">Join the ODI mailing list</a>. By joining the mailing list, you become an ODI Individual Member. <a href="/participation#membership">Find more information on becoming an ODI Individual and Partner Member here.</a></td>
+	</tr>
+	<tr>
+		<td colspan="2"><hr></td>
 	</tr>
 	<tr>
 		<td colspan="2">Send emails to <a href="mailto:opendatainitiative@lists.opendatainitiative.io">opendatainitiative@lists.opendatainitiative.io</a> to discuss financial transparency and projects</td>
