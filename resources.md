@@ -73,7 +73,11 @@ These organizations are our best chances for sponsorship. We want enough sponsor
 		<a href="/legislation">go to details</a></td>
 		<td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project
 		<br>
-		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">go to details</a></td>
+		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">go to details</a>
+		<br>
+		Review the project issues to be completed
+		<a href="https://github.com/opendatainitiative/opendatalegislation/issues">go to details</a>
+		</td>
 	</tr>
 	<tr> 
 		<td><h3>Transparency Report and Scoring</h3>
@@ -84,7 +88,11 @@ These organizations are our best chances for sponsorship. We want enough sponsor
 		<br>
 		<a href="/transparency">go to details</a></td>
 		<td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<br>
-		<a href="https://github.com/opendatainitiative/transparency/wiki">go to details</a></td>
+		<a href="https://github.com/opendatainitiative/transparency/wiki">go to details</a>
+		<br>
+		Review the project issues to be completed
+		<a href="https://github.com/opendatainitiative/transparency/issues">go to details</a>
+		</td>
 	</tr>
 	<tr>
 		<td><h3>Tools</h3>
