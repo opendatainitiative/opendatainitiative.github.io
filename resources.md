@@ -41,6 +41,16 @@ Our partner, the Data Coalition, has been working to implement open data at the 
 
 <!-- 
 <hr>
+### <a>OpenData-Platforms</a>:
+Proving open data tools, open data aggregation, and access to the data science community.
+1. http://kaggle.com
+1. http://data.world
+1. https://www.data.gov/
+1. https://www.gapminder.org/data/
+1. https://www.census.gov/programs-surveys/state.html
+1. http://www.socrata.com/discover/
+partial source https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#315c3d2eb54d
+<hr>
 ### <a>Policy-Organizations</a>:
 Advance their policy/project goals/contributions and find new funding sources. 
 We want their event and project participation.
