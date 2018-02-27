@@ -7,16 +7,18 @@ title: Home
 <hr>
 <table align="center">
 	<tr>
-		<td width="25%"><h3>Government Resources:</h3></td>
-		<td width="25%" align="center"><h3><a href="/resources#cities">Cities</a></h3></td>
-		<td width="25%" align="center"><h3><a href="/resources#states">States</a></h3></td>
-		<td width="25%" align="center"><h3><a href="/resources#us-federal">US Federal</a></h3></td>
+		<td width="20%"><h3>Government Resources:</h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#cities">Cities</a></h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#states">States</a></h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#us-federal">US Federal</a></h3></td>
+		<td width="20%" align="center"><h3></h3></td>
 	</tr>
 <!--	<tr>
-		<td width="25%"><h3>Partner Resources:</h3></td>
-		<td width="25%" align="center"><h3><a href="/resources#policy-organizations">Policy Organizations</a></h3></td>
-		<td width="25%" align="center"><h3><a href="/resources#universities">Universities</a></h3></td>
-		<td width="25%" align="center"><h3><a href="/resources#commercial-companies">Commercial Companies</a></h3></td>
+		<td width="20%"><h3>Partner Resources:</h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#opendata-platforms"></a>Open Data Platforms</h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#policy-organizations">Policy Organizations</a></h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#universities">Universities</a></h3></td>
+		<td width="20%" align="center"><h3><a href="/resources#commercial-companies">Commercial Companies</a></h3></td>
 	 </tr>
 -->
 	 <tr>
