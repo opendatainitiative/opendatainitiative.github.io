@@ -20,3 +20,5 @@ bundle install (do not bundle install as root)
 ```
 bundle exec jekyll serve
 ``` 
+## References
+* [Jekyll Cheatsheet](https://devhints.io/jekyll)
