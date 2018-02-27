@@ -18,14 +18,18 @@ Note that we have not scored some of the open data portals, as were focused on t
 	</tr>
 {% for Name in site.data.alpha-transparency %}
   <tr>
-  	<td width="15%" align="center">{{ Name.name }}</td>
-  	<td width="15%" align="center">{{ Name.score }}</td>
-  	<td width="15%" align="center">{{ Name.2016-pirg-score }}</td>
-  	<td width="15%" align="center">{{ Name.accessibility }}</td>
-  	<td width="15%" align="center">{{ Name.downloadability }}</td>
-  	<td width="25%" align="center">{{ Name.comments }}</td>
+  	<td class="tablecolumn">{{ Name.name }}</td>
+  	<td class="tablecolumn">{{ Name.score }}</td>
+  	<td class="tablecolumn">{{ Name.2016-pirg-score }}</td>
+  	<td class="tablecolumn">{{ Name.accessibility }}</td>
+  	<td class="tablecolumn">{{ Name.downloadability }}</td>
+  	<td class="tablecolumn largetablecolumn" style="max-width:200 px">{{ Name.comments }}</td>
   </tr>
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.2">revision 0.2</a>**
+<p>This is an 
+<strong style="color: red;">inline style that should be blue</strong>
+.</p>
+
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.22">revision 0.22</a>**
