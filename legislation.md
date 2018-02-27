@@ -21,18 +21,20 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
 		<th>Organization</th>
 		<th>Bill Text</th>
 		<th>Last Activity</th>
-		<th>Score</th>
+		<th>Score [100]</th>
 	</tr>
-{% for Name in site.data.alpha-legislation %}
+
+{% for name in site.data.legislation %}
+{% assign score = name.public-default | plus: name.tech-standards | plus: name.accounting-standards | plus: name.metadata-standards | plus: name.annual-report | plus: name.bi-annual-meetings | plus: name.incentives | plus: name.passed-house | plus: name.passed-senate | plus: name.signed-law | round: 1 %}
   <tr>
-  	<td width="15%" align="center">{{ Name.session }}</td>
-  	<td width="15%" align="center">{{ Name.bill-number }}</td>
-  	<td width="15%" align="center">{{ Name.organization }}</td>
-  	<td width="15%" align="center"><a target="_blank" href="{{ Name.bill-text }}">{{ Name.organization }}-{{ Name.session }}-{{ Name.bill-number }}</a></td>
-  	<td width="15%" align="center">{{ Name.last-activity }}</td>
-  	<td width="25%" align="center">{{ Name.score }}</td>
+  	<td class="tablecolumn" align="center">{{ name.session }}</td>
+  	<td class="tablecolumn" align="center">{{ name.bill-number }}</td>
+  	<td class="tablecolumn" align="center">{{ name.organization }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.last-activity }}</td>
+  	<td class="tablecolumn" align="center">{{ score }}</td>
   </tr>
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.3">revision 0.3</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.42">revision 0.42</a>**

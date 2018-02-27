@@ -23,23 +23,23 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
 		<th>Last Activity</th>
 		<th>Comments</th>
 	</tr>
-{% for Name in site.data.alpha-legislation %}
+{% for name in site.data.legislation %}
   <tr>
-  	<td width="07%" align="center">{{ Name.session }}</td>
-  	<td width="07%" align="center">{{ Name.bill-number }}</td>
-  	<td width="07%" align="center">{{ Name.title }}</td>
-  	<td width="07%" align="center">{{ Name.organization }}</td>
-  	<td width="14%" align="center">{{ Name.review }}</td>
-  	<td width="07%" align="center"><a target="_blank" href="{{ Name.bill-text }}">{{ Name.organization }}-{{ Name.session }}-{{ Name.bill-number }}</a></td>
-  	<td width="07%" align="center"><a target="_blank" href="{ Name.source }}">{{ Name.organization }}-{{ Name.session }}-{{ Name.bill-number }}</a></td>
-  	<td width="10%" align="center">{{ Name.sponsors }}</td>
-  	<td width="10%" align="center">{{ Name.past-legislation }}</td>
-  	<td width="10%" align="center">{{ Name.related-legislation }}</td>
-  	<td width="07%" align="center">{{ Name.introduced }}</td>
-  	<td width="07%" align="center">{{ Name.last-activity }}</td>
-  	<td width="14%" align="center">{{ Name.comments }}</td>
+  	<td class="tablecolumn" align="center">{{ name.session }}</td>
+  	<td class="tablecolumn" align="center">{{ name.bill-number }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.title }}</td>
+  	<td class="tablecolumn" align="center">{{ name.organization }}</td>
+  	<td class="tablecolumn" align="center">{{ name.review }}</td>
+  	<td class="tablecolumn" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn" align="center"><a target="_blank" href="{ name.source }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
+  	<td class="tablecolumn" align="center">{{ name.sponsors }}</td>
+  	<td class="tablecolumn" align="center">{{ name.past-legislation }}</td>
+  	<td class="tablecolumn" align="center">{{ name.related-legislation }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.introduced }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.last-activity }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center">{{ name.comments }}</td>
   </tr>
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.3">revision 0.3</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.42">revision 0.42</a>**
