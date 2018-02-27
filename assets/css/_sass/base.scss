@@ -7,7 +7,29 @@ body {
   color: $black;
   margin: 0;
 }
+.tablecolumn{
+    max-width: 90px;
+    color: #0079c1;
+    height: 2em; 
+    line-height: 1em; 
+    font-size: 20px;
+    font-weight: 400;
+    text-overflow: ellipsis;
+    margin-bottom: 12px;
+    cursor: pointer;
+    word-break: break-all;
+    overflow:hidden;
+    white-space: nowrap;
+}
 
+.largetablecolumn{
+    max-width: 200px;
+}
+.tablecolumn:hover{
+    overflow: visible; 
+    white-space: normal; 
+    word-break: normal;
+}
 h1 {
   font-weight: 300;
   font-size: 68px;
