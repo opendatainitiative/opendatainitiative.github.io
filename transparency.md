@@ -16,20 +16,17 @@ Note that we have not scored some of the open data portals, as were focused on t
 	<tr>
 		<th>Government Organization</th><th>ODI Transparency Score</th><th>2016 PIRG Score</th><th>Accessability</th><th>Downloadability</th><th>Comments</th>
 	</tr>
-{% for Name in site.data.alpha-transparency %}
+{% for name in site.data.transparency %}
+{% assign score = name.2016-pirg-score | times: 0.80 | plus: name.accessibility | plus: name.downloadability | round: 1 %}
   <tr>
-  	<td class="tablecolumn">{{ Name.name }}</td>
-  	<td class="tablecolumn">{{ Name.score }}</td>
-  	<td class="tablecolumn">{{ Name.2016-pirg-score }}</td>
-  	<td class="tablecolumn">{{ Name.accessibility }}</td>
-  	<td class="tablecolumn">{{ Name.downloadability }}</td>
-  	<td class="tablecolumn largetablecolumn" style="max-width:200 px">{{ Name.comments }}</td>
+  	<td class="tablecolumn">{{ name.name }}</td>
+  	<td class="tablecolumn">{{ score }}</td>
+  	<td class="tablecolumn">{{ name.2016-pirg-score }}</td>
+  	<td class="tablecolumn">{{ name.accessibility }}</td>
+  	<td class="tablecolumn">{{ name.downloadability }}</td>
+  	<td class="tablecolumn largetablecolumn" style="max-width:200 px">{{ name.comments }}</td>
   </tr>
 {% endfor %}
 </table>
 
-<p>This is an 
-<strong style="color: red;">inline style that should be blue</strong>
-.</p>
-
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.22">revision 0.22</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.23">revision 0.23</a>**
