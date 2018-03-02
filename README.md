@@ -1,30 +1,24 @@
-# Project Overview
-The Open Data Initiative (ODI) works to ensure government finance data is consistent, transparent, and easily available. ODI is administered through Lincoln Network, a 501(c)(3) nonprofit.
+## Project Overview
+The [Open Data Initiative](https://opendatainitiative.github.io/) website holds the published works of the [Open Data Legislation project](https://github.com/opendatainitiative/opendatalegislation) and [Transparency project](https://github.com/opendatainitiative/transparency). We work on government financial transparency. [Read the ODI about for more overview](https://opendatainitiative.github.io/about/).
 
-# Published Open Data Initiative
-https://opendatainitiative.github.io/
+Submit [issues](https://github.com/opendatainitiative/opendatainitiative.github.io/issues/new) and [pull requests](https://github.com/opendatainitiative/opendatainitiative.github.io/compare) for updates, ideas, bug fixes, and new content.
 
-# Project Details
-* [Project Overview](https://opendatainitiative.github.io/about/)
-* [Project Issues to be Completed](https://github.com/opendatainitiative/opendatainitiative.github.io/issues)
+This site is made with Jekyll, an open source static site generator. This means the Jekyll program takes the content we want to be on the site and turns them into HTML files ready to be hosted somewhere. Giving props where they are due, GitHub provides free web hosting for repositories, called GitHub Pages, and that's how this site is hosted. 
 
-# Contributing
-1. Fork it (https://github.com/opendatainitiative/opendatainitiative.github.io/fork)
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
+## Contributing
+#### Fix/Edit Content
+If you see an error or a place where content should be updated or improved, just fork this repository to your account, make the change you'd like and then submit a pull request. If you're not able to make the change, file an [issues](https://github.com/opendatainitiative/opendatainitiative.github.io/issues/new).
 
-# To Set up Locally
+## To Set up Locally
 You can take all the files of this site and run them just on your computer as if it were live online, only it's just on your machine. This is the best way to test your changes before creating a pull request.
 
-## Requirements
+#### Requirements
 - Ruby v2.3.3 (installed default with macOS)
 - [Bundler](http://bundler.io/) (binaries available with macOS)
 - [Jekyll](https://jekyllrb.com/docs/installation/) (binaries available with macOS)
 - Git (binaries available with macOS)
 
-## Installation
+#### Installation
 ```
 sudo gem install bundler
 sudo gem install jekyll
