@@ -19,6 +19,7 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
 		<th>Session</th>
 		<th>Bill Number</th>
 		<th>Organization</th>
+		<th>ODI Review</th>
 		<th>Bill Text</th>
 		<th>Last Activity</th>
 		<th>Score [100]</th>
@@ -30,6 +31,7 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
   	<td class="tablecolumn" align="center">{{ name.session }}</td>
   	<td class="tablecolumn" align="center">{{ name.bill-number }}</td>
   	<td class="tablecolumn" align="center">{{ name.organization }}</td>
+  	<td class="tablecolumn largetablecolumn" align="center"><a target="_blank" href="{{ name.review }}">{{ name.review }}</a></td>
   	<td class="tablecolumn largetablecolumn" align="center"><a target="_blank" href="{{ name.bill-text }}">{{ name.organization }}-{{ name.session }}-{{ name.bill-number }}</a></td>
   	<td class="tablecolumn largetablecolumn" align="center">{{ name.last-activity }}</td>
   	<td class="tablecolumn" align="center">{{ score }}</td>
@@ -37,4 +39,4 @@ Review the <a target="_blank" href="/detailed-legislation">Detailed Existing Ope
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.42">revision 0.42</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.43">revision 0.43</a>**

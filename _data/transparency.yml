@@ -1,300 +1,461 @@
--   name: California
-    2016-pirg-score: 34
+# Insert new entries in alphabetical order
+# Example
+#-   name: organization name
+#    2016-pirg-score: [0..100]
+#    accessibility: [0..10]
+#    downloadability: [0..10]
+#    comments: 
+#    published-policy: 
+#    source: 
+#    review:
+
+-   name: Alabama
+    2016-pirg-score: 60
     accessibility: 2
-    downloadability: 1
-    comments: Poorly reported. PDF formats. not available after multiple searches. not user friendly
+    downloadability: 2
+    comments: Not comprehensive and available for download only in PDF format
+    published-policy: http://alisondb.legislature.state.al.us/alison/Splash_Bills.aspx
+    source: http://open.alabama.gov/
+    review: Alabama comes in with a D+ rating and ends up in the bottom 10 states for financial transparency. The last reporting done on financial transparency legislation occurred in 2015, so very little is known about their policy. Alabama does once again not provide any information on the impact of tax exemptions, credits, and deductions on the state budget. Alabama needs to improve their website drastically. A prime example is that when their “Governor’s office spending” tab is selected it simply leads to the website of the governor. This provides no information on the actual spending of the governor's office. The Alabama website is very good at providing specific details of spending and provides access to PDF downloads. It also provides access to higher education entity spending. This is a policy that many states should adopt. The website could use more graphics to allow for easier digestion of the information that is available.Overall the information on this website is valuable, but it could be redesigned to be easier to read through and understand.
     
 -   name: Alaska
     2016-pirg-score: 43
     accessibility: 2
     downloadability: 1
     comments: Not user friendly layout. data PDF formats. not available after multiple searches
-    
--   name: Idaho
-    2016-pirg-score: 45
-    accessibility: 2
-    downloadability: 3
-    comments: Exportable in .csv format. revenues by year. agency etc
-    
--   name: Alabama
-    2016-pirg-score: 60
-    accessibility: 2
-    downloadability: 2
-    comments: Not comprehensive and available for download only in PDF format
-    
--   name: North Dakota
-    2016-pirg-score: 64
-    accessibility: 3
-    downloadability: 3
-    comments: Most data in .csv format but navigation is difficult
-    
--   name: Georgia
-    2016-pirg-score: 74
-    accessibility: 4
-    downloadability: 3
-    comments: Data not comprehensive. PDF documents. not user friendly
-    
--   name: Wyoming
-    2016-pirg-score: 73
-    accessibility: 4
-    downloadability: 4
-    comments: Data available in PDF format. not available in a single website. but links to others are provided
-    
--   name: Hawaii
-    2016-pirg-score: 71
-    accessibility: 5
-    downloadability: 5
-    comments: Socrata powered website. Uniform layout as compared to other states. graphics. vendor data. time series available
-    
--   name: Missouri
-    2016-pirg-score: 77
-    accessibility: 4
-    downloadability: 2
-    comments: Socrata powered open data website. data not available easily. access to datasets limited
-    
--   name: Maine
-    2016-pirg-score: 76
-    accessibility: 4
-    downloadability: 4
-    comments: Data available in .csv format. but not open to easy manibpulation 
-    
--   name: New Hampshire
-    2016-pirg-score: 78
-    accessibility: 4
-    downloadability: 4
-    comments: Difficult to navigate layout. data available for bulk download
-    
--   name: South Carolina
-    2016-pirg-score: 78
-    accessibility: 4
-    downloadability: 4
-    comments: Data available for bulk download in .csv format. but not interactive or easy to use.
-    
--   name: New Mexico
-    2016-pirg-score: 77
-    accessibility: 5
-    downloadability: 4
-    comments: Difficult to navigate but relatively comprehensive database. data available in both .csv and PDF format.
-    
--   name: Delaware
-    2016-pirg-score: 77
-    accessibility: 5
-    downloadability: 5
-    comments: Relatively easy to navigate. interactive. Socrata powered website. Data available for download in .CSV format.
-    
--   name: Mississippi
-    2016-pirg-score: 79
-    accessibility: 5
-    downloadability: 4
-    comments: HTML data download facility. difficult to use and manipulate
-    
--   name: Rhode Island
-    2016-pirg-score: 81.5
-    accessibility: 5
-    downloadability: 4
-    comments: no comment
-    
--   name: Arkansas
-    2016-pirg-score: 82
-    accessibility: 5
-    downloadability: 5
-    comments: Easy to download bulk data
-    
--   name: Virginia
-    2016-pirg-score: 82
-    accessibility: 5
-    downloadability: 5
-    comments: Easy to use but difficult to find specific datasets. data visualizations for certain datasets using GIS
-    
--   name: Nevada
-    2016-pirg-score: 83
-    accessibility: 5
-    downloadability: 5
-    comments: Difficult to use layout. open data website under consideration. review website at a later stage
-    
--   name: New Jersey
-    2016-pirg-score: 83
-    accessibility: 7
-    downloadability: 7
-    comments: Easy to access. interactive. bulk downloads
-    
--   name: Pennsylvania
-    2016-pirg-score: 83
-    accessibility: 7
-    downloadability: 7
-    comments: User friendly data catalogs. easy navigation and bulk data downloadability
+    published-policy: http://www.akleg.gov/basis/Home/BillsandLaws
+    source: http://doa.alaska.gov/dof/reports/transparency.html
+    review: Alaska also received a failing grade from the PIRG report for a multitude of reasons. According to our research Alaska had policy that required the annual comprehensive financial report but it is unknown when that legislation was passed. Alaska’s online checkbook is difficult to find through an online search. Alaska’s website is the worst part of their financial database. It is outdated and not easy to look at. This would be the primary thing to improve when it comes to complying with the open data act. Graphics, interactive maps, and drop down tabs would all benefit this website tremendously. The website is copyrighted from 2011. The information is set up in PDF format which is good for analysing  everything but there could be a more efficient way to find the information quickly and effectively. 
     
 -   name: Arizona
     2016-pirg-score: 86
     accessibility: 6
     downloadability: 6
     comments: Not easy to navigate. not bulk data download friendly
-    
--   name: Minnesota
-    2016-pirg-score: 86
-    accessibility: 6
-    downloadability: 6
-    comments: no comment
-    
--   name: Kentucky
-    2016-pirg-score: 88
+    published-policy: https://gao.az.gov/sites/default/files/OpenBooks_ISA.pdf
+    source: https://openbooks.az.gov/
+    review: 
+            
+-   name: Arkansas
+    2016-pirg-score: 82
     accessibility: 5
-    downloadability: 6
-    comments: "Other website for transparency; https://transparency.ky.gov/search/Pages/spendingsearch.aspx#/spending"
-    
--   name: Vermont
-    2016-pirg-score: 88
-    accessibility: 6
     downloadability: 5
-    comments: "Easily accessible data but in PDF format; also available at https://data.vermont.gov/" 
+    comments: Easy to download bulk data
+    published-policy: https://www.datacoalition.org/an-open-data-menu-for-arkansas/
+    source: http://transparency.arkansas.gov/
+    review: 
+            
+
+-   name: California
+    2016-pirg-score: 34
+    accessibility: 2
+    downloadability: 1
+    comments: Poorly reported. PDF formats. not available after multiple searches. not user friendly
+    published-policy: http://www.sco.ca.gov/eo_sco_data.html
+    source: https://data.ca.gov/
+    review: California was ranked as the state with the worst financial transparency according to the PIRG report. Even with attempted legislation in the Fall of 2015 and “step by step” progress they lag far behind states with the best financial transparency. California needs to streamline all their expenditures into one portal. The state database provides helpful maps and graphics for general overviews of expenditures, but it does not provide easy access to the details. California also does not provide access to the effects of tax credits and exemptions on the state budget according to the PIRG report. They also need to improve their accessibility through a web search. After the resolution of the accessibility issue, the exportability and usability of data need to be addressed. Multiple tabs had to be checked to find the proper website. California could also use a comment and suggestion option.
     
--   name: Washington
-    2016-pirg-score: 87
-    accessibility: 6
-    downloadability: 6
-    comments: User friendly layout. interactive data and open checkbook
+-   name: Colorado
+    2016-pirg-score: 93.5
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: https://www.colorado.gov/apps/oit/transparency/
+    review: 
+            
+-   name: Connecticut
+    2016-pirg-score: 99
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: http://transparency.ct.gov/html/main.asp
+    review: Policy by State Legislature. Site was created in accordance with Public Act 10-155, An Act Requiring the Establishment of a Searchable Database for State Expenditures. This Public Act requires the Office of Fiscal Analysis to establish and maintain a website for the purpose of posting state agency expenditures, including contracts and grants. The Office of Fiscal Analysis (OFA) is a nonpartisan office that supports the Connecticut General Assembly. To read more about us, please visit our website at http://www.cga.ct.gov/ofa.
+
+-   name: Delaware
+    2016-pirg-score: 77
+    accessibility: 5
+    downloadability: 5
+    comments: Relatively easy to navigate. interactive. Socrata powered website. Data available for download in .CSV format.
+    published-policy: 
+    source: https://accounting.delaware.gov/checkbook/
+    review: Delaware has received a C+ rating from PIRG. Delaware does not have any existing existing or previous legislation on the matter. Rather their Department of State takes care of anything that has to do with a the state's open data. Delaware provides a fairly useful website. They give access to the user’s graphic of choice whether that be pie chart, bar graph, or line graph. This is something that should be implemented on all financial databases. The problem is the amount of information that is available to the user. For example, when education is typed into the search bar “department of education comes up” but when that is clicked it then says that there is no information available.  Downloads are available in a csv format but are not available for a pdf download. PDF downloads should be available as they are the most convenient. Delaware also needs to provide a feedback and comments section of the website, so the public feels more connected to the government that is supposed to be serving them. Additionally, there is no published policy. Rather open data has been made the responsibility of the Department of State (DOS), “ensuring citizens free and equal access to State, Local, and Federal government information.” The Government Information Center (GIC) manages the implementation for the Department of State.
+            
+-   name: Florida
+    2016-pirg-score: 96
+    accessibility: 10
+    downloadability: 8
+    comments: 
+    published-policy: 
+    source: https://www.myfloridacfo.com/Transparency/
+    review: Many sources of data are available for reports. The data can only be downloaded in PDF, XLS, or XML formats.
+    
+-   name: Georgia
+    2016-pirg-score: 74
+    accessibility: 4
+    downloadability: 3
+    comments: Data not comprehensive. PDF documents. not user friendly
+    published-policy: 
+    source: http://www.open.georgia.gov/
+    review: Georgia has a C rating from the PIRG report for financial transparency. Georgia has been more legislatively active in their efforts to be financially transparent than most other states. They passed a bill in 2008 that led to the creation of their financial transparency database.  Legislation was also passed in 2010 that required the Board of education to post the  SPLOST on the website. Other legislation from 2010 that was passed required the Office of Planning and Budget to maintain a record of all user fees collected by any department, agency, or other budget unit on an annual basis and to publish the information gathered on the open.georgia.gov website. With all this legislation Georgia has improved their transparency but still lags far behind many of the other states. Georgia simply provides a the information in a broad PDF format. This is good if all the information is needed but makes it difficult to find specific spending details.The website was created in 2008a and it looks like the design and interface has not been updated since then. There are multiple options to click on the homepage but many of them lead to the same thing. No helpful maps or graphics are provided and makes the information difficult to read through. The website does in fact provide a feedback link that is easy to find. This website needs to make it easier to find spending details, eliminate the redundant tabs, and update its outdated interface. Additionally, published policy by State Legislature. Senate Bill 300 was passed in the 2008 legislative session and is referred to as the Transparency in Government Act. You can read about Senate Bill 300 at the following location http://www.legis.ga.gov/Legislation/en-US/display/20072008/SB/300 . Senate Bill 389 was passed in the 2010 legislative session and is to amend code 50-6-32 which is the Transparency in Government Act. You can read about Senate Bill 389 at the following location http://www.legis.ga.gov/Legislation/en-US/display/20092010/SB/389 . House Bill 1013 requires that each local board of education subject to Code 48-8-11 provide the SPLOST report to post on the Open.Georgia.gov website. You can read about House Bill 1013 at the following location http://www.legis.ga.gov/Legislation/en-US/display/20092010/HB/1013 . HB 1284 requires the Office of Planning and Budget to maintain a record of all user fees collected by any department, agency, or other budget unit on an annual basis and to publish the information gathered on the open.georgia.gov website. You can read about HB 1284 at the following link http://www.legis.ga.gov/Legislation/en-US/display/20092010/HB/1284
+            
+-   name: Hawaii
+    2016-pirg-score: 71
+    accessibility: 5
+    downloadability: 5
+    comments: Socrata powered website. Uniform layout as compared to other states. graphics. vendor data. time series available
+    published-policy: 
+    source: http://transparency.hawaii.gov/
+    review: Hawaii received a C rating from the U.S. PIRG report on financial transparency. Hawaii’s 2007 House Bill 122 requires a full disclosure of entities receiving state awards, and its 2009 Senate Bill 659 required that all expenditure information be made available for free on a single, searchable website. This legislation does not, however, require this information to be available in machine-readable format. While Hawaii has generally accessible and comprehensive checkbook-level spending, its information on subsidy spending is limited compared to the top-ranking states, as it does not have recipient-specific information on any of its key subsidy programs. Hawaii has bulk-downloadable information, but it is not provided in as accessible a way as the top states. The Hawaii transparency website interface is well-designed and interactive, and offers users the opportunity to either look into specific areas of interest or access the raw financial data. 
+            
+-   name: Idaho
+    2016-pirg-score: 45
+    accessibility: 2
+    downloadability: 3
+    comments: Exportable in .csv format. revenues by year. agency etc
+    published-policy: 
+    source: http://transparent.idaho.gov/Pages/transhome.aspx
+    review: Idaho is another failing state for financial transparency. The PIRG report states that Idaho’s website is difficult to find when just doing a straight internet search. They also do not provide information on how tax exemptions,  credits, and deductions impact the state budget as the other high ranking states do. Idaho does not have any known policy that is dedicated to the financial transparency of the state. Idaho’s is very outdated and has a poor layout. This could be developed into a much more user friendly interface. Everything is in PDF format which is okay if the entire report is needed but does not bode well for the person trying to find specific details. The website needs an updated interface that takes advantage of graphics and more specific dropdown tab choices.
+        
+-   name: Illinois
+    2016-pirg-score: 93
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: http://accountability.illinois.gov/
+    review: 
+            
+-   name: Indiana
+    2016-pirg-score: 100
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: http://www.in.gov/itp/
+    review: Policy by State Legislature. S.B. 126 Status March 28, 2016; Public Law No. 208-2016 Requires local governments and school corporations to provide information for posting on the transparency Internet web site, including information concerning expenditures, lease payments, and fund balances; requires the Department of Local Government Finance to publish a financial and operational summary of each political subdivision; urges the Legislative Council to assign to a certain committee the topic of expanding the availability of open data.
+            
+-   name: Iowa
+    2016-pirg-score: 94.5
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: https://dom.iowa.gov/transparency
+    source: http://checkbook.iowa.gov/
+    review: 
     
 -   name: Kansas
     2016-pirg-score: 84
     accessibility: 7
     downloadability: 8
     comments: Interactive. bulk data. easy navigation and .csv and PDF files
-    
--   name: Tennessee
-    2016-pirg-score: 85.5
+    published-policy: 
+    source: http://www.kansas.gov/KanView/faq
+    review: Policy by State Legislature. In 1976, the General Assembly enacted the Open Records Act, KRS 61.870 to KRS 61.884, which establishes a right of access to public records. The General Assembly recognized that free and open examination of public records is in the public interest. All public records, whether they are stored in a computer or on paper, must be open for inspection unless the records are exempted by one or more of the fourteen exemptions found in the Act. You may inspect any nonexempt public record regardless of your identity, and you may seek enforcement of the Act if you are denied this right.
+            
+-   name: Kentucky
+    2016-pirg-score: 88
+    accessibility: 5
+    downloadability: 6
+    comments: "Other website for transparency; https://transparency.ky.gov/search/Pages/spendingsearch.aspx#/spending"
+    published-policy: 
+    source: http://transparency.ky.gov/transparency/Pages/default.aspx
+    review: 
+            
+-   name: Louisiana
+    2016-pirg-score: 96
     accessibility: 7
     downloadability: 7
-    comments: no comment
-    
--   name: North Carolina
-    2016-pirg-score: 89.5 
-    accessibility: 6
-    downloadability: 5
-    comments: no comment
-    
--   name: Nebraska
-    2016-pirg-score: 90
-    accessibility: 6
-    downloadability: 5
-    comments: "More data available through; http://www.nebraska.gov/government/open-data/"
-    
+    comments: Reports can be generated from many dataset with some limitation to how they can be displayed. Only large datasets can be downloaded in xlsx format. 
+    source: https://wwwcfprd.doa.louisiana.gov/latrac/portal.cfm
+    review: The finance site states in many places that the data presented is inaccurate. C'est la vie.
+            
+-   name: Maine
+    2016-pirg-score: 76
+    accessibility: 4
+    downloadability: 4
+    comments: Data available in .csv format. but not open to easy manibpulation 
+    published-policy: 
+    source: http://opencheckbook.maine.gov/transparency/index.html
+    review: Maine received a C+ rating from the U.S. PIRG report on financial transparency. Maine has no legislative policy in place to ensure financial transparency. Rather, its transparency website is an initiative of Governor Paul R. Lepage and administered by the Office of the State Controller under the Department of Administrative and Financial Services. The site consists of two sections, one for state expenses and one for employee compensation. While its data is easily accessible, it is difficult to parse as it has no infographics or charts to explain the data. To really gain a lot of information from the Maine website would require a user to know to a precise degree what they wished to search for. While Maine’s transparency effort is admirable in lieu of legislative policy, it only provides the most straightforward state financial expenditures, and would not comply with the federal Open Data Act.
+            
 -   name: Maryland
     2016-pirg-score: 88
     accessibility: 7
     downloadability: 6
     comments: no comment
-    
+    published-policy: 
+    source: http://spending.dbm.maryland.gov/
+    review: 
+            
+-   name: Massachusetts
+    2016-pirg-score: 95.5
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: https://www.macomptroller.org/cthru
+    review: http://www.mass.gov/informedma/spending/Massachusetts earned a 67 — or a D+ — and tied with Iowa for 11th place nationwide in the State Integrity Investigation, conducted by the Center for Public Integrity and Global Integrity. The Massachusetts Legislature is one of just seven nationwide that completely exempt themselves from a state public records law, according to a Reporters Committee for the Freedom of the Press tally from 2011.
+            
+-   name: Michigan
+    2016-pirg-score: 100
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: https://transparency.michigan.gov/
+    review: https://www.datacoalition.org/data-transparency-2013-exhibitor-spotlight-teradata/
+            
+-   name: Minnesota
+    2016-pirg-score: 86
+    accessibility: 6
+    downloadability: 6
+    comments: no comment
+    published-policy: 
+    source: https://mn.gov/mmb/transparency-mn/
+    review: Policy by State Legislature. H.B. 2611 STATUS March 3, 2014; To House Committee on State Government Finance & Veterans Affairs. Relates to state government; appropriates money for a grant for open government, civic technology, and open data.
+            
+-   name: Mississippi
+    2016-pirg-score: 79
+    accessibility: 5
+    downloadability: 4
+    comments: HTML data download facility. difficult to use and manipulate
+    published-policy: 
+    source: http://www.transparency.mississippi.gov/
+    review: 
+            
+-   name: Missouri
+    2016-pirg-score: 77
+    accessibility: 4
+    downloadability: 2
+    comments: Socrata powered open data website. data not available easily. access to datasets limited
+    published-policy: 
+    source: https://mapyourtaxes.mo.gov/MAP/Portal/Default.aspx
+    review: 
+            
+-   name: Montana
+    2016-pirg-score: 92
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: https://transparency.mt.gov/
+    review: 
+            
+-   name: Nebraska
+    2016-pirg-score: 90
+    accessibility: 6
+    downloadability: 5
+    comments: "More data available through; http://www.nebraska.gov/government/open-data/"
+    published-policy: 
+    source: http://www.statespending.nebraska.gov/
+    review: 
+            
+-   name: Nevada
+    2016-pirg-score: 83
+    accessibility: 5
+    downloadability: 5
+    comments: Difficult to use layout. open data website under consideration. review website at a later stage
+    published-policy: 
+    source: http://open.nv.gov/
+    review: 
+            
+-   name: New Hampshire
+    2016-pirg-score: 78
+    accessibility: 4
+    downloadability: 4
+    comments: Difficult to navigate layout. data available for bulk download
+    published-policy: 
+    source: https://www.nh.gov/transparentnh/
+    review: Policy by State Legislature. Chapter 65 - Laws of 2010, an act to promote transparency in the state budget process by providing the public with on-line access to budget, expenditure and revenue information and reports which are not confidential and which are vital to good government. The site is being developed and maintained by the New Hampshire Department of Administrative Services and the Department of Information Technology, in consultation with the legislative oversight committee established by Chapter 65 - Laws of 2010
+
+-   name: New Jersey
+    2016-pirg-score: 83
+    accessibility: 7
+    downloadability: 7
+    comments: Easy to access. interactive. bulk downloads
+    published-policy: 
+    source: http://www.yourmoney.nj.gov/
+    review: 
+            
+-   name: New Mexico
+    2016-pirg-score: 77
+    accessibility: 5
+    downloadability: 4
+    comments: Difficult to navigate but relatively comprehensive database. data available in both .csv and PDF format.
+    published-policy: 
+    source: http://www.sunshineportalnm.com/
+    review: SHARE is the state of New Mexico's financial and human resource computer system. All agencies except the New Mexico State Fair use SHARE to account for all financial transactions.
+            
+-   name: New York
+    2016-pirg-score: 93
+    accessibility: 10
+    downloadability: 0
+    comments: 
+    published-policy: 
+    source: http://seethroughny.net/
+    review: Policy by State Legislature. MARCH 11, 2013 No. 95 Using Technology to Promote Transparency, Improve Government Performance and Enhance Citizen Engagement
+            
+-   name: North Carolina
+    2016-pirg-score: 89.5 
+    accessibility: 6
+    downloadability: 5
+    comments: no comment
+    published-policy: 
+    source: http://www.ncopenbook.gov/
+    review: Policy is not obvious. The state IT Data Division may have taken the place of policy. The Data division strives to be the trusted partner and leader for enabling the sharing and analysis of data assets statewide. The division functions as the Chief Data and Innovation Office for the State and is comprised of the Government Data Analytics Center (GDAC), the Center for Geographic Information and Analysis (CGIA), the Innovation Office, the Health Information Exchange Authority and staff (HIEA), NC 911 Board and staff, and Criminal Justice Information Network Board and staff (CJIN).
+            
+-   name: North Dakota
+    2016-pirg-score: 64
+    accessibility: 3
+    downloadability: 3
+    comments: Most data in .csv format but navigation is difficult
+    published-policy: 
+    source: http://data.share.nd.gov/pr/Pages/home.aspx
+    review: North Dakota has a D+ rating on the PIRG report and is also in the bottom 10 states. In 2009 North Dakota passed legislation to create a website that would act as their financial transparency database and would document from 2007 on. This was a good step for them but their website is inadequate. It looks like it has not been updated in some time. According to the PIRG report North Dakota does not provide information on tax exemptions, credits, and deductions effects on their state budget. North Dakota gives the option to export information as a pdf, csv, or excel. They also go into tremendous detail on their spending which is beneficial for some people. North dakota provides a comment and feedback section which needs to be available on every one of these websites. The issue with the website like so many of these others is that it is hard to digest all the numbers that are incorporated to the lists. This is where some sort of graphic or interactive map would be beneficial to the website. The needed information by the individual looking at the website may be difficult to find as the information could be much more streamlined. Some of the tab options take the user to different websites which is not ideal. Additionally, policy has been established by the State Legislature. In 2009 Legislative Assembly, North Dakota Century Code  54-44.1-18, Searchable Database of Expenditures, and provides a single point of reference to view State and University System expenditures from July 1, 2007 to current.
+
+-   name: Ohio
+    2016-pirg-score: 100
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: http://ohiotreasurer.gov/Transparency/Ohios-Online-Checkbook
+    review: 
+            
+-   name: Oklahoma
+    2016-pirg-score: 90.5
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: https://data.ok.gov/
+    review: Policy by State Legislature. H.B. 1888 STATUS Feb. 11, 2013; From House Committee on Government Modernization.Relates to public finance. Establishes the Oklahoma State Government Open Records One-Stop Initiative. Imposes duties on the chief information officer. Provides for delivery of certain documents. Requires electronic delivery. Requires certain documents be made available to the public. Provides for statutory construction. Provides for codification. Provides an effective date.
+            
+-   name: Oregon
+    2016-pirg-score: 100
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: http://www.oregon.gov/Pages/datamoderation.aspx 
+    source: http://www.oregon.gov/transparency/Pages/index.aspx
+    review: 
+        
+-   name: Pennsylvania
+    2016-pirg-score: 83
+    accessibility: 7
+    downloadability: 7
+    comments: User friendly data catalogs. easy navigation and bulk data downloadability
+    published-policy: 
+    source: http://pennwatch.pa.gov/Pages/default.aspx
+    review: Policy by Governor. April 19, 2016, Governor Wolf signed an executive order to release agency data to the public in an open, accessible format, and on August 22, 2016, his administration launched OpenDataPA, Pennsylvania’s first open data portal.
+            
+-   name: Rhode Island
+    2016-pirg-score: 81.5
+    accessibility: 5
+    downloadability: 4
+    comments: no comment
+    published-policy: 
+    source: http://www.transparency.ri.gov/
+    review: 
+            
+-   name: South Carolina
+    2016-pirg-score: 78
+    accessibility: 4
+    downloadability: 4
+    comments: Data available for bulk download in .csv format. but not interactive or easy to use.
+    published-policy: 
+    source: http://www.cg.sc.gov/fiscaltransparency/Pages/default.aspx
+    review: Master Agreement with the State of South Carolina establishes an eGovernment Oversight Committee that helps to set policies and overall priorities, approve projects and services, authorize access fees and ensure that the portal utilizes funds in the best interests of the State.
+            
+-   name: South Dakota
+    2016-pirg-score: 90
+    accessibility: 5
+    downloadability: 5
+    comments: 
+    published-policy: 
+    source: http://open.sd.gov/
+    review: Data is available online forms, but not easily available to get access to in a reporting format. Some areas allow for downloading all data in CSV, where others have no ability to download data. Unknown policy that required the Comprehensive Annual Financial Report  http://open.sd.gov/Info_fr.aspx 
+            
+-   name: Tennessee
+    2016-pirg-score: 85.5
+    accessibility: 7
+    downloadability: 7
+    comments: no comment
+    published-policy: 
+    source: https://www.tn.gov/transparenttn
+    review: Policy by Governor. Governor established website that publishes finance data sets in 2011
+            
+
+-   name: Texas
+    2016-pirg-score: 93.5
+    accessibility: 8
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: https://comptroller.texas.gov/transparency/
+    review: Many data sources can be reported on. However, it can be difficult to find and manipulate the reports. Major areas of finacial are available for download in CSV format. Policy by State Legislature. All open data and high-value data sets submitted by state agencies per Senate Bill 279 (83R) 
+            
 -   name: Utah
     2016-pirg-score: 88
     accessibility: 7
     downloadability: 6
     comments: Socrata powered primary database. but not single window access.
-    
+    published-policy: 
+    source: https://www.utah.gov/transparency/
+    review: Utah has a Transparency Advisory Board is comprised of thirteen members knowledgeable about public finance or providing public access to public financial information. There is no transparency on their decisions or agena.
+            
+-   name: Vermont
+    2016-pirg-score: 88
+    accessibility: 6
+    downloadability: 5
+    comments: "Easily accessible data but in PDF format; also available at https://data.vermont.gov/" 
+    published-policy: 
+    source: http://www.vttransparency.org/
+    review: 
+            
+-   name: Virginia
+    2016-pirg-score: 82
+    accessibility: 5
+    downloadability: 5
+    comments: Easy to use but difficult to find specific datasets. data visualizations for certain datasets using GIS
+    published-policy: 
+    source: https://eva.virginia.gov/pages/eva-public-access.htm
+    review: 
+            
+-   name: Washington
+    2016-pirg-score: 87
+    accessibility: 6
+    downloadability: 6
+    comments: User friendly layout. interactive data and open checkbook
+    published-policy: 
+    source: http://fiscal.wa.gov/
+    review: 
+            
 -   name: West Virginia
     2016-pirg-score: 83
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: South Dakota
-    2016-pirg-score: 90
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Oklahoma
-    2016-pirg-score: 90.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Montana
-    2016-pirg-score: 92
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Illinois
-    2016-pirg-score: 93
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: New York
-    2016-pirg-score: 93
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Colorado
-    2016-pirg-score: 93.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Texas
-    2016-pirg-score: 93.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Iowa
-    2016-pirg-score: 94.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Massachusetts
-    2016-pirg-score: 95.5
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Florida
-    2016-pirg-score: 96
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Louisiana
-    2016-pirg-score: 96
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
+    accessibility: 10
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: http://www.transparencywv.org/
+    review: Policy by Governor. 11 May 2017, West Virginia State Auditor John B. McCuskey is launching a new open data platform that will make it easier for everyone — from ordinary citizens up through actual policymakers — to find, analyze and disseminate specific information about government 
+            
 -   name: Wisconsin
     2016-pirg-score: 97
-    accessibility: 
-    
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Connecticut
-    2016-pirg-score: 99
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Indiana
-    2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Michigan
-    2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Ohio
-    2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
-    
--   name: Oregon
-    2016-pirg-score: 100
-    accessibility: 
-    downloadability: 
-    comments: Top third PIRG open data portals were not scored for this review
+    accessibility: 7
+    downloadability: 10
+    comments: 
+    published-policy: 
+    source: http://openbook.wi.gov/
+    review: Limited ability to generate reports, while many data sources available to review. Downloadable as XML, XLS, and CSV.
+            
+-   name: Wyoming
+    2016-pirg-score: 73
+    accessibility: 4
+    downloadability: 4
+    comments: Data available in PDF format. not available in a single website. but links to others are provided
+    published-policy: 
+    source: http://ai.wyo.gov/home/transparency
+    review: Wyoming received a C rating from the U.S. PIRG report on financial transparency. While it created a public finance website in accordance with 2009 H.B. 144, it still lags behind top-ranked states in design and ease-of-use. While its online checkbook tracks and reports a wide range of spending, Wyoming only provides information on four of its subsidy programs. However, it does provide recipient-specific information on the projected economic benefits of some subsidy funds. The website also fails to provide any specific details on the types of payments excluded from its checkbook, making opaque the state’s financial data which may exist, but is not publicly accessible. Much of the information on the website is also saved in PDF format, and is difficult to easily peruse and search. Wyoming also does not provide the impact of state tax credits, exemptions, or deductions on the state budget. Overall, Wyoming fails to provide its citizens access to all of the financial data produced in the state, and fails to fully comply with the federal Open Data Act.
