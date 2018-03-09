@@ -35,7 +35,7 @@
     introduced: 1-Feb-2017
     last-activity: 13-Dec-2017
     comments: "Passed House Finance Committee Vote. Good outline of DataOhio board responsibilities, but missing details on the definition, e.g. Ability to export records in TXT format with recommended metadata headers, recommend accounting standards such as  utilizing the state accounting system and base common fields, and metadata at a minimum define the field headers for the accounting standard fields."
-    review: /legislation-review/2017-01-25-ohio-legislation-review/
+    review: /legislation-review/2018-01-25-ohio-legislation-review/
     public-default: 10
     tech-standards: 5
     accounting-standards: 7
@@ -59,7 +59,7 @@
     introduced: 6-Feb-2017
     last-activity: 6-Feb-2017
     comments: Introduced
-    review: /legislation-review/2017-01-25-ohio-legislation-review/
+    review: /legislation-review/2018-01-25-ohio-legislation-review/
     public-default: 10
     tech-standards: 5
     accounting-standards: 7
@@ -83,12 +83,12 @@
     introduced: Jan 22, 2015
     last-activity: 10-Oct-2015
     comments: signed into law
-    review: /legislation-review/2017-02-28-california-legislation-review/
+    review: /legislation-review/2018-02-28-california-legislation-review/
     public-default: 0
-    tech-standards: 7
-    accounting-standards: 3
-    metadata-standards: 3
-    annual-report: 5
+    tech-standards: 10
+    accounting-standards: 0
+    metadata-standards: 0
+    annual-report: 0
     bi-annual-meetings: 0
     incentives: 0
     passed-house: 10
@@ -107,17 +107,17 @@
     introduced: 21-May-2013
     last-activity: 9-May-2014
     comments: signed into law
-    review: 
-    public-default: 
-    tech-standards: 
-    accounting-standards: 
-    metadata-standards: 
-    annual-report: 
-    bi-annual-meetings: 
-    incentives: 
-    passed-house: 
-    passed-senate: 
-    signed-law: 
+    review: /legislation-review/2018-03-09-united-states-legislation-review/
+    public-default: 3
+    tech-standards: 3
+    accounting-standards: 3
+    metadata-standards: 0
+    annual-report: 5
+    bi-annual-meetings: 0
+    incentives: 0
+    passed-house: 10
+    passed-senate: 10
+    signed-law: 10
     
 -   title: "State Government - Open Data Policy - Council on Open Data"
     organization: Maryland
