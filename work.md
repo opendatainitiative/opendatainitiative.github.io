@@ -44,7 +44,7 @@ title: Work
 		</ol>
 		</td>
 		<td colspan="2">
-		<ol>
+		<ol start="12">
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/12">Transparency scoring infographics (40+hrs)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/11">Visualization of transparency scoring (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/10">Automation of data portal scoring (long term project)</a></font></li>
