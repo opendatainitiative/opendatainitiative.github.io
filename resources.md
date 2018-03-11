@@ -5,7 +5,7 @@ title: Resources
 ---
 
 # ODI Resources
-<hr>
+
 ### <a>Cities</a>:
 Our partner, the Sunlight Foundation, has been working on city open data for years, so there are many references to their resources here. This is a scaled down, stepwise version of the open data resources available from many sources. Find the full Sunlight Foundation <a target="_blank" href="https://sunlightfoundation.com/opendataguidelines/">Open Data Policy Guidelines here</a> and <a target="_blank" href="http://whatworkscities.sunlightfoundation.com/">Public Policy for Public Data Checklist here.</a>
 1. <a target="_blank" href="http://whatworkscities.sunlightfoundation.com/#section-h2-02">Why do you need policy for government open data</a>
@@ -66,77 +66,3 @@ We want product comparisons, implementation, and operations documented and categ
 These organizations are our best chances for sponsorship. We want enough sponsorship to cover 2018 headcount.
 1. 
 -->
-
-<hr>
-### Open Data Initiative Projects
-<table border="0" cellpadding="10">
-	<tr>
-		<td colspan="2">ODI has four current projects:<hr></td>
-	</tr>
-	<tr> 
-		<td><h3>Open Data Legislation</h3>
-			
-		<a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="ODI Open Data Legislation"></a>
-		
-		Many open data implementations are the result of good management and their policies. But any good policy can be modified by a change in management. To make good policy permanent, the policy must be made into a law. The law must cover just enough detail to establish a framework that the open data implementation can be built upon.
-		We highlight and review open data legislation.<br>
-		<a href="/legislation">go to details</a></td>
-		<td>We highlight and review open data legislation. Read the Open Data Legislation project wiki on how we run the project
-		<br>
-		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">go to details</a>
-		<hr>
-		Review the project issues to be completed
-		<br>
-		<a href="https://github.com/opendatainitiative/opendatalegislation/issues">go to details</a>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2"><hr></td>
-	</tr>
-	<tr> 
-		<td><h3>Transparency Report and Scoring</h3>
-		
-		<a href="/transparency"><img src="/assets/img/transparency_report_icon.png" alt="ODI Transparency Report"></a>
-		In 2017, we evaluated the current status of open data policies in the states and municipalities using sources, policies, and implementations in detail. After we created the transparency report we published the data behind the report. You can find both resources here.
- 
-		<br>
-		<a href="/transparency">go to details</a></td>
-		<td>We evaluate the current status of open data policies. Read the Transparency Report project wiki on how we run the project<br>
-		<a href="https://github.com/opendatainitiative/transparency/wiki">go to details</a>
-		<hr>
-		Review the project issues to be completed
-		<br>
-		<a href="https://github.com/opendatainitiative/transparency/issues">go to details</a>
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2"><hr></td>
-	</tr>
-	<tr>
-		<td><h3>Tools</h3>
-			
-		<a href="/assets/doc/ODI_Recommended_Tools.pdf"><img src="/assets/img/tools_icon.png" alt="Get ODI Recommeded Tools"></a></td>
-		<td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Tools-Project">For details on how it works, go to the Tools project</a></td>
-	</tr>
-	<tr>
-		<td colspan="2"><hr></td>
-	</tr>
-	<tr>
-		<td><h3>Best Practices</h3>
-		
-		<a href="/assets/doc/ODI-Best-Practices.pdf"><img src="/assets/img/practices_icon.png" alt="ODI Best Practices"></a></td>
-		<td><a href="https://github.com/opendatainitiative/opendatainitiative.github.io/wiki/Best-Practices-Project">For details on how it works, go to the Best Practices project</a></td>
-	</tr>
-	<tr>
-		<td colspan="2"><hr></td>
-	</tr>
-	<tr>
-		<td colspan="2"><a href="https://lists.opendatainitiative.io/mailman/listinfo/opendatainitiative">Join the ODI mailing list</a>. By joining the mailing list, you become an ODI Individual Member. <a href="/participation#membership">Find more information on becoming an ODI Individual and Partner Member here.</a></td>
-	</tr>
-	<tr>
-		<td colspan="2"><hr></td>
-	</tr>
-	<tr>
-		<td colspan="2">Send emails to <a href="mailto:opendatainitiative@lists.opendatainitiative.io">opendatainitiative@lists.opendatainitiative.io</a> to discuss financial transparency and projects</td>
-	</tr> 
-</table>
