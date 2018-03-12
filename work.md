@@ -41,6 +41,9 @@ title: Work
 	<tr>
 		<td colspan="3">
 		<ol>
+		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/26">Import mass PDFs (long term project)</a></font></li>
+		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/27">Manipulate imported PDFs as data through policy (long term project)</a></font></li>
+		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/28">Visualization tools for imported PDF data (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/12">CA open data workshops (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/6">Organize an Ohio Demo Data Day (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/3">Create city open data workshop modeled after Ohio Treasury customer service approach to onboarding cities (long term project)</a></font></li>
@@ -48,14 +51,10 @@ title: Work
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/17">Create a workshop model for Government Financial Report hackathon (40+hrs)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/23">Establish the DataOhio board for open data leadership momentum (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/25">Add GIS maps to legislation, transparency indexes (40+hrs)</a></font></li>
-		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/14">Score New Hampshire legislation (1+hrs)</a></font></li>
-		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/13">Score Maryland legislation (1+hrs)</a></font></li>
-		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/10">Score Hawaii legislation (1+hrs)</a></font></li>
-		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/9">Score Utah legislation (1+hrs)</a></font></li>
 		</ol>
 		</td>
-		<td colspan="4">
-		<ol start="12">
+		<td colspan="5">
+		<ol start="11">
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/12">Transparency scoring infographics (40+hrs)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/11">Visualization of transparency scoring (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/10">Automation of data portal scoring (long term project)</a></font></li>
