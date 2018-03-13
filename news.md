@@ -8,14 +8,14 @@ title: News
 All the news about government financial transparency
 
 <table>
-    {% for post in site.categories.news %}
+    {% for name in site.data.news %}
       <tr>
-            <td>{{ post.date | date: '%B %d, %Y' }}</td>
-            <td>{{ post.excerpt }}</td>
+            <td class="tablecolumn largetablecolumn">{{ name.date | date: '%B %d, %Y' }}</td>
+            <td><a href="{{ name.source }}">{{ name.title }}</a></td>
       <tr>
-            <td colspan="2"><a href="{{ site.baseurl }}{{ post.url }}">go to details</a></td>
+            <td class="tablecolumn largetablecolumn">{{ name.author }}</td>
+            <td>{{ name.excerpt }}</td>
       </tr>
-      <tr>
-            <td colspan="2"><hr></td>
-      </tr>
+      <tr><td colspan="2"><hr></td></tr>
     {% endfor %}
+

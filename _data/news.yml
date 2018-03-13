@@ -1,0 +1,225 @@
+# Insert new entries in at the top
+# Example
+#-   title:
+#    date: 
+#    author: 
+#    publisher:
+#    excerpt:
+#    source:
+#    topic:
+
+-   title: OhioCheckbook.com Government transparency website moves to forefront of Louisiana budget discussion
+    date: 2018-01-28
+    author: Elizabeth Crisp
+    publisher: The Advocate
+    excerpt: If the Legislature and the governor decide this is the right way for Louisiana to head, (a transparency website) is the biggest step that they can take to restore some faith in state government and where the money is going," Kay said. "It's a good gesture and the ...OhioCheckbook.com Government transparency website moves to forefront of Louisiana budget discussion…"
+    source: http://www.theadvocate.com/baton_rouge/news/politics/article_9451929e-0324-11e8-b7a5-c34ca60422a3.html
+    topic: 
+        
+-   title: What happens when cities open their data? An Esri expert looks at the challenges
+    date: 2018-01-01
+    author: Fielding Buck
+    publisher: The Press-Enterprise
+    excerpt: He said that task taught him that data and analytics need to be matched with the expertise of experienced city workers on the ground, in this case, the New York City Fire Department and its knowledge of building regulations.
+    source: https://www.ocregister.com/2018/01/01/what-happens-when-cities-open-their-data-an-esri-expert-looks-at-the-challenges/
+    topic: 
+        
+-   title: Looking Back at 2017 When Open Data Took Hold
+    date: 2017-12-21
+    author: Hudson Hollister
+    publisher: Data Coalition
+    excerpt: In early 2012, we set out to build the world’s first trade group focused on transforming government information from disconnected documents into open, freely-flowing data. As the Data Coalition celebrated its fifth birthday, our ambitious agenda had taken hold for U.S. federal spending information – and was on its way to transforming the rest of the federal information portfolio as well.
+    source: https://www.datacoalition.org/looking-back-at-2017-when-open-data-took-hold/
+    topic: 
+        
+-   title: What Louisiana can learn from Ohio
+    date: 2017-12-12
+    author: Jeremy Alford
+    publisher: Business Report
+    excerpt: Technology has changed a lot over the past 10 years and there are now a number of groups that want to put spending online for all levels of government,” says LABI President Stephen Waguespack. “LaTrac was good and groundbreaking at the time, but it doesn’t take things to the next level like the Ohio Checkbook does.
+    source: https://www.businessreport.com/article/louisiana-can-learn-ohio
+    topic: 
+        
+-   title: Government transparency group applauds Treasurer Schmitt’s Missouri Economic Dashboard
+    date: 2017-12-12
+    author: State News
+    publisher: KTTN
+    excerpt:
+    source: http://www.kttn.com/government-transparency-group-applauds-treasurer-schmitts-missouri-economic-dashboard/
+    topic: 
+        
+-   title: What should be included in a GPO (Title 44) Reform Bill
+    date: 2017-12-08
+    author: Daniel Schuman
+    publisher: Congressional Data
+    excerpt: Modernize the Constitution Annotated, so that it is available to the public as a constantly updated website (just like the internal congressional website). The current publication method — an app that displays the PDF — is not sufficient. If possible, the underlying XML behind CONAN should be published as well.
+    source: http://congressionaldata.org/what-should-be-included-in-a-gpo-title-44-reform-bill/
+    topic: 
+        
+-   title: DATA Act so far, so meh
+    date: 2017-11-21
+    author: Tom Temin
+    publisher: Federal News Radio
+    excerpt: Those pesky Government Accountability Office auditors checked out the data posted at USAspending.gov. Under the law, GAO is supposed to check things periodically. When it comes to budget data, agencies get about a “C.” GAO is 95 percent confident that three-quarters of the website data matches agency records. But on contracts and grants spending, forget about it. GAO found that between 0 and 1 percent of posted data matches agency records.
+    source: https://federalnewsradio.com/tom-temin-commentary/2017/11/data-act-so-far-so-meh/
+    topic: 
+        
+-   title: Why we support using open data and evidence-based policymaking
+    date: 2017-11-14
+    author: Sunlight Foundation
+    publisher: Sunlight Foundation
+    excerpt:
+    source: https://sunlightfoundation.com/2017/11/14/why-we-support-using-open-data-and-evidence-based-policymaking-in-public-policy/
+    topic: 
+        
+-   title: Data Coalition’s California Data Demo Day
+    date: 2017-10-23
+    author: Hudson Hollister
+    publisher: Data Coalition
+    excerpt: Data Coalition’s October 2017 California Data Demo Day 5 New Lessons on Transparency Outside and Efficiency Inside
+    source: https://www.datacoalition.org/california-data-demo-day-5-new-lessons-on-transparency-outside-and-efficiency-inside/
+    topic: 
+        
+-   title: Federal Government Expands Open Financial Data Efforts
+    date: 2017-10-06
+    author: Morgan Lynch
+    publisher: Truth in Accounting
+    excerpt:
+    source: http://www.truthinaccounting.org/news/detail/feds-expand-open-financial-data-efforts
+    topic: 
+        
+-   title: Assembly Freshmen Find Extra Pay in Seats
+    date: 2017-09-07
+    author: Empire Center
+    publisher: Empire Center
+    excerpt: The newly uploaded data detail $110 million in spending by members of the state Assembly and Senate between October 1, 2016 and March 31, 2017. The data also show...
+    source: https://www.empirecenter.org/publications/assembly-freshmen-find-extra-pay-in-seats/
+    topic: 
+        
+-   title: Open The Books’ CEO Adam Andrzejewski on Q&A C-SPAN
+    date: 2017-08-24
+    author: Brian Lamb
+    publisher: CSPAN
+    excerpt: With Brian Lamb interviewing Adam Andrzejewski
+    source: https://www.c-span.org/video/?432472-1/qa-adam-andrzejewski
+    topic: 
+        
+-   title: The Last DATA Act Summit
+    date: 2017-07-14
+    author: Hudson Hollister
+    publisher: Data Coalition
+    excerpt: What we learned at the DATA Act Summit – and why it was our last one
+    source: https://www.datacoalition.org/what-we-learned-at-the-data-act-summit-and-why-it-was-our-last-one/
+    topic: 
+        
+-   title: What Is Next For Spending Data
+    date: 2017-06-30
+    author: Mark Rockwell
+    publisher: FCW
+    excerpt:
+    source: https://fcw.com/articles/2017/06/30/whats-next-for-spending-data.aspx?utm_source=DATA+Act+Summit+2017&utm_campaign=2af1447f1a-EMAIL_CAMPAIGN_2017_07_05&utm_medium=email&utm_term=0_1d0b2f6a4d-2af1447f1a-103704721
+    topic: 
+        
+-   title: Free Data Sources Municipal Open Data Portals For 85 US Cities
+    date: 2017-06-30
+    author: Meta S. Brown
+    publisher: Forbes
+    excerpt:
+    source: https://www.forbes.com/sites/metabrown/2017/06/30/quick-links-to-municipal-open-data-portals-for-85-us-cities/#62726e7f2290
+    topic: 
+        
+-   title: A brief history of the DATA Act
+    date: 2017-05-08
+    author: Matt Rumsey
+    publisher: Sunlight Foundation
+    excerpt: On May 9th, federal agencies will officially begin reporting data in compliance with the open standards created under the Digital Accountability and Transparency Act, the landmark legislation that cleared Congress in 2014]. It’s called the DATA Act, for short, which is how we refer to it today. The data will start flowing to beta.usaspending.gov in the coming days and will eventually be transitioned to USAspending.gov, the long term online home of federal spending data.
+    source: https://sunlightfoundation.com/2017/05/08/a-brief-history-of-the-data-act/
+    topic: 
+        
+-   title: Following the Money 2017 Special Districts
+    date: 2017-04-25
+    author: US PIRG
+    publisher: US PIRG
+    excerpt: ‘Special districts’ are a type of government agency that exist outside of traditional forms of general purpose local or state governments, and serve key governmental functions such as public transit or housing...The lack of transparency and accountability of many special districts has caused concern among some state agencies and government watchdogs, as it can contribute to an atmosphere conducive to lowered efficiency and potential misconduct.
+    source: https://uspirg.org/reports/usp/following-money-2017-special-districts
+    topic: 
+        
+-   title: Small Cities, Big Challenges Why We Need a System to Warn of Fiscal Crises
+    date: 2017-01-23
+    author: Marc Joffe
+    publisher: Fiscal Times
+    excerpt:
+    source: https://www.thefiscaltimes.com/Columns/2017/01/23/Small-Cities-Big-Challenges-Why-We-Need-System-Warn-Fiscal-Crises
+    topic: 
+        
+-   title: New Tool to Increase Transparency in Government Finance Released by University Research Center
+    date: 2016-09-27
+    author: Center for Municipal Finance
+    publisher: Center for Municipal Finance
+    excerpt:
+    source: http://www.munifinance.org/new-tool-to-increase-transparency-in-government-finance-released-by-university-research-center/
+    topic: 
+        
+-   title: California SB1029 on Debt Transparency
+    date: 2016-09-12
+    author: California Legislature
+    publisher: California Legislature
+    excerpt: Financial transparency through an annual debt report as per California Senate Bill 1029, signed into law on September 12, 2016
+    source: https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201520160SB1029
+    topic: 
+        
+-   title: Following the Money 2016, New Report Ranks All Fifty States on Government Spending Transparency
+    date: 2016-04-13
+    author: US PIRG
+    publisher: US PIRG
+    excerpt:
+    source: https://uspirg.org/news/usf/following-money-2016-new-report-ranks-all-fifty-states-government-spending-transparency
+    topic: 
+        
+-   title: Finding California’s Biggest Payees
+    date: 2015-12-21
+    author: Marc Joffe
+    publisher: California Policy Center
+    excerpt:
+    source: http://californiapolicycenter.org/finding-californias-biggest-payees/
+    topic: 
+        
+-   title: California Ranks 50th in Spending Transparency
+    date: 2015-11-17
+    author: Marc Joffe
+    publisher: California Policy Center
+    excerpt:
+    source: http://californiapolicycenter.org/california-ranks-50th-in-state-spending-transparency-what-we-can-do-about-it/
+    topic: 
+        
+-   title: How Does Your State Rank for Financial Data Transparency
+    date: 2015-03-18
+    author: Colin Wood
+    publisher: GovTech
+    excerpt: “Ohio was the surprise winner with a grade of A+, up from a D- last year, after the launch of a new financial portal under the state’s office of the treasurer, which looks like something one would expect from a successful tech company, not a government agency, said U.S. PIRG Senior policy Analyst Phineas Baxandall.”
+    source: http://www.govtech.com/budget-finance/How-Does-Your-State-Rank-for-Financial-Data-Transparency.html
+    topic: 
+    
+-   title: How California is Putting Big Local Government Data Online
+    date: 2014-12-19
+    author: Marc Joffe
+    publisher: Sunlight Foundation
+    excerpt:
+    source: https://sunlightfoundation.com/2014/12/19/opengov-voices-how-californias-putting-big-local-government-data-online/
+    topic: 
+    
+-   title: The Case for Muni XBRL, Bringing Municipal Financial Disclosure Into the 21st Century
+    date: 2013-09-04
+    author: Marc Joffe
+    publisher: Tabb Forum
+    excerpt:
+    source: http://tabbforum.com/opinions/the-case-for-muni-xbrl-bringing-municipal-financial-disclosure-into-the-21st-century
+    topic: Reporting
+    
+-   title: Modernizing California City Financial Reporting
+    date: 2013-10-02
+    author: Marc Joffe and Max Neiman
+    publisher: Fox and Hounds Daily
+    excerpt:
+    source: http://www.foxandhoundsdaily.com/2013/10/modernizing-california-city-financial-reporting-2/
+    topic: Reporting
