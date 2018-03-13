@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Ohio Legislation Review"
+title:  "Ohio House Bill 3 Legislation Review"
 date:   2018-01-25 12:00 -0800
 categories: legislation-review
 ---

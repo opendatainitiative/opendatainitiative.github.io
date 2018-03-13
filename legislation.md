@@ -39,4 +39,4 @@ Review the <a href="/detailed-legislation">Detailed Existing Open Data Legislati
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.5.0">revision 0.5.0</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.6.0">revision 0.6.0</a>**

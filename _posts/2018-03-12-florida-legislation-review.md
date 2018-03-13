@@ -17,7 +17,7 @@ By Sean Roberts 12 March 2018
 
 4. Metadata standards will also be part of the XRBL taxonomy.
 
-5. Annual recommendation and bi-annual discussions to develop those recommendation is not part of this legislation. While government financial transparency is the result of this work, the ongoing improvements will likely be through addition legislation and the Chief Financial Officer. 
+5. Annual recommendations and bi-annual discussions to develop those recommendations is not part of this legislation. While government financial transparency is the result of this work, the ongoing improvements will likely be through additional legislation and the Chief Financial Officer. 
 
 6. See 5
 
