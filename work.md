@@ -7,7 +7,8 @@ title: Work
 
 <table>
 	<tr>
-		<td colspan="7"><h3>Active Projects</h3>This is where the work is documented and worked on. These are open source projects, so you can find all of the source code, plans, and outstanding work to be completed online, transparent, and available for contribution.</td>
+		<td colspan="7"><h3>Active Projects</h3>
+		This is where the work is documented and worked on. These are open source projects, so you can find all of the source code, plans, and outstanding work to be completed online, transparent, and available for contribution. We are working on release 1.0 with delivery date of 31 May 2018.</td>
 	</tr>
 	<tr>
 		<td><h3>Open Data Legislation</h3>
@@ -16,21 +17,30 @@ title: Work
 		<a href="https://github.com/opendatainitiative/opendatalegislation/">Source</a><br />
 		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">Wiki</a><br />
 		<a href="https://github.com/opendatainitiative/opendatalegislation/issues">Work TBD</a>
+		<!-- meters max = total issue closed and open, value = total closed-->
+		<br />Issues progress<meter max="41" value="23"></meter>
+		<br />Bugs progress<meter max="14" value="13"></meter>
 		</td>
 		<td><h3>Transparency</h3>
-		<a href="/transparency"><img src="/assets/img/transparency_report_icon.png" alt="Transparency"></a></td>
+		<a href="/transparency"><img src="/assets/img/ohiocheckbook-small.png" alt="Transparency"></a></td>
 		<td>
 		<a href="https://github.com/opendatainitiative/transparency/">Source</a><br />
 		<a href="https://github.com/opendatainitiative/transparency/wiki">Wiki</a><br />
 		<a href="https://github.com/opendatainitiative/transparency/issues">Work TBD</a>
+		<!-- meters max = total issue closed and open, value = total closed-->
+		<br />Issues progress<meter max="30" value="16"></meter>
+		<br />Bugs progress<meter max="10" value="10"></meter>
 		</td>
 		<td><br /></td>
 		<td><h3>ODI Website</h3>
-		<a href="/"><img src="/assets/img/handout_icon.png" alt="ODI Webiste"></a></td>
+		<a href="/"><img src="/assets/img/odi-site.png" alt="ODI Webiste"></a></td>
 		<td>
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io">Source</a><br />
 		<a href="/about">About</a><br />
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues">Work TBD</a>
+		<!-- meters max = total issue closed and open, value = total closed-->
+		<br />Issues progress<meter max="30" value="9"></meter>
+		<br />Bugs progress<meter max="7" value="5"></meter>
 		</td>
 		<td><br /></td>
 	</tr>
