@@ -67,7 +67,7 @@ title: Work
 		</td>
 	</tr>
 	<tr>
-		<td colspan="7"><hr><h3>Open Data Initiative Public Mailing List</h3>Find all our conversations online and available to be read. Don't be shy, join the mailing list and lets work together.
+		<td colspan="7"><hr><h3>Open Data Initiative Public Mailing List</h3>Find all our conversations online and available to be read. Don't be shy, join the mailing list and lets work together.<br />
 		{% raw %}<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="560" height="420" src="https://lists.opendatainitiative.io/pipermail/opendatainitiative/"></iframe>
 		{% endraw %}
 		</td>
