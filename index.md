@@ -3,9 +3,13 @@ layout: default
 permalink: /
 title: Home
 ---
-<h2>Where government officials come for open data, government financial transparency advice and help. Our resources are developed in partnership with policy, government, and commercial organizations.</h2>
-<hr>
+<h1>Open Data Initiative</h1>
 <table align="center">
+	<tr>
+		<td colspan="6" align="center">
+		<h3>Where government officials come for open data and government financial transparency advice. Our resources are developed in partnership with policy, government, and commercial organizations.</h3>
+		</td>
+	</tr>
 	<tr>
 		<td width="20%"><h3>Government Resources:</h3></td>
 		<td width="20%" align="center"><h3><a href="/resources#cities">Cities</a></h3></td>
