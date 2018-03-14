@@ -12,7 +12,22 @@ title: Work
 	</tr>
 	<tr>
 		<td width="16%"><h3>Open Data Legislation</h3>
-		<a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="Open Data Legislation"></a></td>
+		<a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="Open Data Legislation"></a>
+		</td>
+		<td width="16%">
+		</td>
+		<td width="16%"><h3>Transparency</h3>
+		<a href="/transparency"><img src="/assets/img/ohiocheckbook-small.png" alt="Transparency"></a>
+		</td>
+		<td width="16%">
+		</td>
+		<td width="16%"><h3>ODI Website</h3>
+		<a href="/"><img src="/assets/img/odi-site.png" alt="ODI Webiste"></a>
+		</td>
+		<td width="16%">
+		</td>
+	</tr>
+	<tr>
 		<td width="16%">
 		<a href="https://github.com/opendatainitiative/opendatalegislation/">Source</a><br />
 		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">Wiki</a><br />
@@ -21,8 +36,8 @@ title: Work
 		<br />Issues progress<progress max="41" value="21"></progress>
 		<br />Bugs progress<progress max="14" value="13"></progress>
 		</td>
-		<td width="16%"><h3>Transparency</h3>
-		<a href="/transparency"><img src="/assets/img/ohiocheckbook-small.png" alt="Transparency"></a></td>
+		<td width="16%">
+		</td>
 		<td width="16%">
 		<a href="https://github.com/opendatainitiative/transparency/">Source</a><br />
 		<a href="https://github.com/opendatainitiative/transparency/wiki">Wiki</a><br />
@@ -31,8 +46,8 @@ title: Work
 		<br />Issues progress<progress max="30" value="16"></progress>
 		<br />Bugs progress<progress max="10" value="10"></progress>
 		</td>
-		<td width="16%"><h3>ODI Website</h3>
-		<a href="/"><img src="/assets/img/odi-site.png" alt="ODI Webiste"></a></td>
+		<td width="16%">
+		</td>
 		<td width="16%">
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io">Source</a><br />
 		<a href="/about">About</a><br />
@@ -40,6 +55,8 @@ title: Work
 		<!-- progresss max = total issue closed and open, value = total closed-->
 		<br />Issues progress<progress max="30" value="11"></progress>
 		<br />Bugs progress<progress max="7" value="5"></progress>
+		</td>
+		<td width="16%">
 		</td>
 	</tr>
 	<tr>
@@ -52,8 +69,6 @@ title: Work
 		<td colspan="2">Available Projects:</td>
 		<td class="tablecolumn">12
 		</td>
-	<tr>
-	</tr>
 	<tr>
 		<td colspan="3">
 		<ol>
