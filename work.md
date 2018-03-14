@@ -50,7 +50,7 @@ title: Work
 		<td class="tablecolumn">3
 		</td>
 		<td colspan="2">Available Projects:</td>
-		<td class="tablecolumn">10
+		<td class="tablecolumn">12
 		</td>
 	<tr>
 	</tr>
@@ -79,6 +79,8 @@ title: Work
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/7">Publish California cities as available for pickup work (40+hrs)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/6">Publish Ohio cities, townships as available for pickup work (40+hrs)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/transparency/issues/5">Publish Forbes city list as available for pickup work (40+hrs)</a></font></li>
+		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/33">Organize operations experience into best practices knowledge that organizations can utilize  (long term project)</a></font></li>
+		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/34">Work with government technology operations staff to document tools and code that make open data publication work  (long term project)</a></font></li>
 		</ol>
 		</td>
 	</tr>
