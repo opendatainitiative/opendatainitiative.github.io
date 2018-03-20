@@ -4,15 +4,17 @@
         <table>
             <tr>
                 <td width="25%">
-                {% if page.path contains "legislation" %}
-                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/legislation.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
-                	{% elsif page.path contains "transparency" %}
-                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/transparency.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
-                	{% elsif page.path contains "news" %}
-                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/news.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
-                {% endif %}
-                <a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/{{ page.path }}"><img src="/assets/img/edit-this-page-icon.png" alt="edit-this-page"></a>
-          		<a target="_blank" href="/contributing"><img src="/assets/img/editing-help-icon.png" alt="editing-help"></a>
+                {% if page.title != "Home" %}
+	                {% if page.path contains "legislation" %}
+	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/legislation.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
+	                	{% elsif page.path contains "transparency" %}
+	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/transparency.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
+	                	{% elsif page.path contains "news" %}
+	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/news.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
+	                {% endif %}
+	                <a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/{{ page.path }}"><img src="/assets/img/edit-this-page-icon.png" alt="edit-this-page"></a>
+	          		<a target="_blank" href="/contributing"><img src="/assets/img/editing-help-icon.png" alt="editing-help"></a>
+	          {% endif %}
                   <!--
                   <a class="navbar-item" href="https://medium.com/OpenDataOrg">ODI on Medium<a/> <br />
                   <a class="navbar-item" href="https://twitter.com/OpenDataOrg">ODI on Twitter<a/> <br />
