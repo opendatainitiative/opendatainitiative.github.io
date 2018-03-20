@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /community
-title: Community
+permalink: /members
+title: Members
 ---
 
 <!-- ### Corporate Sponsors
@@ -28,11 +28,11 @@ title: Community
 	</tr>
 </table>
 
-# What the ODI Community Means
+<!--# What the ODI Community Means
 We are creating a community of people that are passionate about government financial transparency. We understand that 
 maintaining a community can not be taken for granted. Similar to what we expect from our government, transparent reviews of 
 the community processes and governance encourages greater participation and makes the organization stronger. Transparency is 
 a painful, difficult process to maintain. Transparency allows us to learn from mistakes, rather be certain to repeat them. 
-Let us work together to make government financial transparency the norm.
+Let us work together to make government financial transparency the norm.-->
 
 We want participation from engineers, policy experts, and government officials in the Open Data Initiative work. By joining ODI, you will be helping to make open financial a reality for all government organizations. [Review the different ways of participating in ODI.](/participation#membership)

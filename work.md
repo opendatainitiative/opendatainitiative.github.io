@@ -7,21 +7,21 @@ title: Work
 
 <table>
 	<tr>
-		<td colspan="6"><h3>Active Projects</h3>
+		<td colspan="6"><h3>ACTIVE PROJECTS</h3>
 		This is where the work is documented and worked on. These are open source projects, so you can find all of the source code, plans, and outstanding work to be completed online, transparent, and available for contribution. We are working on release 1.0 with delivery date of 31 May 2018.</td>
 	</tr>
 	<tr>
-		<td width="16%"><h3>Open Data Legislation</h3>
+		<td width="16%"><h3>OPEN DATA LEGISLATION</h3>
 		<a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="Open Data Legislation"></a>
 		</td>
 		<td width="16%">
 		</td>
-		<td width="16%"><h3>Transparency</h3>
+		<td width="16%"><h3>TRANSPARENCY</h3>
 		<a href="/transparency"><img src="/assets/img/ohiocheckbook-small.png" alt="Transparency"></a>
 		</td>
 		<td width="16%">
 		</td>
-		<td width="16%"><h3>ODI Website</h3>
+		<td width="16%"><h3>ODI WEBSITE</h3>
 		<a href="/"><img src="/assets/img/odi-site.png" alt="ODI Webiste"></a>
 		</td>
 		<td width="16%">
@@ -61,7 +61,7 @@ title: Work
 	</tr>
 	<tr>
 		<td colspan="6"><hr>
-		<h3>Help Wanted</h3>These are the larger issues that need to get completed to move government financial transparency forward. Take a close look and state your interest directly on the issue below. All our work is open source, so we welcome public contributions. A project team member will respond, so we can start working together.</td>
+		<h3>HELP WANTED</h3>These are the larger issues that need to get completed to move government financial transparency forward. Take a close look and state your interest directly on the issue below. All our work is open source, so we welcome public contributions. A project team member will respond, so we can start working together.</td>
 	</tr>
 		<td colspan="2">Active Projects:</td>
 		<td class="tablecolumn">3
@@ -100,7 +100,7 @@ title: Work
 		</td>
 	</tr>
 	<tr>
-		<td colspan="6"><hr><h3>Open Data Initiative Public Mailing List</h3>Find all our conversations online and available to be read. Don't be shy, join the mailing list and lets work together.<br />
+		<td colspan="6"><hr><h3>OPEN DATA INITIATIVE PUBLIC MAILING LIST</h3>Find all our conversations online and available to be read. Don't be shy, join the mailing list and lets work together.<br />
 		{% raw %}<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="560" height="420" src="https://lists.opendatainitiative.io/pipermail/opendatainitiative/"></iframe>
 		{% endraw %}
 		</td>

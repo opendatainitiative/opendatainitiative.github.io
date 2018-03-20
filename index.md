@@ -11,12 +11,12 @@ title: Home
 		</td>
 	</tr>
 	<tr>
-		<td width="50%"><h3>Government Resources:</h3></td>
-		<td width="50%"><h3>Partner Resources:</h3></td>
+		<td width="50%"><h3>GOVERNMENT CHECKLISTS</h3></td>
+		<td width="50%"><h3>OPEN DATA RESOURCES</h3></td>
 	</tr>
 	<tr>
 		<td width="50%" align="center"><h3><a href="/resources#cities">Cities</a></h3></td>
-		<td width="50%" align="center"><h3><a href="/resources#opendata-platforms">Open Data Platforms</a></h3></td>
+		<td width="50%" align="center"><h3><a href="/resources#open-data-platforms">Open Data Platforms</a></h3></td>
 	</tr>
 	<tr>
 		<td width="50%" align="center"><h3><a href="/resources#states">States</a></h3></td>
