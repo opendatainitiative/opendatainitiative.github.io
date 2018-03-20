@@ -3,34 +3,40 @@
     <div class="navbar-brand">
         <table>
             <tr>
-                <td width="25%">
+                <td><br />
                 {% if page.title != "Home" %}
+                		For Contributors: 
 	                {% if page.path contains "legislation" %}
-	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/legislation.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
+	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/legislation.yml">edit the page data</a>, 
 	                	{% elsif page.path contains "transparency" %}
-	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/transparency.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
+	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/transparency.yml">edit the page data</a>, 
 	                	{% elsif page.path contains "news" %}
-	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/news.yml"><img src="/assets/img/edit-source-data-icon.png" alt="edit-source-data"></a>
+	                		<a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/_data/news.yml">edit the page data</a>, 
 	                {% endif %}
-	                <a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/{{ page.path }}"><img src="/assets/img/edit-this-page-icon.png" alt="edit-this-page"></a>
-	          		<a target="_blank" href="/contributing"><img src="/assets/img/editing-help-icon.png" alt="editing-help"></a>
+	                <a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master/{{ page.path }}">edit the page</a>, or 
+	          		<a target="_blank" href="/contributing">get page editing help</a>
 	          {% endif %}
                   <!--
                   <a class="navbar-item" href="https://medium.com/OpenDataOrg">ODI on Medium<a/> <br />
                   <a class="navbar-item" href="https://twitter.com/OpenDataOrg">ODI on Twitter<a/> <br />
                   <a class="navbar-item" href="https://www.linkedin.com/company/open-data-initiative/>ODI on LinkedIn</a> <br />
                   -->
+                  </td>
+             </tr>
+             <tr>
+             	<td>
                   <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
                   <img alt="Creative Commons License" style="border-width:0" 
                           src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a>
-                  <br />
                   <font size="2">This work is licensed under a 
-                  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">
-                          Creative Commons Attribution 4.0 International License</a></font>.</td>
-              <td width="25%"><font size="2"><a href="/about">About Open Data Initiative</a>
-              	<br /><strong><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/tree/0.8.6">Website revision 0.8.6</a></strong>
-              </font></td>
-              <td width="50%"></td>
+                  <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a></font></td>
+              </tr>
+              <tr>
+              	<td><font size="2"><a href="/about">About Open Data Initiative</a></font>
+              	</td>
+              </tr>
+              <tr>
+              	<td><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/tree/0.8.6">Website revision 0.8.6</a></font></td>
             </tr>
       </table>
     </div>

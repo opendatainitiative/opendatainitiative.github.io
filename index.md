@@ -7,7 +7,7 @@ title: Home
 <table align="center">
 	<tr>
 		<td colspan="2">
-		<h3>The Open Data Initiative exists to advance government financial transparency. Through open source resources, partners, and events, we inform the public and the government on the best open data options available. Take a tour, read, learn, and contribute.</h3>
+		The Open Data Initiative exists to advance government financial transparency. Through open source resources, partners, and events, we inform the public and the government on the best open data options available. Take a tour, read, learn, and contribute.
 		</td>
 	</tr>
 	<tr>
