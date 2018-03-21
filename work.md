@@ -33,7 +33,7 @@ title: Work
 		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">Wiki</a><br />
 		<a href="https://github.com/opendatainitiative/opendatalegislation/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
-		<br />Issues progress<progress max="41" value="21"></progress>
+		<br />Issues progress<progress max="42" value="21"></progress>
 		<br />Bugs progress<progress max="14" value="13"></progress>
 		</td>
 		<td width="16%">
@@ -53,8 +53,8 @@ title: Work
 		<a href="/about">About</a><br />
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
-		<br />Issues progress<progress max="30" value="11"></progress>
-		<br />Bugs progress<progress max="7" value="5"></progress>
+		<br />Issues progress<progress max="36" value="15"></progress>
+		<br />Bugs progress<progress max="10" value="8"></progress>
 		</td>
 		<td width="16%">
 		</td>
