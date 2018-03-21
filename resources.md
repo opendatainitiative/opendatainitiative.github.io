@@ -41,28 +41,46 @@ Our partner, the Data Coalition, has been working to implement open data at the 
 
 <hr>
 ### <a>OPEN-DATA-PLATFORMS</a>:
-We will continue to refine this list of open data sources and tools. We will be reviewing Data.World and Kaggle for open data workshops coming soon.
+This is a first generation list of open data sources and tools. As this list gets refined, it will become a checklist for the average constituent to utilize open data sources to publish reports and charts that explain problems and/or solutions.
 1. <a target="_blank" href="http://data.world">Data.World</a>
 1. <a target="_blank" href="http://kaggle.com">Kaggle</a>
 1. <a target="_blank" href="https://www.data.gov/">Federal Data.gov</a>
 1. <a target="_blank" href="https://www.gapminder.org/data/">Gapminder</a>
 1. <a target="_blank" href="https://www.census.gov/programs-surveys/state.html">US Census</a>
+1. <a target="_blank" href="https://www.usaspending.gov/">US Federal agency's spending online</a>
 1. <a target="_blank" href="http://www.socrata.com/discover/">Socrata</a>
 1. <a target="_blank" href="https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#315c3d2eb54d">Forbes 2016 data sources list</a>
 1. <a target="_blank" href="https://index.okfn.org/dataset/">Global Open Data Index</a>
+1. <a target="_blank" href="https://goodtables.io/">GoodTables</a> is part of the Frictionless Data project from Open Knowledge International. Set metadata header standards and GoodTables will alert you when new data deviates from the standard.
+1. <a target="_blank" href="https://openspending.org/">Open Spending</a> is a free, open and global platform to search, visualise and analyse fiscal data.
+1. <a target="_blank" href="https://github.com/KSP-CKAN/CKAN/releases">The Comprehensive Knowledge Archive Network (CKAN) is an open source open data management system</a>. CKAN is used heavily in Europe and in US Federal agencies.
+
 <hr>
 ### <a>POLICY-ORGANIZATIONS</a>:
-We want to advance their policy/project goals/contributions and find new funding sources. 
-We want their event and project participation.
-1. Buckeye Institute 
+Supporting open data and government financial transparency. We want to advance their policy and project goals.
+1. <a target="_blank" href="https://sunlightfoundation.com/policy/open-cities/">Sunlight Foundation, Open Cities project</a>. This project is supported by <a target="_blank" href="https://whatworkscities.bloomberg.org/">What Works Cities, funded by Bloomberg Philanthropies</a>
+1. <a target="_blank" href="http://www.uspirg.org/reports/usp/following-money-2016-0">US Public Interest Research Groups' Annual Government Spending Data report</a>. PIRG puts out this annual report that many state treasury offices follow as their transparency grade. In 2011, this report motivated Ohio to develop open data systems that have made Ohio a national government financial transparency leader.
+1. <a target="_blank" href="https://www.buckeyeinstitute.org/data/">Buckeye Institute Ohio Government Salary site</a>
+1. <a target="_blank" href="http://civicprofiles.californiapolicycenter.org/">California Policy Center California Civic Performance Profiles site</a>
+1. <a target="_blank" href="http://govwiki.info/pdfs/">GovWiki US Government CAFRs and Audits</a>. Find many government financial reporting PDFs here. Meticulously gathered and maintained. 
+1. <a target="_blank" href="https://okfn.org/">Open Knowledge International</a> is an European based non-profit dedicated to open data in government.
+1. <a target="_blank" href="https://frictionlessdata.io/specs/fiscal-data-package/">The Frictionless Data Package</a> is an OKI sponsored financial reporting project. <a target="_blank" href="https://hackmd.io/huVscqxBTk6cwWlm6PmXkQ">The work in progress can be tracked here</a>
+ProPublica
+OpenGov Foundaton 
+
 <hr>
 ### <a>UNIVERSITIES</a>:
-Students that need projects. What can they work on? Some issue need to be 160 hr work so a professor could assign. Referring to open data issues, or more generally governance and accountability issues in a data-driven and interconnected world, and efforts to better educate people about best practices, and its uses and misuses. More specifically, efforts with the open data initiative and explore possible collaborations.
-1. 
+Active university sponsored projects and available work for university students.
+1. <a href="/work#help-wanted">Open Data Initiative's projects with help wanted</a>
+1. <a target="_blank" href="https://usaspending-help.zendesk.com/hc/en-us/community/topics">US Federal agency's reporting community pages</a>. The ideas and comments here represent many possible new development project. This is an excellent place for university students to discuss and find new project ideas and work.
+1. <a target="_blank" href="https://govex.jhu.edu/">GovEx is a city government open data policy organization managed by Johns Hopkins University</a>, in partership with What Works Cities. They also mantain the <a target="_blank" href="https://datastandards.directory/">open data standards site</a> that presents all they have been able to find online.
+1. <a target="_blank" href="http://civictechusc.org/">USC Civic Tech, LA Open Data project</a>. This is a bit stale, but an good example of university project work.
+
 <hr>
 ### <a>COMMERCIAL-COMPANIES</a>:
-New ways of reaching customers. All of these companies are startups, so access to sources of investment could be important.
-We want product comparisons, implementation, and operations documented and categorized. 
-These organizations are our best chances for sponsorship. We want enough sponsorship to cover 2018 headcount.
-1. 
--->
+Government focused open data commercial companies. We want to support and better understand their software, implementation, and operations.
+1. <a target="_blank" href="https://opengov.com/">OpenGov</a>
+1. <a target="_blank" href="https://socrata.com/">Socrata</a>
+1. <a target="_blank" href="http://www.junar.com/">Junar</a>
+1. <a target="_blank" href="https://www.viderum.com/">Viderum</a>
+1. <a target="_blank" href="https://www.cleargov.com/">ClearGov</a>

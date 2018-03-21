@@ -61,7 +61,7 @@ title: Work
 	</tr>
 	<tr>
 		<td colspan="6"><hr>
-		<h3>HELP WANTED</h3>These are the larger issues that need to get completed to move government financial transparency forward. Take a close look and state your interest directly on the issue below. All our work is open source, so we welcome public contributions. A project team member will respond, so we can start working together.</td>
+		<h3><a>HELP-WANTED</a></h3>These are the larger issues that need to get completed to move government financial transparency forward. Take a close look and state your interest directly on the issue below. All our work is open source, so we welcome public contributions. A project team member will respond, so we can start working together.</td>
 	</tr>
 		<td colspan="2">Active Projects:</td>
 		<td class="tablecolumn">3
