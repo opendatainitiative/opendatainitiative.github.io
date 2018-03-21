@@ -8,7 +8,7 @@
 ## Governance
 ODI is only as strong as the people participating and backing up its mission. A few of us meet at least monthly as a group of shared responsibility to manage ODI strategic decisions.
 
-[go to details](https://opendatainitiative.github.io/governance)
+[go to details](/governance)
 
 ## Mission
 
