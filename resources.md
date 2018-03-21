@@ -48,6 +48,7 @@ This is a first generation list of open data sources and tools. As this list get
 1. <a target="_blank" href="https://www.gapminder.org/data/">Gapminder</a>
 1. <a target="_blank" href="https://www.census.gov/programs-surveys/state.html">US Census</a>
 1. <a target="_blank" href="https://www.usaspending.gov/">US Federal agency's spending online</a>
+1. <a target="_blank" href="http://www.hsr.ca.gov/Board/monthly_fa_committee_meeting.html">California High Speed Rail project</a>. There are many billions of $ in cost overruns in this project. The data to analyze the project is published. It is just waiting for someone to filter through the PDFs and publish.
 1. <a target="_blank" href="http://www.socrata.com/discover/">Socrata</a>
 1. <a target="_blank" href="https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#315c3d2eb54d">Forbes 2016 data sources list</a>
 1. <a target="_blank" href="https://index.okfn.org/dataset/">Global Open Data Index</a>
