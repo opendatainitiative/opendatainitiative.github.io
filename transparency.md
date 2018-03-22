@@ -3,15 +3,15 @@ layout: default
 permalink: /transparency
 title: Transparency
 ---
-# {{ page.title }}
+# Government Open Data Portals
 
 ### State Transparency Report 2017
-In late 2017, we evaluated the current status of open data policies in the states and municipalities using sources, policies, and implementations in detail.
+In late 2017, we evaluated the status of open data policies in the states using sources, policies, and implementations in detail.
 <br>
 <a href="/transparency-scorecard">go to details</a>
 
 ### State Open Data Portals with their Transparency Scored 2017
-Note that we have not scored some of the open data portals, as were focused on the lower PIRG scoring open data portals for this review. <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-money-2016-0">Review 2016 PIRG Government Spending Data report</a> and <a href="/scoring">review the ODI Scoring methodology.</a>
+Also <a target="_blank" href="https://uspirgedfund.org/reports/usp/following-money-2016-0">review the 2016 PIRG Government Spending Data report</a> and <a href="/scoring">the ODI Scoring methodology.</a>
 
 <table cellpadding="10" border="1">
 	<tr>
@@ -25,7 +25,7 @@ Note that we have not scored some of the open data portals, as were focused on t
 {% for name in site.data.transparency %}
 {% assign score = name.2016-pirg-score | times: 0.80 | plus: name.accessibility | plus: name.downloadability | round: 1 %}
   <tr>
-  	<td class="tablecolumn">{{ name.name }}</td>
+  	<td class="tablecolumn"><a target="_blank" href="{{ name.source }}">{{ name.name }}</a></td>
   	<td class="tablecolumn">{{ score }}</td>
   	<td class="tablecolumn">{{ name.2016-pirg-score }}</td>
   	<td class="tablecolumn">{{ name.accessibility }}</td>
@@ -35,4 +35,4 @@ Note that we have not scored some of the open data portals, as were focused on t
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.3.0">revision 0.3.0</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.5.0">revision 0.5.0</a>**
