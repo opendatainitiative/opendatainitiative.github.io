@@ -8,6 +8,15 @@
 #    source:
 #    topic:
 
+-   title: Louisiana state government, economy rank poorly in plethora of recent reports
+    date: 2018-03-19
+    author: Bethany Blankley
+    publisher: Louisiana Watchdog
+    excerpt: The Chicago-based think tank Truth in Accounting’s (TIA) reviewed Louisiana’s financial health and its most populous city, New Orleans, giving both D grades.  Based on data derived from the state’s 2016 audited Comprehensive Annual Financial Report and retirement plans' actuarial reports, TIA concludes, “state government officials continue to obscure large amounts of retirement debt on their balance sheets, despite new rules to increase financial transparency.”
+    source: https://www.watchdog.org/louisiana/louisiana-state-government-economy-rank-poorly-in-plethora-of-recent/article_9dd26e60-2bab-11e8-b23c-1b365ff2ee14.html
+    topic: 
+        
+
 -   title: The California Legislature needs to be more transparent about doing the people’s business
     date: 2018-03-12
     author: The Editorial Board
@@ -263,6 +272,14 @@
     excerpt:
     source: https://sunlightfoundation.com/2014/12/19/opengov-voices-how-californias-putting-big-local-government-data-online/
     topic: 
+    
+-   title: USC Open Data LA initiative promotes public access to government data throughout Los Angeles County
+    date: 2014-07-23
+    author: Elizabeth Krane
+    publisher: USC Annenberg School for Communication and Journalism
+    excerpt: “Open data is a new aspect of journalism in the public interest,” said Dana Chinn, CCLP faculty fellow and USC Annenberg project lead. “It’s a worldwide movement, but we’re going to focus on how open data initiatives can address the unique needs of the greater Los Angeles community.”
+    source: http://tabbforum.com/opinions/the-case-for-muni-xbrl-bringing-municipal-financial-disclosure-into-the-21st-century
+    topic: University
     
 -   title: The Case for Muni XBRL, Bringing Municipal Financial Disclosure Into the 21st Century
     date: 2013-09-04
