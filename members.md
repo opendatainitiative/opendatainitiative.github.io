@@ -12,19 +12,15 @@ title: Members
 
 # Partner Members
 <font size="2"><a href="{{ site.baseurl }}/participation#membership">How to become a member</a></font><br />
-<!-- four column table to hold partner member icons -->
+<!-- two column table to hold partner member icons -->
 <table width="100%" align="center" cellpadding="10">
 	<tr>	
 		<td><a href="http://joinlincoln.org/"><img src="{{'/assets/img/lincoln-network-logo-hat-teal-small.png'}}" alt="Lincoln Network"></a></td>
-		<td><a href="http://datrm.in/"><img src="{{'/assets/img/datrmin-logo-small.png'}}" alt="Datrm.in"></a></td>
 		<td><a href="https://www.datacoalition.org/"><img src="{{'/assets/img/DataCoalition2016Logo.png'}}" alt="Data Coalition"></a></td>
 	</tr>
 	<tr>
 		<td><a href="http://www.tos.ohio.gov/"><img src="{{'/assets/img/tos-logo.png'}}" alt="tos.ohio.gov"></a></td>
-		<td>
-		</td>
-		<td>
-		</td>
+		<td><a href="http://datrm.in/"><img src="{{'/assets/img/datrmin-logo-small.png'}}" alt="Datrm.in"></a></td>
 	</tr>
 </table>
 
