@@ -4,7 +4,7 @@ permalink: /blog
 title: Blog
 ---
 
-# ODI Blog
+# Blog
 Blog posts on government financial transparency
 
 <table>

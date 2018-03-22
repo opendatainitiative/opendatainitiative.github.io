@@ -1,16 +1,16 @@
-# About ODI
+# ODI
 
-## The people of the Open Data Initiative
+### THE PEOPLE OF THE OPEN DATA INITITIVE
 * ![Sean Roberts](/assets/img/sean-roberts-headshot.png)[Sean Roberts](https://www.linkedin.com/in/sarob/): ODI Director and Advisory Council Chair
 * ![Garrett Johnson](/assets/img/garrett-johnson-headshot.png)[Garrett Johnson](https://www.linkedin.com/in/garrettwjohnson/): Lincoln Network Executive Director
 * ![Albert Suarez](/assets/img/albert-suarez-iv-headshot.png)[Albert Suarez](https://www.linkedin.com/in/albert-suarez-iv-881955138/): ODI Program Manager
 
-## Governance
+### GOVERNANCE
 ODI is only as strong as the people participating and backing up its mission. A few of us meet at least monthly as a group of shared responsibility to manage ODI strategic decisions.
 
 [go to details](/governance)
 
-## Mission
+### MISSION
 
 The Open Data Initiative (ODI) works to ensure government finance data is consistent, transparent, and easily available.
 ODI is administered through Lincoln Network, a 501(c)(3) nonprofit.

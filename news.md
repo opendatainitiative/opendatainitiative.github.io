@@ -4,7 +4,7 @@ permalink: /news
 title: News
 ---
 
-# ODI News
+# News
 All the news about government financial transparency
 
 <table>
