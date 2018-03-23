@@ -35,7 +35,7 @@ Our partner, the Data Coalition, has been working to implement open data at the 
 1. <a target="_blank" href="https://www.datacoalition.org/issues/policy-agenda/#management">What is an open data policy for the US Federal government?</a>
 1. How to make an open data policy into federal legislation? <a target="_blank" href="https://oversight.house.gov/issa-introduces-sweeping-open-government-spending-transparency-reforms/">It takes an open government advocate Chairman of the House Committee on Oversight and Government Reform.</a> 
 1. <a target="_blank" href="https://www.datacoalition.org/issues/data-act/">Implementing an open data policy at the federal level</a>
-1. Index of existing federal legislation. There are a few new federal open data laws in the works, but the <a target="_blank" href="/legislation/2014-05-09-united-states/">DATA Act is it right now.</a>
+1. Index of existing federal legislation. There are a few new federal open data laws in the works, but the <a target="_blank" href="/legislation-review/2018-03-09-united-states-legislation-review/">DATA Act is it right now.</a>
 1. <a href="/assets/doc/ODI_Recommended_Tools.pdf">Government financial transparency tools</a>
 1. <a href="/assets/doc/ODI-Best-Practices.pdf">Best practices for operating government financial transparency tools</a>
 
