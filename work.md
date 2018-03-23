@@ -27,24 +27,24 @@ title: Work
 		<a href="https://github.com/opendatainitiative/opendatalegislation/wiki">Wiki</a><br />
 		<a href="https://github.com/opendatainitiative/opendatalegislation/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
-		<br />Issues progress<progress max="42" value="21"></progress>
-		<br />Bugs progress<progress max="14" value="13"></progress>
+		<br />Issues progress<progress max="45" value="23"></progress>
+		<br />Bugs progress<progress max="15" value="14"></progress>
 		</td>
 		<td width="33%">
 		<a href="https://github.com/opendatainitiative/transparency/">Source</a><br />
 		<a href="https://github.com/opendatainitiative/transparency/wiki">Wiki</a><br />
 		<a href="https://github.com/opendatainitiative/transparency/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
-		<br />Issues progress<progress max="30" value="16"></progress>
-		<br />Bugs progress<progress max="10" value="10"></progress>
+		<br />Issues progress<progress max="32" value="16"></progress>
+		<br />Bugs progress<progress max="11" value="10"></progress>
 		</td>
 		<td width="33%">
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io">Source</a><br />
 		<a href="/about">About</a><br />
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
-		<br />Issues progress<progress max="36" value="15"></progress>
-		<br />Bugs progress<progress max="10" value="8"></progress>
+		<br />Issues progress<progress max="37" value="19"></progress>
+		<br />Bugs progress<progress max="11" value="11"></progress>
 		</td>
 	</tr>
 	<tr>
