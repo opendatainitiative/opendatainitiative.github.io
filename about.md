@@ -1,4 +1,4 @@
-# ODI
+# About
 
 ### THE PEOPLE OF THE OPEN DATA INITITIVE
 * ![Sean Roberts](/assets/img/sean-roberts-headshot.png)[Sean Roberts](https://www.linkedin.com/in/sarob/): ODI Director and Advisory Council Chair
