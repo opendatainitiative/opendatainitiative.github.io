@@ -19,7 +19,7 @@ ODI is only as strong as the people participating and backing up its mission. A 
 
 [go to details](/governance)
 
-<h3><a name=mission>MISSION</a></h3>
+<h3><a name="mission">MISSION</a></h3>
 The Open Data Initiative exists to advance government financial transparency. Through resources, partners, and events, we inform the public and the government on the best open data solutions available. 
 
 Implementing open data technology is much more than just making data available. For example, low quality published government data does not equal transparency. A modern government achieves transparency through open data published in a reporting format ready for data-driven decision making. Open Data Initiative and its partners track the government legislative and technology implementation of machine-readable reporting formats across the United States government.  We publish the results to inform the public and to provide insights for improvements to existing government open data implementations. 
