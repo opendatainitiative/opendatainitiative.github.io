@@ -45,8 +45,8 @@ title: Home
 		 <td colspan="2"><h3>Upcoming events</h3></td>
 	</tr>
 	<tr>
-		 <td colspan="2"><a href="https://www.alec.org/meeting/2018-spring-task-force-summit-grand-rapids-mi/faq/">27 April 2018,.American Legislative Exchange Council (ALEC)</a>. We will be discussing with legislators and staff next steps on open data implementation and legislation</td>
+		 <td colspan="2"><a href="https://www.alec.org/meeting/2018-spring-task-force-summit-grand-rapids-mi/faq/">27 April 2018, American Legislative Exchange Council (ALEC)</a>. We will be discussing with legislators and staff next steps on open data implementation and legislation</td>
 	</tr>
 	<tr>
-		 <td  colspan="2"><a href="/events/2018-05-23-ohio-data-demo-day/">23 May 2018, tentatively, Ohio Data Demo Day</a>. Expect Ohio open data government speakers and meetings. Learn more about it.</td>
+		 <td  colspan="2"><a href="/events/2018-05-23-ohio-data-demo-day/">23 May 2018 tentatively, Ohio Data Demo Day</a>. Expect Ohio open data government speakers and meetings. Learn more about it.</td>
 	</tr>
