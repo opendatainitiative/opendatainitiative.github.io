@@ -4,7 +4,14 @@ permalink: /members
 title: Members
 ---
 # {{ page.title}}
-We want participation from government, technology, and policy advocates in the Open Data Initiative. By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
+ODI uses funding to support it's [mission](/about#mission). Our objectives include:
+
+* continuing to improve open data portal and legislation standards in collaboration with our partners
+* participating and organizing events promoting government financial transparency
+* supporting open data open source projects that match the ODI mission
+* encouraging participation from government, technology, and policy advocates in ODI
+
+By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
 
 ## Partner Members
 <!-- two column table to hold partner member icons -->
