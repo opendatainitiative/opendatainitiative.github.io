@@ -22,20 +22,6 @@ We want participation from engineers, policy experts, and government officials i
 ## Annual Membership Details
 NOTE that ODI Partner Member, Lincoln Network is a 501(c)(3) non-profit organization. Lincoln Network is running ODI administration until such time ODI becomes a non-profit. Your donation will be tax deductible and will go towards the ODI administration and event costs.
 
-<table border="1" cellpadding="5">
-	<tbody>
-		<tr><td>Platinum</td><td>Partner</td><td>Gold</td><td>Silver</td><td>Startup</td><td>Individual</td></tr>
-		<tr><td>$50,000</td><td>Annual significant contribution</td><td>$25,000</td><td>$10,000</td><td>$5,000</td><td>Joins the email mailing list</td></tr>
-		<tr><td>Plan major event with ODI</td><td></td><td></td><td></td><td></td><td></td></tr>
-		<tr><td>Complimentary exhibition space at all major events</td><td></td><td></td><td></td><td></td><td></td></tr>
-		<tr><td>Non-voting Advisory Council appointment</td><td>Non-voting Advisory Council appointment</td><td></td><td></td><td></td><td></td></tr>
-		<tr><td>Priority event sponsorship with 70% discount</td><td>Priority event sponsorship</td><td>Priority event sponsorship with 50% discount</td><td>Priority event sponsorship with 30% discount</td><td>Priority event sponsorship with 30% discount</td><td>Free access to ODI events</td></tr>
-		<tr><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td></td></tr>
-		<tr><td>Plan workshop series with ODI</td><td>Plan workshop event with ODI</td><td>Plan workshop event with ODI</td><td>Plan workshop event with ODI</td><td>Plan workshop event with ODI</td><td></td></tr>
-	</tbody>
-</table>
-<br />
-
 ### Platinum: $50,000
 * Plan customized event with ODI team
 * One on one brainstorm with Director
@@ -83,3 +69,19 @@ NOTE that ODI Partner Member, Lincoln Network is a 501(c)(3) non-profit organiza
 * Free access to ODI events
 * Full access to ODI mailing list archives
 * Full access to ODI mailing lists and projects (ODI will not sell or permit access to the mailing list membership for marketing purposes)
+
+<br />
+<font size="3">
+<table border="1" cellpadding="5">
+	<tbody>
+		<tr><td>Platinum</td><td>Partner</td><td>Gold</td><td>Silver</td><td>Startup</td><td>Individual</td></tr>
+		<tr><td>$50,000</td><td>Annual significant contribution</td><td>$25,000</td><td>$10,000</td><td>$5,000</td><td>Joins the email mailing list</td></tr>
+		<tr><td>Plan major event with ODI</td><td></td><td></td><td></td><td></td><td></td></tr>
+		<tr><td>Complimentary exhibition space at all major events</td><td></td><td></td><td></td><td></td><td></td></tr>
+		<tr><td>Non-voting Advisory Council appointment</td><td>Non-voting Advisory Council appointment</td><td></td><td></td><td></td><td></td></tr>
+		<tr><td>Priority event sponsorship with 70% discount</td><td>Priority event sponsorship</td><td>Priority event sponsorship with 50% discount</td><td>Priority event sponsorship with 30% discount</td><td>Priority event sponsorship with 30% discount</td><td>Free access to ODI events</td></tr>
+		<tr><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td>Logo and listing on ODI website member section</td><td></td></tr>
+		<tr><td>Plan workshop series with ODI</td><td>Plan workshop event with ODI</td><td>Plan workshop event with ODI</td><td>Plan workshop event with ODI</td><td>Plan workshop event with ODI</td><td></td></tr>
+	</tbody>
+</table>
+</font>
