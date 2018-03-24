@@ -7,8 +7,8 @@ title: Work
 
 <table>
 	<tr>
-		<td colspan="6"><h3>ACTIVE PROJECTS</h3>
-		This is where the work is documented and worked on. These are open source projects, so you can find all of the source code, plans, and outstanding work to be completed online, transparent, and available for contribution. We are working on release 1.0 with delivery date of 31 May 2018.</td>
+		<td colspan="6">
+		We are a group of government, technology, and policy advocates working together. Each of these projects is filling a need to make government financial transparency work. All of our ODI work is open source, so you can find all of the source code, documentation, and outstanding work to be completed online, transparent, and available for contribution. We are working on release 1.0 with delivery date of 31 May 2018.</td>
 	</tr>
 	<tr>
 		<td width="33%"><h3>OPEN DATA LEGISLATION</h3>

@@ -4,7 +4,7 @@ permalink: /members
 title: Members
 ---
 # {{ page.title}}
-We want participation from engineers, policy experts, and government officials in Open Data Initiative. By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
+We want participation from government, technology, and policy advocates in the Open Data Initiative. By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
 
 ## Partner Members
 <!-- two column table to hold partner member icons -->

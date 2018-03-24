@@ -5,6 +5,7 @@ title: Resources
 ---
 
 # Resources
+Government, technology, and policy resources organized
 
 ### <a>CITIES</a>:
 Our partner, the Sunlight Foundation, has been working on city open data for years, so there are many references to their resources here. This is a scaled down, stepwise version of the open data resources available from many sources. Find the full Sunlight Foundation <a target="_blank" href="https://sunlightfoundation.com/opendataguidelines/">Open Data Policy Guidelines here</a> and <a target="_blank" href="http://whatworkscities.sunlightfoundation.com/">Public Policy for Public Data Checklist here.</a>

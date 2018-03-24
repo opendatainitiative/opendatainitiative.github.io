@@ -1,11 +1,18 @@
 # About
-
-### THE PEOPLE OF THE OPEN DATA INITITIVE
-![Sean Roberts](/assets/img/sean-roberts-headshot.png)[Sean Roberts](https://www.linkedin.com/in/sarob/): ODI Director and Advisory Council Chair
-
-![Garrett Johnson](/assets/img/garrett-johnson-headshot.png)[Garrett Johnson](https://www.linkedin.com/in/garrettwjohnson/): Lincoln Network Executive Director
-
-![Albert Suarez](/assets/img/albert-suarez-iv-headshot.png)[Albert Suarez](https://www.linkedin.com/in/albert-suarez-iv-881955138/): ODI Program Manager
+<table cellpadding="10">
+	<tr>
+		<td><a href="https://www.linkedin.com/in/sarob/"><img src="/assets/img/sean-roberts-headshot.png"></a></td>
+		<td><h3>Sean Roberts: ODI Director and Advisory Council Chair</h3><br />Sean is a founding member of the OpenStack Foundation. This is in addition to his 20+ years of technology experience at places like Stanford, Yahoo, EDS, ADP, and Electronic Arts. Sean is passionate about donating his time mentoring engineers, participating in technical conferences, leading open source projects, and other public works. As part of volunteering, Sean enjoys public speaking, with more than fifty talks and events over the past few years.</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/garrettwjohnson/"><img src="/assets/img/garrett-johnson-headshot.png"></a></td>
+		<td><h3>Garrett Johnson: Lincoln Network Executive Director</h3><br />Co-founder of Lincoln Network, which is focused on bringing civic organizations and government institutions into the 21st century. Previously Co-founded SendHub [acq. Cameo Global], a Y Combinator backed startup launched in 2011. Served as professional staff to the Ranking Member of the U.S. Senate Foreign Relations Committee. Originally from (Tampa) Florida, graduated in 2005 from Florida State University and was the 2006 NCAA Indoor and Outdoor Shot Put champion. Read for the degree of Master of Philosophy in Migration Studies at the University of Oxford, England as a Rhodes Scholar.</td>
+	</tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/albert-suarez-iv-881955138/"><img src="/assets/img/albert-suarez-iv-headshot.png"></a></td>
+		<td><h3>Albert Suarez: ODI Program Manager</h3><br />Graduated with a Law degree from the University of Texas School of Law in 2015. He is currently balancing his time between Clerking for the US District Courts in the Northern District of Texas, Policy Council for the Lincoln Network, ODI Program Manager, and Advisory Council member.</td>
+	</tr>
+</table>
 
 ### GOVERNANCE
 ODI is only as strong as the people participating and backing up its mission. A few of us meet at least monthly as a group of shared responsibility to manage ODI strategic decisions.
