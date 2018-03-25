@@ -13,32 +13,32 @@ title: Home
 		<td><font size="3">We are a group of government, technology, and policy advocates working together. The Open Data Initiative exists to advance government financial transparency. Through resources, partners, and events, we inform the public and the government on the best open data solutions available.</font></td>
 	</tr>
 	<tr>
-		<td><h3>GOVERNMENT CHECKLISTS</h3></td>
-		<td><h3>OPEN DATA RESOURCES</h3></td>
+		<td width="50%"><h3>GOVERNMENT CHECKLISTS</h3></td>
+		<td width="50%"><h3>OPEN DATA RESOURCES</h3></td>
 	</tr>
 	<tr>
-		<td><a href="/resources#cities">Cities</a></td>
-		<td><a href="/legislation">Open Data Legislation</a></td>
+		<td width="50%"><a href="/resources#cities">Cities</a></td>
+		<td width="50%"><a href="/legislation">Open Data Legislation</a></td>
 	</tr>
 	<tr>
-		<td><a href="/resources#states">States</a></td>
-		<td><a href="/transparency">Government Open Data Portals</a></td>
+		<td width="50%"><a href="/resources#states">States</a></td>
+		<td width="50%"><a href="/transparency">Government Open Data Portals</a></td>
 	</tr>
 	<tr>
-		<td><a href="/resources#us-federal">US Federal</a></td>
-		<td><a href="/resources#open-data-platforms">Open Data Platforms</a></td>
+		<td width="50%"><a href="/resources#us-federal">US Federal</a></td>
+		<td width="50%"><a href="/resources#open-data-platforms">Open Data Platforms</a></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td><a href="/resources#policy-organizations">Policy Organizations</a></td>
+		<td width="50%"></td>
+		<td width="50%"><a href="/resources#policy-organizations">Policy Organizations</a></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td><a href="/resources#universities">Universities</a></td>
+		<td width="50%"></td>
+		<td width="50%"><a href="/resources#universities">Universities</a></td>
 	</tr>
 	<tr>
-		<td></td>
-		<td><a href="/resources#commercial-companies">Commercial Companies</a></td>
+		<td width="50%"></td>
+		<td width="50%"><a href="/resources#commercial-companies">Commercial Companies</a></td>
 	</tr>
 	 <tr>
 		 <td colspan="2"><h3>Upcoming events</h3></td>
