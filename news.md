@@ -11,7 +11,7 @@ All the news about government financial transparency
     {% for name in site.data.news %}
       <tr>
             <td class="tablecolumn largetablecolumn">{{ name.date | date: '%B %d, %Y' }}</td>
-            <td><a href="{{ name.source }}">{{ name.title }}</a></td>
+            <td><a target="_blank" href="{{ name.source }}">{{ name.title }}</a></td>
       <tr>
             <td class="tablecolumn largetablecolumn">{{ name.author }}</td>
             <td>{{ name.excerpt }}</td>

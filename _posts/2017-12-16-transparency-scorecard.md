@@ -4,7 +4,7 @@ title: Transparency Scorecard
 date: 2017-12-16 08:00:00 -0800
 categories: blog
 ---
-### Overview
+### {{ page.title }}
 Late summer 2017, we began investigating government financial transparency status quo by reviewing the US state open financial data and policies. From this research, we created our own transparency scorecard regarding the implementation of open data practices at the state level.
 
 As reference, we reviewed the <a href="https://uspirg.org/reports/usp/following-money-2016-0">2016 PIRG Following the Money report;</a> in which Oregon, Michigan, Indiana, and Ohio, each scored a perfect 100. PIRG is looking for the availability of online spending data and scoring states based on four attributes: is the data available in one place, is all the data available that should be online, is the metadata searchable, and can the data be downloaded.

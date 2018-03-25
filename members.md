@@ -4,12 +4,12 @@ permalink: /members
 title: Members
 ---
 # {{ page.title}}
-ODI uses funding to support it's [mission](/about#mission). Our objectives include:
+ODI uses sponsorship to support it's [mission](/about#mission). Our objectives include:
 
-* continuing to improve open data portal and legislation standards in collaboration with our partners
-* participating and organizing events promoting government financial transparency
-* supporting open data open source projects that match the ODI mission
-* encouraging participation from government, technology, and policy advocates in ODI
+* Continuing to improve open data portal and legislation standards in collaboration with our partners
+* Participating and organizing events promoting government financial transparency
+* Supporting open data open source projects that match the ODI mission
+* Encouraging participation from government, technology, and policy advocates in ODI
 
 By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
 
