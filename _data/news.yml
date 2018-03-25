@@ -16,6 +16,13 @@
     source: https://www.watchdog.org/louisiana/louisiana-state-government-economy-rank-poorly-in-plethora-of-recent/article_9dd26e60-2bab-11e8-b23c-1b365ff2ee14.html
     topic: 
         
+-   title: Unleashing the Power of Financial Data in State and Local Governments
+    date: 2018-03-14
+    author:  C. Christina Ho and Dean Ritz
+    publisher: Workiva
+    excerpt: Tracking the flow of money within the U.S. Government is difficult because the government’s financial system is decentralized, with money flowing from the federal government to many state and local entities. However, if each level of government adopted open data principles, over time the government could track the flow of money between these disparate systems, thereby facilitating clear, transparent models of spending and performance.
+    source: https://www.workiva.com/sites/workiva/files/pdfs/thought-leadership/unleashing-power-financial-data-state-local-government-whitepaper-20180314-j40506.pdf
+    topic: Report
 
 -   title: The California Legislature needs to be more transparent about doing the people’s business
     date: 2018-03-12
@@ -265,6 +272,14 @@
     source: https://www.truthinaccounting.org/news/detail/why-is-truthful-timely-and-transparent-financial-data-important-details
     topic: Report
         
+-   title: Americans’ Views on Open Government Data
+    date: 2015-04-21
+    author:  John Horrigan and Lee Rainie
+    publisher: Pew Research Center
+    excerpt: Government reformers and advocates believe that two contemporary phenomena hold the potential to change how people engage with governments at all levels. The first is data. There is more of it than ever before and there are more effective tools for sharing it. This creates new service-delivery possibilities for government through use of data that government agencies themselves collect and generate. The second is public desire to make government more responsive, transparent and effective in serving citizens — an impulse driven by tight budgets and declining citizens’ trust in government.
+    source: http://www.govtech.com/budget-finance/How-Does-Your-State-Rank-for-Financial-Data-Transparency.html
+    topic: Report
+    
 -   title: How Does Your State Rank for Financial Data Transparency
     date: 2015-03-18
     author: Colin Wood
@@ -295,7 +310,7 @@
     publisher: Tabb Forum
     excerpt:
     source: http://tabbforum.com/opinions/the-case-for-muni-xbrl-bringing-municipal-financial-disclosure-into-the-21st-century
-    topic: Reporting
+    topic: 
     
 -   title: Modernizing California City Financial Reporting
     date: 2013-10-02
@@ -303,4 +318,4 @@
     publisher: Fox and Hounds Daily
     excerpt:
     source: http://www.foxandhoundsdaily.com/2013/10/modernizing-california-city-financial-reporting-2/
-    topic: Reporting
+    topic: 
