@@ -13,6 +13,8 @@ ODI uses membership to support it's [mission](/about#mission). Our objectives in
 
 By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
 
+To join as a member, reach out to Sean Roberts, <a target="_blank" href="mailto:sean@opendataintiative.io?subject=Join as a member">sean@opendataintiative.io</a>.
+
 ## Partner Members
 <!-- two column table to hold partner member icons -->
 <table width="100%" align="center" cellpadding="10">
