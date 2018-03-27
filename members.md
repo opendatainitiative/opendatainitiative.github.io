@@ -4,7 +4,7 @@ permalink: /members
 title: Members
 ---
 # {{ page.title}}
-ODI uses sponsorship to support it's [mission](/about#mission). Our objectives include:
+ODI uses membership to support it's [mission](/about#mission). Our objectives include:
 
 * Continuing to improve open data portal and legislation standards in collaboration with our partners
 * Participating and organizing events promoting government financial transparency
