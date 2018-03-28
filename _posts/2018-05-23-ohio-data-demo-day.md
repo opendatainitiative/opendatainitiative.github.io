@@ -5,10 +5,8 @@ date:   2018-05-23 8:00 -0500
 categories: events
 ---
 ### {{ page.title }}
-Preliminary details:
-* 23 May 2018 is the target date for the event. Not confirmed yet as some details still need to be verified.
-* Lots of ideas for locations to hold the event. We may be able to get space on the State Capital grounds.
-* Morning focused on the Ohio Treasury Office approach to open data and the afternoon on the DataOhio board meeting
-* We want to request Josh Mandell as the headline speaker
-* We want to hold a non-official DataOhio board meeting in the afternoon. 
-* Lots of ideas for sponsors. We will be each speaking with potential sponsors on their interest and reporting back to the group next week. Once we figure out the meeting space, will have sponsorship amounts we will need to go back to the sponsors with.
+<img src="/assets/img/ohiostatehouse-ascii-small.png"><br />Join us for a morning of talks and panels on 23 May 2018, dedicated to the Ohio open data success story at the Office of the Ohio Treasurer in partnership with local governments and schools. Expect notable government and policy speakers discussing how the Office of the Ohio Treasurer set a national race for greater transparency. This event is being held on or near the Ohio State House grounds with details to be finalized shortly.
+
+Open Data Initiative, Data Coalition, Ohio Treasury, PIRG, and Sunlight Foundation are co-organizing this event.
+
+Registration will open soon. <a target="_blank" href="https://docs.google.com/document/d/195WWR05sequDYhyVf1NLKW27zDprAJd_IMMcrlsT-AE/edit?usp=sharing">Sponsorship details are here.</a>
