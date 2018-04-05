@@ -19,24 +19,23 @@ Open Data Initiative, Data Coalition, Ohio Treasury, PIRG, Buckeye Institute, an
 
 Registration will open soon. 
 
-<a target="_blank" href="https://docs.google.com/document/d/195WWR05sequDYhyVf1NLKW27zDprAJd_IMMcrlsT-AE/edit?usp=sharing">Find the sponsorship agreement here with the details and costs.</a>
+<a target="_blank" href="/assets/doc/Ohio-Data-Demo-Day-Sponsorship-Agreement-v1.pdf">Find the sponsorship agreement here with the details and costs.</a> To sponsor this event, email the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
 
-The availability of sponsorship levels and options is this page. As sponsorship levels and options get sold out, it will shown below. Currently available:
+The availability of sponsorship levels and options is this page. As sponsorship levels and options get sold out, it will be shown below. Currently available:
 
 Levels:
-* Headline
+* (1) Headline
 * Premier
 * Spotlight
-* Highlight
-* Exhibitor
 
 Additional Options:
 * (1) Lanyard
 * (1) Coffee Break
 * (1) Water Sponsor
-* (1-2) Panel Questions
 * (1) Half-page Advertisement in Agenda
 * (Limited number) Private meeting room
 * (6-8) Exhibition Tables
+* Travel Assistance
+* (1) Breakfast
 
 Any questions or comments, send to the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
