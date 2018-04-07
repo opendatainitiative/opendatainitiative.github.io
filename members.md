@@ -6,14 +6,23 @@ title: Members
 # {{ page.title}}
 ODI uses membership to support it's [mission](/about#mission). Our objectives include:
 
-* Continuing to improve open data portal and legislation standards in collaboration with our partners
-* Participating and organizing events promoting government financial transparency
-* Supporting open data open source projects that match the ODI mission
-* Encouraging participation from government, technology, and policy advocates in ODI
+* Expand and Improve the Quality of the States’ Open Data Portals
+* Share the Last Four Years of Ohio Treasury Open Data Knowledge to the States and Cities
+* Improve Government Poor Reporting Quality
+* Partner with Experienced Policy Organizations
 
 By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
 
 To join as a member, reach out to Sean Roberts, <a target="_blank" href="mailto:sean@opendatainitiative.io?subject=Join as a member">sean@opendatainitiative.io</a>.
+
+## Platinum Members
+<!-- two column table to hold partner member icons -->
+<table width="100%" align="center" cellpadding="10">
+	<tr>	
+		<td><a href="http://joinlincoln.org/"><img src="{{'/assets/img/lincoln-network-logo-hat-teal-small.png'}}" alt="Lincoln Network"></a></td>
+		<td></td>
+	</tr>
+</table>
 
 ## Partner Members
 <!-- two column table to hold partner member icons -->
