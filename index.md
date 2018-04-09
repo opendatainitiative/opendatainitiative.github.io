@@ -47,5 +47,14 @@ title: Home
 		 <td colspan="2"><a href="https://www.alec.org/meeting/2018-spring-task-force-summit-grand-rapids-mi/faq/">27 April 2018, American Legislative Exchange Council (ALEC)</a>. We will be discussing with legislators and staff next steps on open data implementation and legislation</td>
 	</tr>
 	<tr>
-		 <td  colspan="2"><a href="/events/2018-05-23-ohio-data-demo-day/">23 May 2018, Ohio Data Demo Day</a>. Expect notable government and policy speakers discussing how the Office of the Ohio Treasurer set a national race for greater transparency.</td>
+		 <td colspan="2"><a href="/events/2018-05-23-ohio-data-demo-day/">23 May 2018, Ohio Data Demo Day</a>. Expect notable government and policy speakers discussing how the Office of the Ohio Treasurer set a national race for greater transparency.</td>
+	</tr>
+	<tr>
+		 <td colspan="2"><a href="http://www.cvent.com/events/code-for-america-summit-2018/event-summary-e12d85b157b94d69b80d8911cc641d36.aspx">30 May - 01 June 2018, Seventh Code for America Summit</a>. 2018's Summit will tackle big problems. Join the changemakers who work together across silos, jurisdictions, and sectors to deliver government that works in a digital age.</td>
+	</tr>
+	<tr>
+	<td colspan="2"><a href="http://www.communityleadershipsummit.com/">14-15 July 2018, The Community Leadership Summit 2018</a> brings together community leaders, organizers and managers and the projects and organizations that are interested in growing and empowering a strong community.</td>
+	</tr>
+	<tr>
+		 <td colspan="2"><a href="https://conferences.oreilly.com/oscon/oscon-or?cmp=kn-prog-confreg-home-osor18_branded">16-19 July 2018, 20th Open Source Convention (OSCON)</a>. OSCON has been ground zero of the open source movement. In its 20th year, OSCON continues to be the catalyst for innovation and success for companies.</td>
 	</tr>
