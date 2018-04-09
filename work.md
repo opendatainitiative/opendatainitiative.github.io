@@ -85,4 +85,11 @@ title: Work
 		{% endraw %}
 		</td>
 	</tr>
+	<tr>
+		<td colspan="3"><hr><h3>Open Hub Analysis of the Open Data Initiative Project</h3></td>
+	</tr>
+	<tr>
+		<td><script type='text/javascript' src='https://www.openhub.net/p/opendatainitiative/widgets/project_factoids_stats?format=js'></script></td>
+		<td colspan="2"><a href="https://www.openhub.net/p/_compare?project_1=OpenGovFoundation-Madison&project_2=CKAN&project_0=Open+Data+Initiative">Compare ODI work with other government open data, open source organizations</a></td>
+	</tr>
 </table>
