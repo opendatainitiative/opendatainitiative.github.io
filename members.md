@@ -19,7 +19,7 @@ To join as a member, reach out to Sean Roberts, <a target="_blank" href="mailto:
 <!-- two column table to hold partner member icons -->
 <table width="100%" align="center" cellpadding="10">
 	<tr>	
-		<td><a href="http://joinlincoln.org/"><img src="{{'/assets/img/lincoln-network-logo-hat-teal-small.png'}}" alt="Lincoln Network"></a></td>
+		<td><a target="_blank" href="http://joinlincoln.org/"><img src="{{'/assets/img/lincoln-network-logo-hat-teal-small.png'}}" alt="Lincoln Network"></a></td>
 		<td></td>
 	</tr>
 </table>
@@ -28,15 +28,15 @@ To join as a member, reach out to Sean Roberts, <a target="_blank" href="mailto:
 <!-- two column table to hold partner member icons -->
 <table width="100%" align="center" cellpadding="10">
 	<tr>	
-		<td><a href="http://joinlincoln.org/"><img src="/assets/img/lincoln-network-logo-hat-teal-small.png" alt="Lincoln Network"></a></td>
-		<td><a href="https://www.datacoalition.org/"><img src="/assets/img/DataCoalition2016Logo.png" alt="Data Coalition"></a></td>
+		<td><a target="_blank" href="http://joinlincoln.org/"><img src="/assets/img/lincoln-network-logo-hat-teal-small.png" alt="Lincoln Network"></a></td>
+		<td><a target="_blank" href="https://www.datacoalition.org/"><img src="/assets/img/DataCoalition2016Logo.png" alt="Data Coalition"></a></td>
 	</tr>
 	<tr>
-		<td><a href="http://www.tos.ohio.gov/"><img src="/assets/img/tos-logo.png" alt="tos.ohio.gov"></a></td>
-		<td><a href="http://datrm.in/"><img src="/assets/img/datrmin-logo-small.png" alt="Datrm.in"></a></td>
+		<td><a target="_blank" href="http://www.tos.ohio.gov/"><img src="/assets/img/tos-logo.png" alt="tos.ohio.gov"></a></td>
+		<td><a target="_blank" href="http://datrm.in/"><img src="/assets/img/datrmin-logo-small.png" alt="Datrm.in"></a></td>
 	</tr>
 	<tr>
-		<td><a href="https://uspirg.org/home"><img src="/assets/img/PIRG-logo.png" alt="tos.ohio.gov"></a></td>
+		<td><a target="_blank" href="https://uspirg.org/home"><img src="/assets/img/PIRG-logo.png" alt="tos.ohio.gov"></a></td>
 		<td></td>
 	</tr>
 </table><br />
