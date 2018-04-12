@@ -60,7 +60,6 @@ title: Work
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/27">Manipulate imported PDFs as data through policy (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/28">Visualization tools for imported PDF data (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/12">CA open data workshops (long term project)</a></font></li>
-		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/6">Organize an Ohio Demo Data Day (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/3">Create city open data workshop modeled after Ohio Treasury customer service approach to onboarding cities (long term project)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues/2">What would make this site a information and knowledge resource for state and city officials? (40+hrs)</a></font></li>
 		<li><font size="2"><a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/issues/17">Create a workshop model for Government Financial Report hackathon (40+hrs)</a></font></li>
