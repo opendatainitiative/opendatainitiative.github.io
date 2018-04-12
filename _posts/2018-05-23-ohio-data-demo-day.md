@@ -6,18 +6,33 @@ categories: events
 ---
 ### {{ page.title }}
 <img src="/assets/img/ohiostatehouse-ascii-small.png">
+### Morning Schedule
+The U.S. Public Research Interest Group (PIRG) is a federation of state Public Interest Research Groups (PIRGs) that annually publishes a report rating all 50 US states on providing online access to government spending data. This report is widely used as the best assessment available on state financial transparency. In 2013, PIRG ranked Ohio 46th in the nation for government financial data transparency. Ohio’s Treasurer Josh Mandel took Ohio’s poor ranking as a challenge and set forth to make a change. To accomplish this, Treasurer Mandel built OhioCheckbook.com which for the first time in state history put every dollar spent online in a searchable database.
 
-Sponsor a morning of talks and panels on 23 May 2018, dedicated to the Ohio open data success story at the Office of the Ohio Treasurer in partnership with local governments and schools. Their secret to success has been their dedication to relentless customer service. Expect notable government and policy speakers discussing how this focus on the customer has worked to set off a national race for greater transparency.
+As a result of OhioCheckbook.com, U.S. PIRG announced in March 2015 that Treasurer Mandel and the Ohio Office of the Treasurer had earned Ohio the number one transparency ranking in the country for providing online access to government spending data. Ohio climbed from 46th to 1st in the country, and OhioCheckbook.com received a perfect score of 100 points – the highest score in the history of the U.S. PIRG transparency rankings. However, this was only the beginning of the important work that needed to be accomplished, the hard work of onboarding Ohio municipalities remained. Since then, the Ohio Office of the Treasurer has tackled this problem in partnership with the Ohio local governments and schools, onboarding 1,200 organizations. 
 
-Ohio Bill GA132-HB3 defines a data board (named DataOhio) that would put into law the Office of the Ohio Treasurer's open data policies of the past 4 years. After the morning of talks, in the afternoon, we are going to hold an unofficial DataOhio meeting. This meeting is meant to not only bring attention to the need to pass GA132-HB3, but also outline how the DataOhio board would set standards and function. There is a long list of newspaper, township, city, and policy organizations that will be invited to both the morning and afternoon events. A partial list: Ohio Municipal League, Ohio Township Association, Ohio Association of School Business Officials, Buckeye Association of School Administrators, County Commissioner Association of Ohio, County Auditor Association of Ohio, Ohio Newspaper Association, Ohio Society of CPAs, and Common Cause Ohio. In addition, the Governor, State Treasurer, State Attorney General, Secretary of State, and State Auditor will also be invited.
+Despite the success, significant hurdles remain. Thousands of Ohio government organizations are not participating with OhioCheckbook.com, accounting standards have yet to be broadly standardized and accepted, and the current Ohio Treasury leadership is leaving office.
 
-The morning event will be held on or near the Ohio State House grounds, with the location details to be finalized shortly. We have space for two 20 minute talks and two 45 minute panels. Now that some of the major details have been finalized, we will utilize the invite list for speakers.
+Join us for a morning of talks and panels from 8am to 1:30pm, 23 May 2018, explaining the history and benefits of Ohio government financial transparency and an optimistic view of Ohio government’s open data future.
 
-The afternoon meeting will be held at the State Library. 
+EVENTBRITE MORNING EVENT REGISTRATION LINK
+<img src="/assets/img/ohio-riffe-center-theater.png">
 
-Open Data Initiative, Data Coalition, Ohio Treasury, PIRG, Buckeye Institute, and Sunlight Foundation are co-organizing this event.
+### Afternoon Schedule
+To continue the open data progress of the past four years, Ohio Bill GA132-HB3 establishes an open data board to put into law the Office of the Ohio Treasurer’s open data policies of the past 4 years. [Read the Open Data Initiative review of GA132-HB3 for more details](https://opendatainitiative.github.io/legislation-review/2018-01-25-ohio-hb3-legislation-review/).
 
-Registration will open soon. 
+In the afternoon from 1:30pm to 3:30pm, 23 May 2018, join us as we hold the first unofficial DataOhio Board meeting. This meeting is meant to not only bring attention to the need to pass GA132-HB3, but also outline how the DataOhio board would set standards and function. There is a long list of newspaper, township, city, and policy organizations that are invited to this afternoon event. A partial list: Ohio Municipal League, Ohio Township Association, Ohio Association of School Business Officials, Buckeye Association of School Administrators, County Commissioner Association of Ohio, County Auditor Association of Ohio, Ohio Newspaper Association, Ohio Society of CPAs, and Common Cause Ohio.
+
+This afternoon event has limited availablility, so it is invite only. If you were not invited and should have been, email the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
+
+<a target="_blank" href="https://www.eventbrite.com/e/ohio-dataohio-board-meeting-tickets-44963746777">EVENTBRITE AFTERNOON EVENT REGISTRATION LINK</a>
+<img src="/assets/img/ohio-state-library.png">
+
+<h3><a name="morning-event-sponsors">Morning Event Sponsors</a></h3>
+
+Sponsor a morning of talks and panels on 23 May 2018, dedicated to the Ohio open data success story at the Office of the Ohio Treasurer in partnership with local governments and schools. The secret to the open data success of Office of the Ohio Treasurer has been their dedication to relentless customer service. Expect notable government and policy speakers discussing how this focus on the customer has worked to set off a national race for greater transparency. The morning event will be held at the Riffe Center Theater which is a short walking distance from the State House.
+
+Open Data Initiative, Data Coalition, Ohio Treasury, US Public Interest Research Group, Buckeye Institute, and Sunlight Foundation are co-organizing this event.
 
 <a target="_blank" href="/assets/doc/Ohio-Data-Demo-Day-Sponsorship-Agreement-v1.pdf">Find the sponsorship agreement here with the details and costs.</a> To sponsor this event, email the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
 
