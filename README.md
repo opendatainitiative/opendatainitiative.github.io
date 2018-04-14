@@ -34,3 +34,6 @@ bundle exec jekyll serve
 Open http://localhost:4000 in your browser
 
 Don't see what you're looking for? Create an [issue](https://github.com/opendatainitiative/opendatainitiative.github.io/issues/new), we'll do our best to help you out.
+
+## License
+The underlying Jekyll source code that used to format and display content is licensed under the [MIT license](http://opensource.org/licenses/mit-license.php), the non-code text content displayed by Jekyll is licensed under the [Creative Commons Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/), and code created by the project contributors is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0.html).
