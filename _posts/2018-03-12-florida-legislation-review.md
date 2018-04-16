@@ -27,4 +27,4 @@ By Sean Roberts 12 March 2018
 
 9. Passed the senate
 
-10. Not yet signed into law
+10. Signed by Governor Rick Scott and is now part of the Florida State Statutes
