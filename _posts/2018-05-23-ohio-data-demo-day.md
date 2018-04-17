@@ -15,7 +15,7 @@ Despite the success, significant hurdles remain. Thousands of Ohio government or
 
 Join us for a morning of talks and panels from 8am to 1:30pm, 23 May 2018, explaining the history and benefits of Ohio government financial transparency and an optimistic view of Ohio government’s open data future.
 
-EVENTBRITE MORNING EVENT REGISTRATION LINK
+<a target="_blank" href="https://www.eventbrite.com/e/ohio-data-demo-day-tickets-45220757503">EVENTBRITE MORNING EVENT REGISTRATION LINK</a>
 <img src="/assets/img/ohio-riffe-center-theater.png">
 
 ### Afternoon Schedule
