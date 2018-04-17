@@ -29,6 +29,7 @@ title: Work
 		<!-- progresss max = total issue closed and open, value = total closed-->
 		<br />Issues progress<progress max="45" value="23"></progress>
 		<br />Bugs progress<progress max="15" value="14"></progress>
+		<br />CI software pipeline N/A
 		</td>
 		<td width="33%">
 		<a href="https://github.com/opendatainitiative/transparency/">Source</a><br />
@@ -36,15 +37,17 @@ title: Work
 		<a href="https://github.com/opendatainitiative/transparency/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
 		<br />Issues progress<progress max="32" value="16"></progress>
-		<br />Bugs progress<progress max="11" value="10"></progress>
+		<br />Bugs progress<progress max="12" value="10"></progress>
+		<br />CI software pipeline N/A
 		</td>
 		<td width="33%">
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io">Source</a><br />
 		<a href="/about">About</a><br />
 		<a href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues">Work TBD</a>
 		<!-- progresss max = total issue closed and open, value = total closed-->
-		<br />Issues progress<progress max="37" value="19"></progress>
+		<br />Issues progress<progress max="41" value="21"></progress>
 		<br />Bugs progress<progress max="11" value="11"></progress>
+		<br />CI software pipeline <a href="https://gitlab.com/sarob/opendatainitiative.github.io/commits/master"><img alt="pipeline status" src="https://gitlab.com/sarob/opendatainitiative.github.io/badges/master/pipeline.svg" /></a>
 		</td>
 	</tr>
 	<tr>
