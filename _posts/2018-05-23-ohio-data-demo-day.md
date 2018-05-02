@@ -34,7 +34,7 @@ Sponsor a morning of talks and panels on 23 May 2018, dedicated to the Ohio open
 
 Open Data Initiative, Data Coalition, Ohio Treasury, US Public Interest Research Group, Buckeye Institute, and Sunlight Foundation are co-organizing this event.
 
-<a target="_blank" href="/assets/doc/Ohio-Data-Demo-Day-Sponsorship-Agreement-v1.pdf">Find the sponsorship agreement here with the details and costs.</a> To sponsor this event, email the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
+<a target="_blank" href="/assets/doc/Ohio-Data-Demo-Day-Sponsorship-Agreement-v2.pdf">Find the sponsorship agreement here with the details and costs.</a> To sponsor this event, email the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
 
 The availability of sponsorship levels and options is this page. As sponsorship levels and options get sold out, it will be shown below. Currently available:
 
@@ -50,7 +50,7 @@ Additional Options:
 * (1) Half-page Advertisement in Agenda
 * (Limited number) Private meeting room
 * (6-8) Exhibition Tables
-* Travel Assistance
+* ~~Travel Assistance~~
 * (1) Breakfast
 
 Any questions or comments, send to the ODI Director, Sean Roberts <a target="_blank" href="mailto:sean@opendatainitiative.io">sean@opendatainitiative.io</a>
