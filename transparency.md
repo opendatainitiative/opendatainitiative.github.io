@@ -23,7 +23,7 @@ Also <a target="_blank" href="https://uspirgedfund.org/reports/usf/following-mon
 		<th>Comments</th>
 	</tr>
 {% for name in site.data.transparency %}
-{% assign score = name.2016-pirg-score | times: 0.80 | plus: name.accessibility | plus: name.downloadability | round: 1 %}
+{% assign score = name.2018-pirg-score | times: 0.80 | plus: name.accessibility | plus: name.downloadability | round: 1 %}
   <tr>
   	<td class="tablecolumn"><a target="_blank" href="{{ name.source }}">{{ name.name }}</a></td>
   	<td class="tablecolumn">{{ score }}</td>
@@ -35,4 +35,4 @@ Also <a target="_blank" href="https://uspirgedfund.org/reports/usf/following-mon
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.7.0">revision 0.7.0</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/transparency/tree/0.7.1">revision 0.7.1</a>**
