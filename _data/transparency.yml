@@ -11,6 +11,7 @@
 
 -   name: Alabama
     2016-pirg-score: 60
+    2018-pirg-score: 56
     accessibility: 2
     downloadability: 2
     comments: Not comprehensive and available for download only in PDF format
@@ -20,6 +21,7 @@
     
 -   name: Alaska
     2016-pirg-score: 43
+    2018-pirg-score: 46
     accessibility: 2
     downloadability: 1
     comments: Not user friendly layout. data PDF formats. not available after multiple searches
@@ -29,6 +31,7 @@
     
 -   name: Arizona
     2016-pirg-score: 86
+    2018-pirg-score: 93
     accessibility: 6
     downloadability: 6
     comments: Not easy to navigate. not bulk data download friendly
@@ -38,6 +41,7 @@
             
 -   name: Arkansas
     2016-pirg-score: 82
+    2018-pirg-score: 82
     accessibility: 5
     downloadability: 5
     comments: Easy to download bulk data
@@ -48,6 +52,7 @@
 
 -   name: California
     2016-pirg-score: 34
+    2018-pirg-score: 47
     accessibility: 2
     downloadability: 1
     comments: Poorly reported. PDF formats. not available after multiple searches. not user friendly
@@ -57,6 +62,7 @@
     
 -   name: Colorado
     2016-pirg-score: 93.5
+    2018-pirg-score: 78
     accessibility: 10
     downloadability: 10
     comments: 
@@ -66,6 +72,7 @@
             
 -   name: Connecticut
     2016-pirg-score: 99
+    2018-pirg-score: 93
     accessibility: 10
     downloadability: 10
     comments: 
@@ -75,6 +82,7 @@
 
 -   name: Delaware
     2016-pirg-score: 77
+    2018-pirg-score: 80
     accessibility: 5
     downloadability: 5
     comments: Relatively easy to navigate. interactive. Socrata powered website. Data available for download in .CSV format.
@@ -84,6 +92,7 @@
             
 -   name: Florida
     2016-pirg-score: 96
+    2018-pirg-score: 76
     accessibility: 10
     downloadability: 8
     comments: 
@@ -93,6 +102,7 @@
     
 -   name: Georgia
     2016-pirg-score: 74
+    2018-pirg-score: 57
     accessibility: 4
     downloadability: 3
     comments: Data not comprehensive. PDF documents. not user friendly
@@ -102,6 +112,7 @@
             
 -   name: Hawaii
     2016-pirg-score: 71
+    2018-pirg-score: 48
     accessibility: 5
     downloadability: 5
     comments: Socrata powered website. Uniform layout as compared to other states. graphics. vendor data. time series available
@@ -111,6 +122,7 @@
             
 -   name: Idaho
     2016-pirg-score: 45
+    2018-pirg-score: 58
     accessibility: 2
     downloadability: 3
     comments: Exportable in .csv format. revenues by year. agency etc
@@ -120,6 +132,7 @@
         
 -   name: Illinois
     2016-pirg-score: 93
+    2018-pirg-score: 84
     accessibility: 10
     downloadability: 10
     comments: 
@@ -129,6 +142,7 @@
             
 -   name: Indiana
     2016-pirg-score: 100
+    2018-pirg-score: 83
     accessibility: 10
     downloadability: 10
     comments: 
@@ -138,6 +152,7 @@
             
 -   name: Iowa
     2016-pirg-score: 94.5
+    2018-pirg-score: 91
     accessibility: 10
     downloadability: 10
     comments: 
@@ -147,6 +162,7 @@
     
 -   name: Kansas
     2016-pirg-score: 84
+    2018-pirg-score: 73
     accessibility: 7
     downloadability: 8
     comments: Interactive. bulk data. easy navigation and .csv and PDF files
@@ -156,6 +172,7 @@
             
 -   name: Kentucky
     2016-pirg-score: 88
+    2018-pirg-score: 85
     accessibility: 5
     downloadability: 6
     comments: "Other website for transparency; https://transparency.ky.gov/search/Pages/spendingsearch.aspx#/spending"
@@ -165,6 +182,7 @@
             
 -   name: Louisiana
     2016-pirg-score: 96
+    2018-pirg-score: 90
     accessibility: 7
     downloadability: 7
     comments: Reports can be generated from many dataset with some limitation to how they can be displayed. Only large datasets can be downloaded in xlsx format. 
@@ -173,6 +191,7 @@
             
 -   name: Maine
     2016-pirg-score: 76
+    2018-pirg-score: 62
     accessibility: 4
     downloadability: 4
     comments: Data available in .csv format. but not open to easy manibpulation 
@@ -182,6 +201,7 @@
             
 -   name: Maryland
     2016-pirg-score: 88
+    2018-pirg-score: 63
     accessibility: 7
     downloadability: 6
     comments: 
@@ -191,6 +211,7 @@
             
 -   name: Massachusetts
     2016-pirg-score: 95.5
+    2018-pirg-score: 80
     accessibility: 10
     downloadability: 10
     comments: 
@@ -200,6 +221,7 @@
             
 -   name: Michigan
     2016-pirg-score: 100
+    2018-pirg-score: 78
     accessibility: 10
     downloadability: 10
     comments: 
@@ -209,6 +231,7 @@
             
 -   name: Minnesota
     2016-pirg-score: 86
+    2018-pirg-score: 94
     accessibility: 6
     downloadability: 6
     comments: 
@@ -218,6 +241,7 @@
             
 -   name: Mississippi
     2016-pirg-score: 79
+    2018-pirg-score: 63
     accessibility: 5
     downloadability: 4
     comments: HTML data download facility. difficult to use and manipulate
@@ -227,6 +251,7 @@
             
 -   name: Missouri
     2016-pirg-score: 77
+    2018-pirg-score: 62
     accessibility: 4
     downloadability: 2
     comments: Socrata powered open data website. data not available easily. access to datasets limited
@@ -236,6 +261,7 @@
             
 -   name: Montana
     2016-pirg-score: 92
+    2018-pirg-score: 69
     accessibility: 10
     downloadability: 10
     comments: 
@@ -245,6 +271,7 @@
             
 -   name: Nebraska
     2016-pirg-score: 90
+    2018-pirg-score: 80
     accessibility: 6
     downloadability: 5
     comments: "More data available through; http://www.nebraska.gov/government/open-data/"
@@ -254,6 +281,7 @@
             
 -   name: Nevada
     2016-pirg-score: 83
+    2018-pirg-score: 85
     accessibility: 5
     downloadability: 5
     comments: Difficult to use layout. open data website under consideration. review website at a later stage
@@ -263,6 +291,7 @@
             
 -   name: New Hampshire
     2016-pirg-score: 78
+    2018-pirg-score: 73
     accessibility: 4
     downloadability: 4
     comments: Difficult to navigate layout. data available for bulk download
@@ -272,6 +301,7 @@
 
 -   name: New Jersey
     2016-pirg-score: 83
+    2018-pirg-score: 67
     accessibility: 7
     downloadability: 7
     comments: Easy to access. interactive. bulk downloads
@@ -281,6 +311,7 @@
             
 -   name: New Mexico
     2016-pirg-score: 77
+    2018-pirg-score: 75
     accessibility: 5
     downloadability: 4
     comments: Difficult to navigate but relatively comprehensive database. data available in both .csv and PDF format.
@@ -290,6 +321,7 @@
             
 -   name: New York
     2016-pirg-score: 93
+    2018-pirg-score: 78
     accessibility: 10
     downloadability: 0
     comments: 
@@ -299,6 +331,7 @@
             
 -   name: North Carolina
     2016-pirg-score: 89.5 
+    2018-pirg-score: 76
     accessibility: 6
     downloadability: 5
     comments: 
@@ -308,6 +341,7 @@
             
 -   name: North Dakota
     2016-pirg-score: 64
+    2018-pirg-score: 68
     accessibility: 3
     downloadability: 3
     comments: Most data in .csv format but navigation is difficult
@@ -317,6 +351,7 @@
 
 -   name: Ohio
     2016-pirg-score: 100
+    2018-pirg-score: 98
     accessibility: 10
     downloadability: 10
     comments: 
@@ -326,6 +361,7 @@
             
 -   name: Oklahoma
     2016-pirg-score: 90.5
+    2018-pirg-score: 60
     accessibility: 10
     downloadability: 10
     comments: 
@@ -335,6 +371,7 @@
             
 -   name: Oregon
     2016-pirg-score: 100
+    2018-pirg-score: 81
     accessibility: 10
     downloadability: 10
     comments: 
@@ -344,6 +381,7 @@
         
 -   name: Pennsylvania
     2016-pirg-score: 83
+    2018-pirg-score: 73
     accessibility: 7
     downloadability: 7
     comments: User friendly data catalogs. easy navigation and bulk data downloadability
@@ -353,6 +391,7 @@
             
 -   name: Rhode Island
     2016-pirg-score: 81.5
+    2018-pirg-score: 55
     accessibility: 5
     downloadability: 4
     comments: 
@@ -362,6 +401,7 @@
             
 -   name: South Carolina
     2016-pirg-score: 78
+    2018-pirg-score: 87
     accessibility: 4
     downloadability: 4
     comments: Data available for bulk download in .csv format. but not interactive or easy to use.
@@ -371,6 +411,7 @@
             
 -   name: South Dakota
     2016-pirg-score: 90
+    2018-pirg-score: 72
     accessibility: 5
     downloadability: 5
     comments: 
@@ -380,6 +421,7 @@
             
 -   name: Tennessee
     2016-pirg-score: 85.5
+    2018-pirg-score: 54
     accessibility: 7
     downloadability: 7
     comments: 
@@ -390,6 +432,7 @@
 
 -   name: Texas
     2016-pirg-score: 93.5
+    2018-pirg-score: 82
     accessibility: 8
     downloadability: 10
     comments: 
@@ -399,6 +442,7 @@
             
 -   name: Utah
     2016-pirg-score: 88
+    2018-pirg-score: 78
     accessibility: 7
     downloadability: 6
     comments: Socrata powered primary database. but not single window access.
@@ -408,6 +452,7 @@
             
 -   name: Vermont
     2016-pirg-score: 88
+    2018-pirg-score: 67
     accessibility: 6
     downloadability: 5
     comments: "Easily accessible data but in PDF format; also available at https://data.vermont.gov/" 
@@ -417,6 +462,7 @@
             
 -   name: Virginia
     2016-pirg-score: 82
+    2018-pirg-score: 74
     accessibility: 5
     downloadability: 5
     comments: Easy to use but difficult to find specific datasets. data visualizations for certain datasets using GIS
@@ -426,6 +472,7 @@
             
 -   name: Washington
     2016-pirg-score: 87
+    2018-pirg-score: 71
     accessibility: 6
     downloadability: 6
     comments: User friendly layout. interactive data and open checkbook
@@ -435,6 +482,7 @@
             
 -   name: West Virginia
     2016-pirg-score: 83
+    2018-pirg-score: 98
     accessibility: 10
     downloadability: 10
     comments: 
@@ -444,6 +492,7 @@
             
 -   name: Wisconsin
     2016-pirg-score: 97
+    2018-pirg-score: 94
     accessibility: 7
     downloadability: 10
     comments: 
@@ -453,6 +502,7 @@
             
 -   name: Wyoming
     2016-pirg-score: 73
+    2018-pirg-score: 35
     accessibility: 4
     downloadability: 4
     comments: Data available in PDF format. not available in a single website. but links to others are provided

@@ -47,4 +47,4 @@ Go back to the <a target="_blank" href="/legislation">Summary of Existing Open D
 {% endfor %}
 </table>
 
-**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.8.0">revision 0.8.0</a>**
+**<a target="_blank" href="https://github.com/opendatainitiative/opendatalegislation/tree/0.9.0">revision 0.9.0</a>**

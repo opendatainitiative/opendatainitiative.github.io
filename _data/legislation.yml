@@ -70,7 +70,7 @@
     incentives: 10
     passed-house: 10
     passed-senate: 10
-    signed-law: 0
+    signed-law: 10
     
 -   title: "Relating To Open Data"
     organization: Hawaii
