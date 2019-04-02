@@ -41,14 +41,9 @@ title: Home
 		<td width="50%"><a href="/resources#commercial-companies">Commercial Companies</a></td>
 	</tr>
 	 <tr>
-		 <td colspan="2"><h3>Upcoming events</h3></td>
+		 <td colspan="2"><h3>Current ODI Status</h3></td>
 	</tr>
 	<tr>
-	<td colspan="2"><a href="http://www.communityleadershipsummit.com/">14-15 July 2018, The Community Leadership Summit 2018</a> brings together community leaders, organizers and managers and the projects and organizations that are interested in growing and empowering a strong community.</td>
-	</tr>
-	<tr>
-		<td colspan="2"><a href="https://www.eventbrite.com/e/july-2018-dataohio-meeting-tickets-46860146961">18 July 2018  Ohio State Library, 10:00am -12:00pm EST</a> 3rd DataOhio Meeting</td>
-	</tr>
-	<tr>
-		 <td colspan="2"><a href="https://conferences.oreilly.com/oscon/oscon-or?cmp=kn-prog-confreg-home-osor18_branded">16-19 July 2018, 20th Open Source Convention (OSCON)</a>. OSCON has been ground zero of the open source movement. In its 20th year, OSCON continues to be the catalyst for innovation and success for companies.</td>
+	<td colspan="2"><font size="3">ODI does not have any new events planned at this time. If you want to work with ODI on a project or event, 
+		reach out through LinkedIn messaging <a href='https://www.linkedin.com/in/sarob/">https://www.linkedin.com/in/sarob/</a></font></td>
 	</tr>
