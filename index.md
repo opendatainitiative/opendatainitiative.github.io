@@ -45,5 +45,5 @@ title: Home
 	</tr>
 	<tr>
 	<td colspan="2"><font size="3">ODI does not have any new events planned at this time. If you want to work with ODI on a project or event, 
-		reach out through LinkedIn messaging <a href='https://www.linkedin.com/in/sarob/">https://www.linkedin.com/in/sarob/</a></font></td>
+		reach out through LinkedIn messaging <a href="https://www.linkedin.com/in/sarob/">https://www.linkedin.com/in/sarob/</a></font></td>
 	</tr>
