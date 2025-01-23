@@ -4,63 +4,56 @@ import Link from 'next/link';
 
 const Header = () => {
   return (
-    <header className="relative">
-      {/* Background Image */}
-      <div className="absolute inset-0 z-0">
-        <Image 
-          src="/header-bg.png"
-          alt="Header Background"
-          fill
-          style={{ objectFit: 'cover' }}
-          priority
-        />
-      </div>
-
-      {/* Content */}
-      <div className="relative z-10 container mx-auto px-4 py-4 flex justify-between items-center">
-        {/* Logo */}
-        <Link href="/" className="flex items-center">
+    <div 
+      className="h-[120px]" 
+      style={{
+        backgroundImage: 'url(/header-bg.png)',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center'
+      }}
+    >
+      <div className="container mx-auto h-full flex justify-between items-center px-8">
+        <Link href="/">
           <Image 
             src="/odi-logo-white.png"
             alt="Open Data Initiative"
-            width={350}
-            height={100}
+            width={300}
+            height={80}
             priority
           />
         </Link>
 
-        {/* Navigation */}
         <nav>
-          <ul className="flex space-x-8">
+          <ul className="flex gap-8">
             <li>
-              <Link href="/events" className="text-white hover:text-gray-200 font-medium">
+              <Link href="/events" className="text-white text-sm tracking-wider">
                 EVENTS
               </Link>
             </li>
             <li>
-              <Link href="/members" className="text-white hover:text-gray-200 font-medium">
+              <Link href="/members" className="text-white text-sm tracking-wider">
                 MEMBERS
               </Link>
             </li>
             <li>
-              <Link href="/news" className="text-white hover:text-gray-200 font-medium">
+              <Link href="/news" className="text-white text-sm tracking-wider">
                 NEWS
               </Link>
             </li>
             <li>
-              <Link href="/blog" className="text-white hover:text-gray-200 font-medium">
+              <Link href="/blog" className="text-white text-sm tracking-wider">
                 BLOG
               </Link>
             </li>
             <li>
-              <Link href="/resources" className="text-white hover:text-gray-200 font-medium">
+              <Link href="/resources" className="text-white text-sm tracking-wider">
                 RESOURCES
               </Link>
             </li>
           </ul>
         </nav>
       </div>
-    </header>
+    </div>
   );
 };
 

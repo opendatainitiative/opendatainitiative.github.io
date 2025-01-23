@@ -16,3 +16,4 @@ yarn-error.log*
 
 # System files
 .DS_Store
+dev.log

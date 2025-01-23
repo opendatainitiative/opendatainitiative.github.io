@@ -24,7 +24,7 @@ export default function RootLayout({
         inter.className
       )}>
         <Header />
-        <main className="container mx-auto px-4 pt-40 pb-16">
+        <main className="container mx-auto px-4 py-8">
           {children}
         </main>
         <Footer />
