@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    color: #111827;
+    background-color: white;
+  }
+}
+
+@layer components {
+  .nav-link {
+    color: white;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    display: block;
+  }
+  .nav-link:hover {
+    opacity: 0.8;
+  }
+} 

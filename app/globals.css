@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #000000;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+/* Table Styles */
+.largetablecolumn {
+  max-width: 300px;
+  word-wrap: break-word;
+}
+
+.tablecolumn {
+  padding: 8px;
+  text-align: center;
+}
+
+/* Header Styles */
+header {
+  background-color: #1a1a1a;
+  min-height: 120px;
+}
+
+header nav a {
+  font-size: 14px;
+  letter-spacing: 1px;
+  transition: color 0.2s ease;
+}
+
+@layer components {
+  .nav-link {
+    @apply text-white hover:text-white/80 transition-colors;
+  }
+} 
