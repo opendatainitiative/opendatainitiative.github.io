@@ -20,13 +20,15 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={cn(
-        'min-h-screen bg-background font-sans antialiased',
+        'min-h-screen bg-gray-50 font-sans antialiased',
         inter.className
       )}>
         <Header />
-        <main className="container mx-auto px-4 py-8">
-          {children}
-        </main>
+        <div className="container mx-auto px-1">
+          <main className="bg-white rounded-lg shadow-sm border border-gray-200 p-2 my-2">
+            {children}
+          </main>
+        </div>
         <Footer />
       </body>
     </html>
