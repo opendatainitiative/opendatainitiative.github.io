@@ -24,10 +24,6 @@ export default function MembersPage() {
           By joining ODI, you will be helping to make government financial transparency a reality for all government organizations.
         </p>
 
-        <p className="mb-8">
-          To join as a member, reach out to Sean Roberts, <a href="mailto:sean@opendatainitiative.io?subject=Join as a member" className="text-blue-600 hover:underline">sean@opendatainitiative.io</a>.
-        </p>
-
         <h2 className="text-2xl font-bold mb-4">Platinum Members</h2>
         <div className="grid grid-cols-2 gap-8 mb-8">
           <a href="http://joinlincoln.org/" target="_blank" rel="noopener noreferrer">
