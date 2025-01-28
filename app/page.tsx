@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from 'next/image'
 import Regulations from './components/Regulations';
 import Link from 'next/link';
 

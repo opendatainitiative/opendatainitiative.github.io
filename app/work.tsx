@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 const WorkPage = () => {
   return (
@@ -14,15 +15,21 @@ const WorkPage = () => {
           <tr>
             <td width="33%">
               <h3>OPEN DATA LEGISLATION</h3>
-              <a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="Open Data Legislation" /></a>
+              <a href="/legislation">
+                <Image src="/assets/img/legislation-icon.png" alt="Open Data Legislation" width={200} height={200} />
+              </a>
             </td>
             <td width="33%">
               <h3>GOVERNMENT OPEN DATA PORTALS</h3>
-              <a href="/transparency"><img src="/assets/img/ohiocheckbook-small.png" alt="Transparency" /></a>
+              <a href="/transparency">
+                <Image src="/assets/img/ohiocheckbook-small.png" alt="Transparency" width={200} height={200} />
+              </a>
             </td>
             <td width="33%">
               <h3>ODI WEBSITE</h3>
-              <a href="/"><img src="/assets/img/odi-site.png" alt="ODI Website" /></a>
+              <a href="/">
+                <Image src="/assets/img/odi-site.png" alt="ODI Website" width={200} height={200} />
+              </a>
             </td>
           </tr>
           <tr>
