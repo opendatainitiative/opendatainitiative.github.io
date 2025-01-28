@@ -1,9 +1,51 @@
 import React from 'react';
 import Image from 'next/image'
+import { Carousel } from './components/ui/carousel';
 
 export default function HomePage() {
+  const carouselSlides = [
+    <div key="transparency" className="relative h-[120px] w-full" style={{ backgroundImage: 'url(/header-bg.png)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+      <div className="absolute inset-0 flex items-center justify-center">
+        <div className="max-w-3xl text-center text-white p-4">
+          <h2 className="text-2xl font-bold mb-2">Government Transparency</h2>
+          <p className="text-base">
+            Making government finances accessible and transparent through open data initiatives
+          </p>
+        </div>
+      </div>
+    </div>,
+    <div key="resources" className="relative h-[120px] w-full" style={{ backgroundImage: 'url(/header-bg.png)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+      <div className="absolute inset-0 flex items-center justify-center">
+        <div className="max-w-3xl text-center text-white p-4">
+          <h2 className="text-2xl font-bold mb-2">Open Data Resources</h2>
+          <p className="text-base">
+            Comprehensive guides and tools for implementing open data solutions
+          </p>
+        </div>
+      </div>
+    </div>,
+    <div key="collaboration" className="relative h-[120px] w-full" style={{ backgroundImage: 'url(/header-bg.png)', backgroundSize: 'cover', backgroundPosition: 'center' }}>
+      <div className="absolute inset-0 flex items-center justify-center">
+        <div className="max-w-3xl text-center text-white p-4">
+          <h2 className="text-2xl font-bold mb-2">Collaborative Network</h2>
+          <p className="text-base">
+            Connecting government, technology, and policy advocates for better transparency
+          </p>
+        </div>
+      </div>
+    </div>
+  ];
+
   return (
     <div className="min-h-screen">
+      <div className="w-full">
+        <Carousel 
+          items={carouselSlides}
+          autoPlay={true}
+          interval={6000}
+          className="mb-8"
+        />
+      </div>
       <div className="container mx-auto px-4 pt-32 pb-16">
         <table className="w-full">
           <tbody>
