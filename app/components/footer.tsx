@@ -6,7 +6,6 @@ import { usePathname } from 'next/navigation';
 
 export function Footer() {
   const pathname = usePathname();
-  const isHomePage = pathname === '/';
 
   const getEditPath = () => {
     if (pathname.includes('/legislation')) {
@@ -23,37 +22,35 @@ export function Footer() {
     <footer className="bg-gray-50 border-t">
       <div className="container mx-auto px-4 py-8">
         <div className="space-y-4">
-          {!isHomePage && (
-            <div className="text-sm text-gray-600">
-              For Contributors:{' '}
-              {(pathname.includes('/legislation') || pathname.includes('/transparency') || pathname.includes('/news')) && (
-                <>
-                  <a 
-                    href={getEditPath()} 
-                    target="_blank" 
-                    className="text-blue-600 hover:underline"
-                  >
-                    edit the page data
-                  </a>
-                  ,{' '}
-                </>
-              )}
-              <a 
-                href={`https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master${pathname}`} 
-                target="_blank"
-                className="text-blue-600 hover:underline"
-              >
-                edit the page
-              </a>
-              , or{' '}
-              <Link 
-                href="/contributing" 
-                className="text-blue-600 hover:underline"
-              >
-                get page editing help
-              </Link>
-            </div>
-          )}
+          <div className="text-sm text-gray-600">
+            For Contributors:{' '}
+            {(pathname.includes('/legislation') || pathname.includes('/transparency') || pathname.includes('/news')) && (
+              <>
+                <a 
+                  href={getEditPath()} 
+                  target="_blank" 
+                  className="text-blue-600 hover:underline"
+                >
+                  edit the page data
+                </a>
+                ,{' '}
+              </>
+            )}
+            <a 
+              href={`https://github.com/opendatainitiative/opendatainitiative.github.io/edit/master${pathname}`} 
+              target="_blank"
+              className="text-blue-600 hover:underline"
+            >
+              edit the page
+            </a>
+            , or{' '}
+            <Link 
+              href="/contributing" 
+              className="text-blue-600 hover:underline"
+            >
+              get page editing help
+            </Link>
+          </div>
 
           <div className="text-sm text-gray-600">
             <Link href="/about" className="text-blue-600 hover:underline">
