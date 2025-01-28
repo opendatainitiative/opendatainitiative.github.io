@@ -1,4 +1,5 @@
 import React from 'react';
+import Image from 'next/image';
 
 const WorkPage = () => {
   return (
@@ -14,15 +15,21 @@ const WorkPage = () => {
           <tr>
             <td width="33%">
               <h3>OPEN DATA LEGISLATION</h3>
-              <a href="/legislation"><img src="/assets/img/legislation-icon.png" alt="Open Data Legislation" /></a>
+              <a href="/legislation">
+                <Image src="/assets/img/legislation-icon.png" alt="Open Data Legislation" width={200} height={200} />
+              </a>
             </td>
             <td width="33%">
               <h3>GOVERNMENT OPEN DATA PORTALS</h3>
-              <a href="/transparency"><img src="/assets/img/ohiocheckbook-small.png" alt="Transparency" /></a>
+              <a href="/transparency">
+                <Image src="/assets/img/ohiocheckbook-small.png" alt="Transparency" width={200} height={200} />
+              </a>
             </td>
             <td width="33%">
               <h3>ODI WEBSITE</h3>
-              <a href="/"><img src="/assets/img/odi-site.png" alt="ODI Website" /></a>
+              <a href="/">
+                <Image src="/assets/img/odi-site.png" alt="ODI Website" width={200} height={200} />
+              </a>
             </td>
           </tr>
           <tr>
@@ -40,7 +47,14 @@ const WorkPage = () => {
               <a href="https://github.com/opendatainitiative/opendatainitiative.github.io">Source</a><br />
               <a href="/about">About</a><br />
               <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues">Work TBD</a><br />
-              CI software pipeline <a href="https://gitlab.com/sarob/opendatainitiative.github.io/commits/master"><img alt="pipeline status" src="https://gitlab.com/sarob/opendatainitiative.github.io/badges/master/pipeline.svg" /></a>
+              CI software pipeline <a href="https://gitlab.com/sarob/opendatainitiative.github.io/commits/master">
+                <Image 
+                  alt="pipeline status" 
+                  src="https://gitlab.com/sarob/opendatainitiative.github.io/badges/master/pipeline.svg"
+                  width={100}
+                  height={20}
+                />
+              </a>
             </td>
           </tr>
           <tr>
@@ -82,7 +96,13 @@ const WorkPage = () => {
             </td>
           </tr>
           <tr>
-            <td><script type='text/javascript' src='https://www.openhub.net/p/opendatainitiative/widgets/project_factoids_stats?format=js'></script></td>
+            <td>
+              <script 
+                type='text/javascript' 
+                src='https://www.openhub.net/p/opendatainitiative/widgets/project_factoids_stats?format=js'
+                async
+              />
+            </td>
             <td colSpan={2}><a href="https://www.openhub.net/p/_compare?project_1=OpenGovFoundation-Madison&project_2=CKAN&project_0=Open+Data+Initiative">Compare ODI work with other government open data, open source organizations</a></td>
           </tr>
         </tbody>

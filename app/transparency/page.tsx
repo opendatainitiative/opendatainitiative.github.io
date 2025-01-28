@@ -53,8 +53,8 @@ const TransparencyPage = () => {
 
       <p className="mt-4">
         <strong>
-          <a href="https://github.com/opendatainitiative/transparency/tree/0.7.1" target="_blank">
-            revision 0.7.1
+          <a href="https://github.com/opendatainitiative/transparency/tree/master" target="_blank">
+            latest revision
           </a>
         </strong>
       </p>
