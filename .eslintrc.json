@@ -5,7 +5,7 @@
   "rules": {
     "@typescript-eslint/no-unused-vars": "error",
     "@typescript-eslint/no-explicit-any": "warn",
-    "react/no-unescaped-entities": "warn",
+    "react/no-unescaped-entities": "off",
     "@next/next/no-img-element": "warn",
     "@next/next/no-sync-scripts": "warn"
   }

@@ -47,7 +47,14 @@ const WorkPage = () => {
               <a href="https://github.com/opendatainitiative/opendatainitiative.github.io">Source</a><br />
               <a href="/about">About</a><br />
               <a href="https://github.com/opendatainitiative/opendatainitiative.github.io/issues">Work TBD</a><br />
-              CI software pipeline <a href="https://gitlab.com/sarob/opendatainitiative.github.io/commits/master"><img alt="pipeline status" src="https://gitlab.com/sarob/opendatainitiative.github.io/badges/master/pipeline.svg" /></a>
+              CI software pipeline <a href="https://gitlab.com/sarob/opendatainitiative.github.io/commits/master">
+                <Image 
+                  alt="pipeline status" 
+                  src="https://gitlab.com/sarob/opendatainitiative.github.io/badges/master/pipeline.svg"
+                  width={100}
+                  height={20}
+                />
+              </a>
             </td>
           </tr>
           <tr>
@@ -89,7 +96,13 @@ const WorkPage = () => {
             </td>
           </tr>
           <tr>
-            <td><script type='text/javascript' src='https://www.openhub.net/p/opendatainitiative/widgets/project_factoids_stats?format=js'></script></td>
+            <td>
+              <script 
+                type='text/javascript' 
+                src='https://www.openhub.net/p/opendatainitiative/widgets/project_factoids_stats?format=js'
+                async
+              />
+            </td>
             <td colSpan={2}><a href="https://www.openhub.net/p/_compare?project_1=OpenGovFoundation-Madison&project_2=CKAN&project_0=Open+Data+Initiative">Compare ODI work with other government open data, open source organizations</a></td>
           </tr>
         </tbody>

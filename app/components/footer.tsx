@@ -2,11 +2,8 @@
 
 import Image from 'next/image';
 import Link from 'next/link';
-import { usePathname } from 'next/navigation';
 
 export function Footer() {
-  const pathname = usePathname();
-
   return (
     <footer className="bg-gray-50 border-t">
       <div className="container mx-auto px-4 py-8">
