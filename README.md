@@ -2,11 +2,7 @@
 
 ## About
 
-The Open Data Initiative website is a Next.js-powered platform dedicated to promoting government transparency and open data compliance. This website serves as a central hub for resources, information, and tools related to open data regulations and government transparency initiatives.
-
-## Purpose
-
-- Provide comprehensive information about regulations, open data and compliance requirements
+The Open Data Initiative website is a Next.js-powered platform dedicated to promoting government transparency and policies with a focus on Northern California. This project will be posting X as @cali_doge.
 
 ## Technical Stack
 
@@ -18,12 +14,38 @@ The Open Data Initiative website is a Next.js-powered platform dedicated to prom
 
 ## Features
 
-- Open Data Regulations Guide
-- Government Transparency Resources
-- Interactive Components
-- Blog Posts and Updates
-- Responsive Design
-- Accessibility-Focused Interface
+- California Regulations
+- Government Transparency
+- X Posts
+
+## Development Workflow
+
+### Code Quality, Coverage
+
+- **Linting**: ESLint with TypeScript support and Next.js core web vitals rules
+- **Type Checking**: Strict TypeScript configuration
+- **Pre-commit Hooks**: Husky enforces linting and testing on the master branch
+- **Code Style**: Follows Next.js best practices and React patterns
+- **Coverage**: tracking available via `npm run test:coverage`
+
+### CI/CD Pipeline
+
+- **Branch Strategy**:
+  - `master`: Production-ready code
+  - `develop`: Integration branch for feature development
+  - branches should branch from and merge back to `develop`
+
+- **Steps**
+   - Dev: local code creation, packaging and unit tests as pre-commit before commiting  to `develop`
+   - Stage: on 'develop' PR creation, runs integration and security tests
+   - Once 'develop' code is considered ready for release, then commit changes to 'master'
+   - Preview: on 'master' PR creation, runs e2e tests
+   - Production: on 'master' PR merge, triggers deployment to production
+
+- **Environments**
+   - localhost (dev)
+   - Github runners (stage)
+   - Vercel (preview, production)
 
 ## Getting Started
 
