@@ -8,9 +8,9 @@ The Federal DOGE seems like a good model to start with. Follow where the costs a
 
 Following Chamath Palihapitiya’s analogy of government spending as a three layer onion:
 
-# people: review headcounts and their job titles. what is theit purpose and fuunction.
-# Infrastructure: building leases. many are on 1 year leases and remain largely unused and empty. 
-# Service and IT: this area might be an interesting place find spending as it is generally overlooked. these contracts can be large and long lasting. 
+ 1. people: review headcounts and their job titles. what is theit purpose and fuunction.
+1.  Infrastructure: building leases. many are on 1 year leases and remain largely unused and empty. 
+1.  Service and IT: this area might be an interesting place find spending as it is generally overlooked. these contracts can be large and long lasting. 
 
 This project will be posting X as @cali_doge.
 
