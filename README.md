@@ -2,9 +2,9 @@
 
 ## About
 
-The Open Data Initiative website is a Next.js-powered platform dedicated to reviewing government transparency and policies with a focus on Northern California. 
+The Open Data Initiative website is a Next.js-powered platform dedicated to reviewing government transparency and policies with a focus on Northern California and SF Bay Area business competitiveness. 
 
-The Federal DOGE seems like a good model to start with. Follow where the costs are. We can follow DOGE's progress and adopt their methods and approach where appropriate. 
+The Federal DOGE seems like a good model to start with. Follow where the costs are. We can follow DOGE's progress and adopt their methods and approach where appropriate. There are a few groups and areas that are interesting to research such as California Air Resources Board (CARB), California Coastal Commission (CCC), energy, water, transportation, and prisons. We can discover more where these intesect Northern California and the SF Bay Area. 
 
 Following Chamath Palihapitiya’s analogy of government spending as a three layer onion:
 
@@ -12,7 +12,7 @@ Following Chamath Palihapitiya’s analogy of government spending as a three lay
 1.  Infrastructure: building leases. many are on 1 year leases and remain largely unused and empty. 
 1.  Service and IT: this area might be an interesting place find spending as it is generally overlooked. these contracts can be large and long lasting. 
 
-This project will be posting X as @cali_doge.
+This project will be posting to X as @cali_doge.
 
 ## Technical Stack
 
