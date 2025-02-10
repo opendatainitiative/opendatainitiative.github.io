@@ -4,11 +4,14 @@
 
 The Open Data Initiative website is a Next.js-powered platform dedicated to reviewing government transparency and policies with a focus on Northern California. 
 
-The Federal DOGE seems like a good model to start with. We will follow DOGE's progress and adopt their methods and approach where appropriate. 
+The Federal DOGE seems like a good model to start with. Follow where the costs are. We can follow DOGE's progress and adopt their methods and approach where appropriate. 
+
 Following Chamath Palihapitiya’s analogy of government spending as a three layer onion:
-	- people: review headcounts and their job titles. what is theit purpose and fuunction.
-	- Infrastructure: building leases. many are on 1 year leases and remain largely unused and empty. 
-	- Service and IT: this area might be an interesting place find spending as it is generally overlooked. these contracts can be large and long lasting. 
+
+# people: review headcounts and their job titles. what is theit purpose and fuunction.
+# Infrastructure: building leases. many are on 1 year leases and remain largely unused and empty. 
+# Service and IT: this area might be an interesting place find spending as it is generally overlooked. these contracts can be large and long lasting. 
+
 This project will be posting X as @cali_doge.
 
 ## Technical Stack
