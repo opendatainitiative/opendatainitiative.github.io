@@ -86,13 +86,13 @@ export default function GovernmentTransparency() {
           </tr>
           <tr>
             <td colSpan={2} className="p-4">
-              <h3 className="text-xl font-bold mb-4">Current ODI Status</h3>
+              <h3 className="text-xl font-bold mb-4">ODI Government Transparency Status</h3>
             </td>
           </tr>
           <tr>
             <td colSpan={2} className="p-4">
               <p className="text-lg">
-                ODI has been dormant since 2018 and does not have any new events planned at this time. If you want to work with ODI on a project or event, reach out through LinkedIn messaging <a href="https://www.linkedin.com/in/sarob/" className="text-blue-600 hover:text-blue-800">https://www.linkedin.com/in/sarob/</a>
+                This part of ODI has been dormant since 2018. If you are interested in working on this content and improving it, use the link in the footer below to propose a change.
               </p>
             </td>
           </tr>
