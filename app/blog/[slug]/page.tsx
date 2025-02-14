@@ -1,6 +1,7 @@
 import { getAllPosts } from '@/lib/blog'
 import { notFound } from 'next/navigation'
 import { Metadata } from 'next'
+import BackButton from '@/app/components/BackButton'
 
 type Props = {
   params: {
@@ -33,6 +34,7 @@ export default async function BlogPost({ params }: Props) {
 
   return (
     <div className="container mx-auto px-4 pt-32">
+      <BackButton />
       <article className="prose prose-lg max-w-none">
         <h1 className="text-4xl font-bold mb-4">{post.title}</h1>
         <time className="text-gray-600 block mb-8">
