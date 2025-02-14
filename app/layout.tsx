@@ -3,7 +3,6 @@ import { Inter } from 'next/font/google'
 import './globals.css'
 import { Navbar } from './components/Navbar'
 import { Footer } from './components/footer'
-import { generateCarouselSlides } from './page'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -17,12 +16,11 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
-  const carouselSlides = generateCarouselSlides();
 
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Navbar carouselSlides={carouselSlides} />
+        <Navbar />
         <main>
           {children}
         </main>
