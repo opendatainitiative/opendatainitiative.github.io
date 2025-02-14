@@ -1,7 +1,7 @@
 ---
 title: "DOGE Update as of 13 Feb 2025"
 date: "2025-02-13"
-author: "Open Data Initiative"
+author: "Sean Roberts"
 image: "/budgetchallenge.org_CA_2024-25_budget.png"
 description: "Latest developments in the Department of Government Efficiency (DOGE) initiative and its potential implications for state governments."
 ---
