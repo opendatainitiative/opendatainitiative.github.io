@@ -1,3 +1,10 @@
+---
+title: "USAID Connections to California Organizations"
+date: 2025-02-15 08:00:00 -0800
+author: "Sean Roberts"
+image: 
+description: "USAID has been shutdown due to poor oversight of its programs. The connections to California organizations need scrutiny to verify if the problems extend to the golden state."
+---
 
 # USAID's Collaborative History with California-Based Entities
 
