@@ -8,6 +8,14 @@ description: "Latest developments in the Department of Government Efficiency (DO
 
 Here are the most recent major developments regarding the Department of Government Efficiency (DOGE) as of February 13, 2025, along with analysis of potential implications for state governments.
 
+## All-In Podcast Comments on DOGE
+Following Chamath’s DOGE analogy 
+- government spending is a three layer onion
+	- people: headcount, job titles
+	- Infrastructure: business leases
+	- Service and IT: might be the real place to find spending as it is less obvious and generally overlooked
+- Also documenting, reviewing each organization's mission and how their activities align with that mission. 
+
 ## Recent Federal Developments
 
 ### Deferred Resignation Program Results
