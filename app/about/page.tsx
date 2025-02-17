@@ -3,11 +3,17 @@ import Image from 'next/image';
 
 export default function AboutPage() {
   return (
-    <div className="container mx-auto px-4 pt-32">
-      <div className="max-w-4xl mx-auto">
-        <h1 className="text-3xl font-bold mb-8">About</h1>
+    <div className="container mx-auto px-4 pt-32 pb-16">
+      <div className="max-w-4xl mx-auto space-y-12">
+        <section className="text-center space-y-6">
+          <h1 className="text-4xl font-bold">About DOGE</h1>
+          <p className="text-xl text-gray-600 max-w-2xl mx-auto">
+            The Department of Government Efficiency (DOGE) initiative aims to improve transparency 
+            and efficiency in government operations through data-driven analysis.
+          </p>
+        </section>
 
-        <div className="space-y-8 mb-12">
+        <section className="space-y-8 mb-12">
           <div className="flex gap-8 items-start">
             <a href="https://www.linkedin.com/in/sarob/" target="_blank" rel="noopener noreferrer">
               <Image 
@@ -36,14 +42,53 @@ export default function AboutPage() {
               </p>
             </div>
           </div>
+        </section>
 
-          <h3 id="mission" className="text-2xl font-bold mb-4">Mission</h3>
+        <section className="bg-white p-8 rounded-lg shadow-sm border border-gray-200">
+          <h2 className="text-2xl font-semibold mb-6">Our Mission</h2>
           <div className="space-y-4">
             <p>
-            The Open Data Institute is a non-profit group dedicated to promoting the use of open data for public benefit. We believe that open data can help solve some of the world's most pressing problems, and we are committed to making it easier for people to access and use open data.
+              We analyze government spending and regulations through a three-layer approach:
+            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li><strong>People:</strong> Understanding workforce distribution and roles</li>
+              <li><strong>Infrastructure:</strong> Analyzing physical assets and operational costs</li>
+              <li><strong>Services & IT:</strong> Examining digital infrastructure and service delivery</li>
+            </ul>
+            <p className="mt-4">
+              Our goal is to provide clear, actionable insights that can lead to more efficient 
+              government operations and better public services.
             </p>
           </div>
-        </div>
+        </section>
+
+        <section className="bg-white p-8 rounded-lg shadow-sm border border-gray-200">
+          <h2 className="text-2xl font-semibold mb-6">Get Involved</h2>
+          <div className="space-y-4">
+            <p>
+              We welcome volunteers to help with:
+            </p>
+            <ul className="list-disc pl-5 space-y-2">
+              <li>Strategy development and research</li>
+              <li>Content updates and data analysis</li>
+              <li>Social media engagement and outreach</li>
+            </ul>
+            <div className="mt-6">
+              <p className="font-medium">How to contribute:</p>
+              <ul className="list-disc pl-5 space-y-2 mt-2">
+                <li>Follow us on X (Twitter) for updates</li>
+                <li>Submit issues or pull requests on GitHub</li>
+                <li>Share your expertise through content contributions</li>
+              </ul>
+            </div>
+            <div className="mt-8 p-4 bg-gray-50 rounded-lg">
+              <p className="text-sm text-gray-600">
+                We maintain an apolitical approach, focusing solely on data analysis and transparency. 
+                Our goal is to present facts and insights that can help improve government efficiency.
+              </p>
+            </div>
+          </div>
+        </section>
       </div>
     </div>
   );
