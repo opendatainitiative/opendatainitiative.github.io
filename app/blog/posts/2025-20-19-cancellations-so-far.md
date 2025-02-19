@@ -1,4 +1,12 @@
-Below is the fully expanded table including every individual cancellation, funding freeze, or recovery action we could identify from public documents and news reports for 2025. New rows that capture additional—and smaller—cancellations or program terminations are appended at the bottom.
+---
+title: "Cancellations So Far"
+date: 2025-02-19 08:00:00 -0800
+author: "Sean Roberts"
+image: 
+description: "This is a table of every individual cancellation, funding freeze, or recovery action we could identify from public documents and news reports for 2025. May be missing DOGE reported data. "
+---
+
+This is a table of every individual cancellation, funding freeze, or recovery action we could identify from public documents and news reports for 2025. May be missing DOGE reported data. 
 
 | Program/Grant/Contract                                                                  | Federal Agency (or Agencies)                                                      | Cancellation / Action Date      | Amount Cancelled / Impact      | Description / Purpose                                                                                                                                                  | Notes / Reference                                                                                                                                                                                                              |
 |-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|---------------------------------|-------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
