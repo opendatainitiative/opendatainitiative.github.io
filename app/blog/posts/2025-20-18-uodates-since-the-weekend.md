@@ -4,6 +4,7 @@ date: 2025-02-18 08:00:00 -0800
 author: "Sean Roberts"
 image: 
 description: "Since the weekend of February 15-16, 2025, DOGE has focused on continuing its efficiency initiatives. They are working with agencies to simplify the credit card program"
+---
 
 # Ongoing Efforts
 Since the weekend of February 15-16, 2025, DOGE has focused on continuing its efficiency initiatives. They are working with agencies to simplify the credit card program, which involves 4.6 million active cards processing $40 billion in FY24, and plan to report back in one week. They are also seeking public input to identify waste, fraud, and abuse through their X affiliate accounts.
