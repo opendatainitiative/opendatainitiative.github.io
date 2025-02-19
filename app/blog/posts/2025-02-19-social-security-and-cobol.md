@@ -1,13 +1,18 @@
-title: Social Security Records and Centenarians: A Data Analysis
+---
+title: "Social Security and COBOL "
+date: 2025-02-19 08:00:00 -0800
+author: "Sean Roberts"
 image: 
+description: "Recent investigations into Social Security Administration (SSA) records have revealed an intriguing statistical anomaly regarding beneficiary age data."
+---
 
-Recent investigations into Social Security Administration (SSA) records have revealed an intriguing statistical anomaly regarding beneficiary age data. This analysis examines the facts behind the headlines and provides context for understanding these findings.
+Recent investigations into Social Security Administration (SSA) records have revealed an intriguing statistical anomaly regarding beneficiary age data.
 
-## The Data Landscape
+## The Data
 
 The SSA's database contains approximately 19 million records for individuals born before 1920, yet only 44,000 of these accounts actively receive benefits. This stark contrast between recorded entries and actual beneficiaries presents an interesting case study in government record-keeping and data management.
 
-## Technical Infrastructure Context
+## Technical Infrastructure
 
 At the core of this statistical phenomenon lies the SSA's legacy computing infrastructure. The administration's systems, built on COBOL programming language, employ specific date-handling protocols that can create apparent age discrepancies. When birth dates are undefined in the system, they default to May 20, 1875, creating records that appear to represent individuals well over 100 years old.
 
@@ -15,7 +20,7 @@ At the core of this statistical phenomenon lies the SSA's legacy computing infra
 
 Current U.S. Census Bureau data provides valuable context, documenting approximately 86,000 centenarians living in the United States. This figure aligns with demographic expectations and actuarial tables. The SSA maintains robust verification systems, including automatic payment cessation at age 115 and a documented payment accuracy rate of 99.8%.
 
-## System Performance Metrics
+## System Performance
 
 Between 2020-2023, the SSA reported $300 million in improper payments, representing 0.003% of total expenditures. This figure demonstrates the system's overall efficiency while highlighting areas for potential improvement in payment verification protocols.
 
