@@ -37,6 +37,11 @@ export default function SocialButtons() {
       imagePath: '/doge_website.png'
     },
     {
+      name: 'Cali-DOGE',
+      url: 'https://cali-doge.org',
+      imagePath: '/cali-doge-web.png'
+    },
+    {
       name: 'Cali_DOGE on X',
       url: 'https://x.com/cali_doge',
       imagePath: '/cali_doge_on_x.png'
