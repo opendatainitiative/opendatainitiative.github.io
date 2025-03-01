@@ -21,6 +21,12 @@ The eight selected recipients for the $20 billion in grant awards within the Gre
 
 These organizations were selected to receive funding from the $27 billion GGRF created under the Inflation Reduction Act, with three recipients coming from the $14 billion National Clean Investment Fund and five from the $6 billion Clean Communities Investment Accelerator[1].
 
+Coalition for Green Capital (CGC): CGC has a pipeline of Commercial Property Assessed Clean Energy (C-PACE) loans in California, which indicates they work with California’s C-PACE program, a financing mechanism that requires coordination with state and local government authorities.
+
+Inclusiv: Formed a “first-of-its-kind partnership” with Governor Newsom’s Administration in 2019 to source diverse talent and help California government better reflect the diversity of the state. This partnership involved working with more than 40 organizations to create a diverse talent pool for appointments within the Newsom Administration and across state government.
+
+Native CDFI Network: While not showing direct California state government connections, they launched an initiative to enhance economic opportunities for Native American communities in California and Nevada, which likely involves some level of interaction with California tribal governments and potentially state agencies that work with tribal communities.
+
 Sources
 [1] EPA Announces $20 Billion for Selected Greenhouse Gas ... https://iratracker.org/actions/epa-announces-20-billion-for-selected-greenhouse-gas-reduction-fund-awardees/
 [2] Groups frozen out of $20B in EPA cash fear bankruptcy - Politico https://www.politico.com/news/2025/02/28/groups-frozen-out-of-epa-cash-fear-bankruptcy-00206733
